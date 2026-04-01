@@ -1,0 +1,4098 @@
+3 3 3 3 secvential JAVA 5908
+3 3 3 3 linii 1 JAVA 332651
+3 3 3 3 coloane 1 JAVA 141158
+3 3 3 3 blocuri 1 JAVA 178798
+3 3 3 3 distributie liniara 1 JAVA 382240
+3 3 3 3 distributie ciclica 1 JAVA 92716
+3 3 3 3 secvential JAVA 5934
+3 3 3 3 linii 1 JAVA 370439
+3 3 3 3 coloane 1 JAVA 207620
+3 3 3 3 blocuri 1 JAVA 116165
+3 3 3 3 distributie liniara 1 JAVA 394919
+3 3 3 3 distributie ciclica 1 JAVA 117404
+3 3 3 3 secvential JAVA 6272
+3 3 3 3 linii 1 JAVA 341037
+3 3 3 3 coloane 1 JAVA 142402
+3 3 3 3 blocuri 1 JAVA 185579
+3 3 3 3 distributie liniara 1 JAVA 354643
+3 3 3 3 distributie ciclica 1 JAVA 95999
+3 3 3 3 secvential JAVA 6268
+3 3 3 3 linii 1 JAVA 324432
+3 3 3 3 coloane 1 JAVA 166080
+3 3 3 3 blocuri 1 JAVA 159894
+3 3 3 3 distributie liniara 1 JAVA 359074
+3 3 3 3 distributie ciclica 1 JAVA 88348
+3 3 3 3 secvential JAVA 6225
+3 3 3 3 linii 1 JAVA 333175
+3 3 3 3 coloane 1 JAVA 139303
+3 3 3 3 blocuri 1 JAVA 238187
+3 3 3 3 distributie liniara 1 JAVA 361251
+3 3 3 3 distributie ciclica 1 JAVA 72562
+3 3 3 3 secvential JAVA 6442
+3 3 3 3 linii 1 JAVA 392106
+3 3 3 3 coloane 1 JAVA 149100
+3 3 3 3 blocuri 1 JAVA 151529
+3 3 3 3 distributie liniara 1 JAVA 384508
+3 3 3 3 distributie ciclica 1 JAVA 81970
+3 3 3 3 secvential JAVA 6009
+3 3 3 3 linii 1 JAVA 404563
+3 3 3 3 coloane 1 JAVA 177595
+3 3 3 3 blocuri 1 JAVA 124193
+3 3 3 3 distributie liniara 1 JAVA 377943
+3 3 3 3 distributie ciclica 1 JAVA 114961
+3 3 3 3 secvential JAVA 5994
+3 3 3 3 linii 1 JAVA 467129
+3 3 3 3 coloane 1 JAVA 253643
+3 3 3 3 blocuri 1 JAVA 141923
+3 3 3 3 distributie liniara 1 JAVA 479700
+3 3 3 3 distributie ciclica 1 JAVA 140024
+3 3 3 3 secvential JAVA 6413
+3 3 3 3 linii 1 JAVA 355601
+3 3 3 3 coloane 1 JAVA 171311
+3 3 3 3 blocuri 1 JAVA 243835
+3 3 3 3 distributie liniara 1 JAVA 390147
+3 3 3 3 distributie ciclica 1 JAVA 107990
+3 3 3 3 secvential JAVA 6110
+3 3 3 3 linii 1 JAVA 372422
+3 3 3 3 coloane 1 JAVA 168377
+3 3 3 3 blocuri 1 JAVA 129990
+3 3 3 3 distributie liniara 1 JAVA 603139
+3 3 3 3 distributie ciclica 1 JAVA 122294
+3 3 3 3 secvential JAVA 6348
+3 3 3 3 linii 2 JAVA 421448
+3 3 3 3 coloane 2 JAVA 232102
+3 3 3 3 blocuri 2 JAVA 280652
+3 3 3 3 distributie liniara 2 JAVA 407855
+3 3 3 3 distributie ciclica 2 JAVA 125169
+3 3 3 3 secvential JAVA 6360
+3 3 3 3 linii 2 JAVA 433758
+3 3 3 3 coloane 2 JAVA 205857
+3 3 3 3 blocuri 2 JAVA 193494
+3 3 3 3 distributie liniara 2 JAVA 816149
+3 3 3 3 distributie ciclica 2 JAVA 173441
+3 3 3 3 secvential JAVA 6081
+3 3 3 3 linii 2 JAVA 426358
+3 3 3 3 coloane 2 JAVA 327470
+3 3 3 3 blocuri 2 JAVA 183592
+3 3 3 3 distributie liniara 2 JAVA 509373
+3 3 3 3 distributie ciclica 2 JAVA 102156
+3 3 3 3 secvential JAVA 6434
+3 3 3 3 linii 2 JAVA 440110
+3 3 3 3 coloane 2 JAVA 305328
+3 3 3 3 blocuri 2 JAVA 178387
+3 3 3 3 distributie liniara 2 JAVA 409876
+3 3 3 3 distributie ciclica 2 JAVA 127599
+3 3 3 3 secvential JAVA 8566
+3 3 3 3 linii 2 JAVA 615953
+3 3 3 3 coloane 2 JAVA 267246
+3 3 3 3 blocuri 2 JAVA 291487
+3 3 3 3 distributie liniara 2 JAVA 575147
+3 3 3 3 distributie ciclica 2 JAVA 167065
+3 3 3 3 secvential JAVA 5976
+3 3 3 3 linii 2 JAVA 505264
+3 3 3 3 coloane 2 JAVA 274194
+3 3 3 3 blocuri 2 JAVA 200542
+3 3 3 3 distributie liniara 2 JAVA 417331
+3 3 3 3 distributie ciclica 2 JAVA 130862
+3 3 3 3 secvential JAVA 5998
+3 3 3 3 linii 2 JAVA 430657
+3 3 3 3 coloane 2 JAVA 218428
+3 3 3 3 blocuri 2 JAVA 249574
+3 3 3 3 distributie liniara 2 JAVA 417129
+3 3 3 3 distributie ciclica 2 JAVA 131066
+3 3 3 3 secvential JAVA 5999
+3 3 3 3 linii 2 JAVA 527485
+3 3 3 3 coloane 2 JAVA 238167
+3 3 3 3 blocuri 2 JAVA 511481
+3 3 3 3 distributie liniara 2 JAVA 605257
+3 3 3 3 distributie ciclica 2 JAVA 137102
+3 3 3 3 secvential JAVA 6099
+3 3 3 3 linii 2 JAVA 458889
+3 3 3 3 coloane 2 JAVA 252959
+3 3 3 3 blocuri 2 JAVA 197489
+3 3 3 3 distributie liniara 2 JAVA 399796
+3 3 3 3 distributie ciclica 2 JAVA 135672
+3 3 3 3 secvential JAVA 5817
+3 3 3 3 linii 2 JAVA 440067
+3 3 3 3 coloane 2 JAVA 219952
+3 3 3 3 blocuri 2 JAVA 479970
+3 3 3 3 distributie liniara 2 JAVA 503644
+3 3 3 3 distributie ciclica 2 JAVA 129287
+3 3 3 3 secvential JAVA 5908
+3 3 3 3 linii 4 JAVA 542319
+3 3 3 3 coloane 4 JAVA 387337
+3 3 3 3 blocuri 4 JAVA 330316
+3 3 3 3 distributie liniara 4 JAVA 527867
+3 3 3 3 distributie ciclica 4 JAVA 198223
+3 3 3 3 secvential JAVA 6254
+3 3 3 3 linii 4 JAVA 613414
+3 3 3 3 coloane 4 JAVA 369903
+3 3 3 3 blocuri 4 JAVA 350892
+3 3 3 3 distributie liniara 4 JAVA 516396
+3 3 3 3 distributie ciclica 4 JAVA 215963
+3 3 3 3 secvential JAVA 6051
+3 3 3 3 linii 4 JAVA 459064
+3 3 3 3 coloane 4 JAVA 315012
+3 3 3 3 blocuri 4 JAVA 303083
+3 3 3 3 distributie liniara 4 JAVA 591835
+3 3 3 3 distributie ciclica 4 JAVA 266216
+3 3 3 3 secvential JAVA 6296
+3 3 3 3 linii 4 JAVA 530632
+3 3 3 3 coloane 4 JAVA 253940
+3 3 3 3 blocuri 4 JAVA 259193
+3 3 3 3 distributie liniara 4 JAVA 505776
+3 3 3 3 distributie ciclica 4 JAVA 199488
+3 3 3 3 secvential JAVA 5760
+3 3 3 3 linii 4 JAVA 562332
+3 3 3 3 coloane 4 JAVA 313436
+3 3 3 3 blocuri 4 JAVA 257411
+3 3 3 3 distributie liniara 4 JAVA 471114
+3 3 3 3 distributie ciclica 4 JAVA 200221
+3 3 3 3 secvential JAVA 6315
+3 3 3 3 linii 4 JAVA 649562
+3 3 3 3 coloane 4 JAVA 368515
+3 3 3 3 blocuri 4 JAVA 320344
+3 3 3 3 distributie liniara 4 JAVA 656307
+3 3 3 3 distributie ciclica 4 JAVA 251206
+3 3 3 3 secvential JAVA 5853
+3 3 3 3 linii 4 JAVA 624680
+3 3 3 3 coloane 4 JAVA 277648
+3 3 3 3 blocuri 4 JAVA 232572
+3 3 3 3 distributie liniara 4 JAVA 460653
+3 3 3 3 distributie ciclica 4 JAVA 178881
+3 3 3 3 secvential JAVA 6075
+3 3 3 3 linii 4 JAVA 458455
+3 3 3 3 coloane 4 JAVA 380617
+3 3 3 3 blocuri 4 JAVA 283347
+3 3 3 3 distributie liniara 4 JAVA 631996
+3 3 3 3 distributie ciclica 4 JAVA 215829
+3 3 3 3 secvential JAVA 5935
+3 3 3 3 linii 4 JAVA 442936
+3 3 3 3 coloane 4 JAVA 333945
+3 3 3 3 blocuri 4 JAVA 271317
+3 3 3 3 distributie liniara 4 JAVA 543508
+3 3 3 3 distributie ciclica 4 JAVA 190525
+3 3 3 3 secvential JAVA 6065
+3 3 3 3 linii 4 JAVA 578569
+3 3 3 3 coloane 4 JAVA 394958
+3 3 3 3 blocuri 4 JAVA 316273
+3 3 3 3 distributie liniara 4 JAVA 496886
+3 3 3 3 distributie ciclica 4 JAVA 206141
+3 3 3 3 secvential JAVA 6530
+3 3 3 3 linii 8 JAVA 668915
+3 3 3 3 coloane 8 JAVA 481761
+3 3 3 3 blocuri 8 JAVA 437859
+3 3 3 3 distributie liniara 8 JAVA 714787
+3 3 3 3 distributie ciclica 8 JAVA 369166
+3 3 3 3 secvential JAVA 6035
+3 3 3 3 linii 8 JAVA 920343
+3 3 3 3 coloane 8 JAVA 478189
+3 3 3 3 blocuri 8 JAVA 393958
+3 3 3 3 distributie liniara 8 JAVA 730111
+3 3 3 3 distributie ciclica 8 JAVA 308149
+3 3 3 3 secvential JAVA 5963
+3 3 3 3 linii 8 JAVA 816872
+3 3 3 3 coloane 8 JAVA 460646
+3 3 3 3 blocuri 8 JAVA 387907
+3 3 3 3 distributie liniara 8 JAVA 777532
+3 3 3 3 distributie ciclica 8 JAVA 317894
+3 3 3 3 secvential JAVA 5978
+3 3 3 3 linii 8 JAVA 864887
+3 3 3 3 coloane 8 JAVA 492337
+3 3 3 3 blocuri 8 JAVA 417157
+3 3 3 3 distributie liniara 8 JAVA 903140
+3 3 3 3 distributie ciclica 8 JAVA 301616
+3 3 3 3 secvential JAVA 6283
+3 3 3 3 linii 8 JAVA 854645
+3 3 3 3 coloane 8 JAVA 438399
+3 3 3 3 blocuri 8 JAVA 398933
+3 3 3 3 distributie liniara 8 JAVA 695829
+3 3 3 3 distributie ciclica 8 JAVA 295353
+3 3 3 3 secvential JAVA 5848
+3 3 3 3 linii 8 JAVA 718294
+3 3 3 3 coloane 8 JAVA 435399
+3 3 3 3 blocuri 8 JAVA 349944
+3 3 3 3 distributie liniara 8 JAVA 686156
+3 3 3 3 distributie ciclica 8 JAVA 321365
+3 3 3 3 secvential JAVA 5823
+3 3 3 3 linii 8 JAVA 829688
+3 3 3 3 coloane 8 JAVA 400479
+3 3 3 3 blocuri 8 JAVA 381040
+3 3 3 3 distributie liniara 8 JAVA 698273
+3 3 3 3 distributie ciclica 8 JAVA 442870
+3 3 3 3 secvential JAVA 6062
+3 3 3 3 linii 8 JAVA 853810
+3 3 3 3 coloane 8 JAVA 412748
+3 3 3 3 blocuri 8 JAVA 362756
+3 3 3 3 distributie liniara 8 JAVA 653509
+3 3 3 3 distributie ciclica 8 JAVA 317540
+3 3 3 3 secvential JAVA 6029
+3 3 3 3 linii 8 JAVA 843356
+3 3 3 3 coloane 8 JAVA 453488
+3 3 3 3 blocuri 8 JAVA 406835
+3 3 3 3 distributie liniara 8 JAVA 753740
+3 3 3 3 distributie ciclica 8 JAVA 350326
+3 3 3 3 secvential JAVA 6175
+3 3 3 3 linii 8 JAVA 717239
+3 3 3 3 coloane 8 JAVA 495175
+3 3 3 3 blocuri 8 JAVA 481506
+3 3 3 3 distributie liniara 8 JAVA 712623
+3 3 3 3 distributie ciclica 8 JAVA 310154
+3 3 3 3 secvential JAVA 6138
+3 3 3 3 linii 16 JAVA 1070686
+3 3 3 3 coloane 16 JAVA 742726
+3 3 3 3 blocuri 16 JAVA 646216
+3 3 3 3 distributie liniara 16 JAVA 1253771
+3 3 3 3 distributie ciclica 16 JAVA 732680
+3 3 3 3 secvential JAVA 6020
+3 3 3 3 linii 16 JAVA 1134784
+3 3 3 3 coloane 16 JAVA 685234
+3 3 3 3 blocuri 16 JAVA 634832
+3 3 3 3 distributie liniara 16 JAVA 1023626
+3 3 3 3 distributie ciclica 16 JAVA 634270
+3 3 3 3 secvential JAVA 6076
+3 3 3 3 linii 16 JAVA 1110281
+3 3 3 3 coloane 16 JAVA 916903
+3 3 3 3 blocuri 16 JAVA 646322
+3 3 3 3 distributie liniara 16 JAVA 1058769
+3 3 3 3 distributie ciclica 16 JAVA 581446
+3 3 3 3 secvential JAVA 5860
+3 3 3 3 linii 16 JAVA 1075823
+3 3 3 3 coloane 16 JAVA 709363
+3 3 3 3 blocuri 16 JAVA 762723
+3 3 3 3 distributie liniara 16 JAVA 1373740
+3 3 3 3 distributie ciclica 16 JAVA 540759
+3 3 3 3 secvential JAVA 6119
+3 3 3 3 linii 16 JAVA 1095531
+3 3 3 3 coloane 16 JAVA 659402
+3 3 3 3 blocuri 16 JAVA 709723
+3 3 3 3 distributie liniara 16 JAVA 1121760
+3 3 3 3 distributie ciclica 16 JAVA 612058
+3 3 3 3 secvential JAVA 5949
+3 3 3 3 linii 16 JAVA 1042529
+3 3 3 3 coloane 16 JAVA 845093
+3 3 3 3 blocuri 16 JAVA 659398
+3 3 3 3 distributie liniara 16 JAVA 1137754
+3 3 3 3 distributie ciclica 16 JAVA 673509
+3 3 3 3 secvential JAVA 6289
+3 3 3 3 linii 16 JAVA 1205798
+3 3 3 3 coloane 16 JAVA 910872
+3 3 3 3 blocuri 16 JAVA 769570
+3 3 3 3 distributie liniara 16 JAVA 1155817
+3 3 3 3 distributie ciclica 16 JAVA 669030
+3 3 3 3 secvential JAVA 6559
+3 3 3 3 linii 16 JAVA 1074446
+3 3 3 3 coloane 16 JAVA 829305
+3 3 3 3 blocuri 16 JAVA 804986
+3 3 3 3 distributie liniara 16 JAVA 1149285
+3 3 3 3 distributie ciclica 16 JAVA 626419
+3 3 3 3 secvential JAVA 6101
+3 3 3 3 linii 16 JAVA 980780
+3 3 3 3 coloane 16 JAVA 746426
+3 3 3 3 blocuri 16 JAVA 544894
+3 3 3 3 distributie liniara 16 JAVA 900082
+3 3 3 3 distributie ciclica 16 JAVA 565849
+3 3 3 3 secvential JAVA 6033
+3 3 3 3 linii 16 JAVA 1196555
+3 3 3 3 coloane 16 JAVA 705839
+3 3 3 3 blocuri 16 JAVA 782010
+3 3 3 3 distributie liniara 16 JAVA 1145601
+3 3 3 3 distributie ciclica 16 JAVA 670836
+10 10 3 3 secvential JAVA 47718
+10 10 3 3 linii 1 JAVA 457096
+10 10 3 3 coloane 1 JAVA 326364
+10 10 3 3 blocuri 1 JAVA 151974
+10 10 3 3 distributie liniara 1 JAVA 467653
+10 10 3 3 distributie ciclica 1 JAVA 185925
+10 10 3 3 secvential JAVA 46141
+10 10 3 3 linii 1 JAVA 433250
+10 10 3 3 coloane 1 JAVA 315176
+10 10 3 3 blocuri 1 JAVA 180459
+10 10 3 3 distributie liniara 1 JAVA 503659
+10 10 3 3 distributie ciclica 1 JAVA 230281
+10 10 3 3 secvential JAVA 47055
+10 10 3 3 linii 1 JAVA 334166
+10 10 3 3 coloane 1 JAVA 241509
+10 10 3 3 blocuri 1 JAVA 168709
+10 10 3 3 distributie liniara 1 JAVA 431954
+10 10 3 3 distributie ciclica 1 JAVA 131618
+10 10 3 3 secvential JAVA 64508
+10 10 3 3 linii 1 JAVA 430450
+10 10 3 3 coloane 1 JAVA 164858
+10 10 3 3 blocuri 1 JAVA 159189
+10 10 3 3 distributie liniara 1 JAVA 399832
+10 10 3 3 distributie ciclica 1 JAVA 146489
+10 10 3 3 secvential JAVA 46734
+10 10 3 3 linii 1 JAVA 426937
+10 10 3 3 coloane 1 JAVA 224036
+10 10 3 3 blocuri 1 JAVA 165763
+10 10 3 3 distributie liniara 1 JAVA 442336
+10 10 3 3 distributie ciclica 1 JAVA 156065
+10 10 3 3 secvential JAVA 45496
+10 10 3 3 linii 1 JAVA 427360
+10 10 3 3 coloane 1 JAVA 195882
+10 10 3 3 blocuri 1 JAVA 139046
+10 10 3 3 distributie liniara 1 JAVA 375448
+10 10 3 3 distributie ciclica 1 JAVA 142724
+10 10 3 3 secvential JAVA 44524
+10 10 3 3 linii 1 JAVA 360678
+10 10 3 3 coloane 1 JAVA 189052
+10 10 3 3 blocuri 1 JAVA 186641
+10 10 3 3 distributie liniara 1 JAVA 443766
+10 10 3 3 distributie ciclica 1 JAVA 154431
+10 10 3 3 secvential JAVA 45892
+10 10 3 3 linii 1 JAVA 405117
+10 10 3 3 coloane 1 JAVA 296519
+10 10 3 3 blocuri 1 JAVA 197686
+10 10 3 3 distributie liniara 1 JAVA 567771
+10 10 3 3 distributie ciclica 1 JAVA 159489
+10 10 3 3 secvential JAVA 67500
+10 10 3 3 linii 1 JAVA 431096
+10 10 3 3 coloane 1 JAVA 272992
+10 10 3 3 blocuri 1 JAVA 176321
+10 10 3 3 distributie liniara 1 JAVA 469131
+10 10 3 3 distributie ciclica 1 JAVA 119093
+10 10 3 3 secvential JAVA 45421
+10 10 3 3 linii 1 JAVA 348637
+10 10 3 3 coloane 1 JAVA 279766
+10 10 3 3 blocuri 1 JAVA 134430
+10 10 3 3 distributie liniara 1 JAVA 473865
+10 10 3 3 distributie ciclica 1 JAVA 173192
+10 10 3 3 secvential JAVA 47619
+10 10 3 3 linii 2 JAVA 448335
+10 10 3 3 coloane 2 JAVA 349827
+10 10 3 3 blocuri 2 JAVA 182560
+10 10 3 3 distributie liniara 2 JAVA 522374
+10 10 3 3 distributie ciclica 2 JAVA 213300
+10 10 3 3 secvential JAVA 47568
+10 10 3 3 linii 2 JAVA 517428
+10 10 3 3 coloane 2 JAVA 312095
+10 10 3 3 blocuri 2 JAVA 246838
+10 10 3 3 distributie liniara 2 JAVA 459905
+10 10 3 3 distributie ciclica 2 JAVA 231074
+10 10 3 3 secvential JAVA 45486
+10 10 3 3 linii 2 JAVA 485355
+10 10 3 3 coloane 2 JAVA 294027
+10 10 3 3 blocuri 2 JAVA 271208
+10 10 3 3 distributie liniara 2 JAVA 423386
+10 10 3 3 distributie ciclica 2 JAVA 170239
+10 10 3 3 secvential JAVA 71093
+10 10 3 3 linii 2 JAVA 562139
+10 10 3 3 coloane 2 JAVA 221634
+10 10 3 3 blocuri 2 JAVA 190623
+10 10 3 3 distributie liniara 2 JAVA 460393
+10 10 3 3 distributie ciclica 2 JAVA 180924
+10 10 3 3 secvential JAVA 45518
+10 10 3 3 linii 2 JAVA 440057
+10 10 3 3 coloane 2 JAVA 271601
+10 10 3 3 blocuri 2 JAVA 277942
+10 10 3 3 distributie liniara 2 JAVA 500966
+10 10 3 3 distributie ciclica 2 JAVA 234152
+10 10 3 3 secvential JAVA 45598
+10 10 3 3 linii 2 JAVA 449782
+10 10 3 3 coloane 2 JAVA 277753
+10 10 3 3 blocuri 2 JAVA 230451
+10 10 3 3 distributie liniara 2 JAVA 507799
+10 10 3 3 distributie ciclica 2 JAVA 194050
+10 10 3 3 secvential JAVA 45578
+10 10 3 3 linii 2 JAVA 399881
+10 10 3 3 coloane 2 JAVA 437484
+10 10 3 3 blocuri 2 JAVA 192979
+10 10 3 3 distributie liniara 2 JAVA 438003
+10 10 3 3 distributie ciclica 2 JAVA 163225
+10 10 3 3 secvential JAVA 49193
+10 10 3 3 linii 2 JAVA 422245
+10 10 3 3 coloane 2 JAVA 238072
+10 10 3 3 blocuri 2 JAVA 199588
+10 10 3 3 distributie liniara 2 JAVA 438781
+10 10 3 3 distributie ciclica 2 JAVA 175489
+10 10 3 3 secvential JAVA 46601
+10 10 3 3 linii 2 JAVA 439661
+10 10 3 3 coloane 2 JAVA 357697
+10 10 3 3 blocuri 2 JAVA 299794
+10 10 3 3 distributie liniara 2 JAVA 560826
+10 10 3 3 distributie ciclica 2 JAVA 200408
+10 10 3 3 secvential JAVA 45648
+10 10 3 3 linii 2 JAVA 455495
+10 10 3 3 coloane 2 JAVA 249988
+10 10 3 3 blocuri 2 JAVA 228660
+10 10 3 3 distributie liniara 2 JAVA 526967
+10 10 3 3 distributie ciclica 2 JAVA 174713
+10 10 3 3 secvential JAVA 45719
+10 10 3 3 linii 4 JAVA 538222
+10 10 3 3 coloane 4 JAVA 245363
+10 10 3 3 blocuri 4 JAVA 299220
+10 10 3 3 distributie liniara 4 JAVA 626091
+10 10 3 3 distributie ciclica 4 JAVA 225449
+10 10 3 3 secvential JAVA 46675
+10 10 3 3 linii 4 JAVA 602130
+10 10 3 3 coloane 4 JAVA 308677
+10 10 3 3 blocuri 4 JAVA 226282
+10 10 3 3 distributie liniara 4 JAVA 489228
+10 10 3 3 distributie ciclica 4 JAVA 194202
+10 10 3 3 secvential JAVA 46562
+10 10 3 3 linii 4 JAVA 555312
+10 10 3 3 coloane 4 JAVA 394393
+10 10 3 3 blocuri 4 JAVA 348151
+10 10 3 3 distributie liniara 4 JAVA 694688
+10 10 3 3 distributie ciclica 4 JAVA 203257
+10 10 3 3 secvential JAVA 47130
+10 10 3 3 linii 4 JAVA 595240
+10 10 3 3 coloane 4 JAVA 291387
+10 10 3 3 blocuri 4 JAVA 255960
+10 10 3 3 distributie liniara 4 JAVA 556530
+10 10 3 3 distributie ciclica 4 JAVA 192278
+10 10 3 3 secvential JAVA 46641
+10 10 3 3 linii 4 JAVA 474969
+10 10 3 3 coloane 4 JAVA 350467
+10 10 3 3 blocuri 4 JAVA 265090
+10 10 3 3 distributie liniara 4 JAVA 563655
+10 10 3 3 distributie ciclica 4 JAVA 247114
+10 10 3 3 secvential JAVA 48217
+10 10 3 3 linii 4 JAVA 474326
+10 10 3 3 coloane 4 JAVA 288182
+10 10 3 3 blocuri 4 JAVA 248709
+10 10 3 3 distributie liniara 4 JAVA 528470
+10 10 3 3 distributie ciclica 4 JAVA 255319
+10 10 3 3 secvential JAVA 45881
+10 10 3 3 linii 4 JAVA 777267
+10 10 3 3 coloane 4 JAVA 357289
+10 10 3 3 blocuri 4 JAVA 287114
+10 10 3 3 distributie liniara 4 JAVA 576839
+10 10 3 3 distributie ciclica 4 JAVA 232424
+10 10 3 3 secvential JAVA 45475
+10 10 3 3 linii 4 JAVA 634161
+10 10 3 3 coloane 4 JAVA 360102
+10 10 3 3 blocuri 4 JAVA 263451
+10 10 3 3 distributie liniara 4 JAVA 599029
+10 10 3 3 distributie ciclica 4 JAVA 234719
+10 10 3 3 secvential JAVA 60418
+10 10 3 3 linii 4 JAVA 596400
+10 10 3 3 coloane 4 JAVA 267468
+10 10 3 3 blocuri 4 JAVA 259140
+10 10 3 3 distributie liniara 4 JAVA 527774
+10 10 3 3 distributie ciclica 4 JAVA 221009
+10 10 3 3 secvential JAVA 72624
+10 10 3 3 linii 4 JAVA 793436
+10 10 3 3 coloane 4 JAVA 353451
+10 10 3 3 blocuri 4 JAVA 325909
+10 10 3 3 distributie liniara 4 JAVA 637332
+10 10 3 3 distributie ciclica 4 JAVA 238373
+10 10 3 3 secvential JAVA 48397
+10 10 3 3 linii 8 JAVA 771935
+10 10 3 3 coloane 8 JAVA 607748
+10 10 3 3 blocuri 8 JAVA 473039
+10 10 3 3 distributie liniara 8 JAVA 1017096
+10 10 3 3 distributie ciclica 8 JAVA 433883
+10 10 3 3 secvential JAVA 45569
+10 10 3 3 linii 8 JAVA 770569
+10 10 3 3 coloane 8 JAVA 407811
+10 10 3 3 blocuri 8 JAVA 406548
+10 10 3 3 distributie liniara 8 JAVA 655689
+10 10 3 3 distributie ciclica 8 JAVA 346490
+10 10 3 3 secvential JAVA 48696
+10 10 3 3 linii 8 JAVA 771403
+10 10 3 3 coloane 8 JAVA 441151
+10 10 3 3 blocuri 8 JAVA 343055
+10 10 3 3 distributie liniara 8 JAVA 646283
+10 10 3 3 distributie ciclica 8 JAVA 311292
+10 10 3 3 secvential JAVA 47367
+10 10 3 3 linii 8 JAVA 1039531
+10 10 3 3 coloane 8 JAVA 605541
+10 10 3 3 blocuri 8 JAVA 488247
+10 10 3 3 distributie liniara 8 JAVA 946035
+10 10 3 3 distributie ciclica 8 JAVA 370710
+10 10 3 3 secvential JAVA 47777
+10 10 3 3 linii 8 JAVA 741929
+10 10 3 3 coloane 8 JAVA 511172
+10 10 3 3 blocuri 8 JAVA 373228
+10 10 3 3 distributie liniara 8 JAVA 784483
+10 10 3 3 distributie ciclica 8 JAVA 331219
+10 10 3 3 secvential JAVA 46666
+10 10 3 3 linii 8 JAVA 671669
+10 10 3 3 coloane 8 JAVA 506013
+10 10 3 3 blocuri 8 JAVA 428966
+10 10 3 3 distributie liniara 8 JAVA 689614
+10 10 3 3 distributie ciclica 8 JAVA 379206
+10 10 3 3 secvential JAVA 47976
+10 10 3 3 linii 8 JAVA 758533
+10 10 3 3 coloane 8 JAVA 466143
+10 10 3 3 blocuri 8 JAVA 370317
+10 10 3 3 distributie liniara 8 JAVA 644503
+10 10 3 3 distributie ciclica 8 JAVA 335576
+10 10 3 3 secvential JAVA 46214
+10 10 3 3 linii 8 JAVA 811478
+10 10 3 3 coloane 8 JAVA 407056
+10 10 3 3 blocuri 8 JAVA 353611
+10 10 3 3 distributie liniara 8 JAVA 612426
+10 10 3 3 distributie ciclica 8 JAVA 396076
+10 10 3 3 secvential JAVA 47797
+10 10 3 3 linii 8 JAVA 799480
+10 10 3 3 coloane 8 JAVA 512951
+10 10 3 3 blocuri 8 JAVA 376849
+10 10 3 3 distributie liniara 8 JAVA 612807
+10 10 3 3 distributie ciclica 8 JAVA 312728
+10 10 3 3 secvential JAVA 74639
+10 10 3 3 linii 8 JAVA 739649
+10 10 3 3 coloane 8 JAVA 674076
+10 10 3 3 blocuri 8 JAVA 539796
+10 10 3 3 distributie liniara 8 JAVA 1340128
+10 10 3 3 distributie ciclica 8 JAVA 470247
+10 10 3 3 secvential JAVA 50042
+10 10 3 3 linii 16 JAVA 1154251
+10 10 3 3 coloane 16 JAVA 1231600
+10 10 3 3 blocuri 16 JAVA 894425
+10 10 3 3 distributie liniara 16 JAVA 1385841
+10 10 3 3 distributie ciclica 16 JAVA 652328
+10 10 3 3 secvential JAVA 46729
+10 10 3 3 linii 16 JAVA 1008476
+10 10 3 3 coloane 16 JAVA 756241
+10 10 3 3 blocuri 16 JAVA 738604
+10 10 3 3 distributie liniara 16 JAVA 909660
+10 10 3 3 distributie ciclica 16 JAVA 595039
+10 10 3 3 secvential JAVA 48307
+10 10 3 3 linii 16 JAVA 1034613
+10 10 3 3 coloane 16 JAVA 807500
+10 10 3 3 blocuri 16 JAVA 553348
+10 10 3 3 distributie liniara 16 JAVA 964563
+10 10 3 3 distributie ciclica 16 JAVA 560252
+10 10 3 3 secvential JAVA 45565
+10 10 3 3 linii 16 JAVA 1244720
+10 10 3 3 coloane 16 JAVA 863572
+10 10 3 3 blocuri 16 JAVA 773056
+10 10 3 3 distributie liniara 16 JAVA 1198498
+10 10 3 3 distributie ciclica 16 JAVA 667789
+10 10 3 3 secvential JAVA 46518
+10 10 3 3 linii 16 JAVA 1163876
+10 10 3 3 coloane 16 JAVA 766148
+10 10 3 3 blocuri 16 JAVA 708034
+10 10 3 3 distributie liniara 16 JAVA 2197448
+10 10 3 3 distributie ciclica 16 JAVA 787451
+10 10 3 3 secvential JAVA 46547
+10 10 3 3 linii 16 JAVA 1224594
+10 10 3 3 coloane 16 JAVA 666512
+10 10 3 3 blocuri 16 JAVA 622355
+10 10 3 3 distributie liniara 16 JAVA 964605
+10 10 3 3 distributie ciclica 16 JAVA 590129
+10 10 3 3 secvential JAVA 45454
+10 10 3 3 linii 16 JAVA 1199013
+10 10 3 3 coloane 16 JAVA 705271
+10 10 3 3 blocuri 16 JAVA 606061
+10 10 3 3 distributie liniara 16 JAVA 1113155
+10 10 3 3 distributie ciclica 16 JAVA 508661
+10 10 3 3 secvential JAVA 45804
+10 10 3 3 linii 16 JAVA 1073370
+10 10 3 3 coloane 16 JAVA 742920
+10 10 3 3 blocuri 16 JAVA 688154
+10 10 3 3 distributie liniara 16 JAVA 978841
+10 10 3 3 distributie ciclica 16 JAVA 622598
+10 10 3 3 secvential JAVA 50174
+10 10 3 3 linii 16 JAVA 1038326
+10 10 3 3 coloane 16 JAVA 675005
+10 10 3 3 blocuri 16 JAVA 618732
+10 10 3 3 distributie liniara 16 JAVA 989201
+10 10 3 3 distributie ciclica 16 JAVA 652233
+10 10 3 3 secvential JAVA 47789
+10 10 3 3 linii 16 JAVA 1021192
+10 10 3 3 coloane 16 JAVA 825567
+10 10 3 3 blocuri 16 JAVA 673431
+10 10 3 3 distributie liniara 16 JAVA 1030786
+10 10 3 3 distributie ciclica 16 JAVA 658211
+10 10000 5 5 secvential JAVA 7465997
+10 10000 5 5 linii 1 JAVA 5775269
+10 10000 5 5 coloane 1 JAVA 5708880
+10 10000 5 5 blocuri 1 JAVA 5065594
+10 10000 5 5 distributie liniara 1 JAVA 23103136
+10 10000 5 5 distributie ciclica 1 JAVA 9863091
+10 10000 5 5 secvential JAVA 7460173
+10 10000 5 5 linii 1 JAVA 5578631
+10 10000 5 5 coloane 1 JAVA 5745201
+10 10000 5 5 blocuri 1 JAVA 5269174
+10 10000 5 5 distributie liniara 1 JAVA 23018486
+10 10000 5 5 distributie ciclica 1 JAVA 9834409
+10 10000 5 5 secvential JAVA 7433344
+10 10000 5 5 linii 1 JAVA 5786399
+10 10000 5 5 coloane 1 JAVA 5779112
+10 10000 5 5 blocuri 1 JAVA 5110012
+10 10000 5 5 distributie liniara 1 JAVA 26759523
+10 10000 5 5 distributie ciclica 1 JAVA 12117223
+10 10000 5 5 secvential JAVA 7493012
+10 10000 5 5 linii 1 JAVA 5652186
+10 10000 5 5 coloane 1 JAVA 5643946
+10 10000 5 5 blocuri 1 JAVA 5204420
+10 10000 5 5 distributie liniara 1 JAVA 24517953
+10 10000 5 5 distributie ciclica 1 JAVA 11841246
+10 10000 5 5 secvential JAVA 7525356
+10 10000 5 5 linii 1 JAVA 6022653
+10 10000 5 5 coloane 1 JAVA 5688483
+10 10000 5 5 blocuri 1 JAVA 5066533
+10 10000 5 5 distributie liniara 1 JAVA 22049920
+10 10000 5 5 distributie ciclica 1 JAVA 9989380
+10 10000 5 5 secvential JAVA 7522707
+10 10000 5 5 linii 1 JAVA 5640659
+10 10000 5 5 coloane 1 JAVA 5880569
+10 10000 5 5 blocuri 1 JAVA 5439588
+10 10000 5 5 distributie liniara 1 JAVA 26009041
+10 10000 5 5 distributie ciclica 1 JAVA 10015702
+10 10000 5 5 secvential JAVA 7493243
+10 10000 5 5 linii 1 JAVA 5675007
+10 10000 5 5 coloane 1 JAVA 5748880
+10 10000 5 5 blocuri 1 JAVA 5178434
+10 10000 5 5 distributie liniara 1 JAVA 23646435
+10 10000 5 5 distributie ciclica 1 JAVA 13673962
+10 10000 5 5 secvential JAVA 7362401
+10 10000 5 5 linii 1 JAVA 5631181
+10 10000 5 5 coloane 1 JAVA 5532401
+10 10000 5 5 blocuri 1 JAVA 5227758
+10 10000 5 5 distributie liniara 1 JAVA 22493121
+10 10000 5 5 distributie ciclica 1 JAVA 10200617
+10 10000 5 5 secvential JAVA 11316188
+10 10000 5 5 linii 1 JAVA 5584603
+10 10000 5 5 coloane 1 JAVA 5560459
+10 10000 5 5 blocuri 1 JAVA 5051800
+10 10000 5 5 distributie liniara 1 JAVA 22249433
+10 10000 5 5 distributie ciclica 1 JAVA 13322311
+10 10000 5 5 secvential JAVA 7158621
+10 10000 5 5 linii 1 JAVA 5630762
+10 10000 5 5 coloane 1 JAVA 5786250
+10 10000 5 5 blocuri 1 JAVA 5058978
+10 10000 5 5 distributie liniara 1 JAVA 22615021
+10 10000 5 5 distributie ciclica 1 JAVA 10062506
+10 10000 5 5 secvential JAVA 7215914
+10 10000 5 5 linii 2 JAVA 4532039
+10 10000 5 5 coloane 2 JAVA 4421433
+10 10000 5 5 blocuri 2 JAVA 2224230
+10 10000 5 5 distributie liniara 2 JAVA 22970841
+10 10000 5 5 distributie ciclica 2 JAVA 16207713
+10 10000 5 5 secvential JAVA 7466058
+10 10000 5 5 linii 2 JAVA 4156932
+10 10000 5 5 coloane 2 JAVA 4406177
+10 10000 5 5 blocuri 2 JAVA 2460533
+10 10000 5 5 distributie liniara 2 JAVA 23893623
+10 10000 5 5 distributie ciclica 2 JAVA 17232944
+10 10000 5 5 secvential JAVA 11990232
+10 10000 5 5 linii 2 JAVA 4290172
+10 10000 5 5 coloane 2 JAVA 4450904
+10 10000 5 5 blocuri 2 JAVA 2092943
+10 10000 5 5 distributie liniara 2 JAVA 27270690
+10 10000 5 5 distributie ciclica 2 JAVA 17468270
+10 10000 5 5 secvential JAVA 8161576
+10 10000 5 5 linii 2 JAVA 4408037
+10 10000 5 5 coloane 2 JAVA 5394319
+10 10000 5 5 blocuri 2 JAVA 2123143
+10 10000 5 5 distributie liniara 2 JAVA 23007613
+10 10000 5 5 distributie ciclica 2 JAVA 16727050
+10 10000 5 5 secvential JAVA 7369795
+10 10000 5 5 linii 2 JAVA 4353539
+10 10000 5 5 coloane 2 JAVA 4522122
+10 10000 5 5 blocuri 2 JAVA 2098081
+10 10000 5 5 distributie liniara 2 JAVA 23626916
+10 10000 5 5 distributie ciclica 2 JAVA 15820564
+10 10000 5 5 secvential JAVA 7499669
+10 10000 5 5 linii 2 JAVA 4345023
+10 10000 5 5 coloane 2 JAVA 4593707
+10 10000 5 5 blocuri 2 JAVA 2124451
+10 10000 5 5 distributie liniara 2 JAVA 24145143
+10 10000 5 5 distributie ciclica 2 JAVA 16408949
+10 10000 5 5 secvential JAVA 7621397
+10 10000 5 5 linii 2 JAVA 4233423
+10 10000 5 5 coloane 2 JAVA 4850373
+10 10000 5 5 blocuri 2 JAVA 2422202
+10 10000 5 5 distributie liniara 2 JAVA 24108745
+10 10000 5 5 distributie ciclica 2 JAVA 15301369
+10 10000 5 5 secvential JAVA 9130788
+10 10000 5 5 linii 2 JAVA 4560674
+10 10000 5 5 coloane 2 JAVA 4355833
+10 10000 5 5 blocuri 2 JAVA 1964013
+10 10000 5 5 distributie liniara 2 JAVA 24327886
+10 10000 5 5 distributie ciclica 2 JAVA 17430777
+10 10000 5 5 secvential JAVA 7275891
+10 10000 5 5 linii 2 JAVA 4949049
+10 10000 5 5 coloane 2 JAVA 4476236
+10 10000 5 5 blocuri 2 JAVA 2203202
+10 10000 5 5 distributie liniara 2 JAVA 23809189
+10 10000 5 5 distributie ciclica 2 JAVA 15712874
+10 10000 5 5 secvential JAVA 7407868
+10 10000 5 5 linii 2 JAVA 4623169
+10 10000 5 5 coloane 2 JAVA 4835780
+10 10000 5 5 blocuri 2 JAVA 2095566
+10 10000 5 5 distributie liniara 2 JAVA 23953346
+10 10000 5 5 distributie ciclica 2 JAVA 16672530
+10 10000 5 5 secvential JAVA 7330037
+10 10000 5 5 linii 4 JAVA 3558016
+10 10000 5 5 coloane 4 JAVA 3434657
+10 10000 5 5 blocuri 4 JAVA 1093940
+10 10000 5 5 distributie liniara 4 JAVA 22104576
+10 10000 5 5 distributie ciclica 4 JAVA 15362465
+10 10000 5 5 secvential JAVA 7472540
+10 10000 5 5 linii 4 JAVA 3375367
+10 10000 5 5 coloane 4 JAVA 3229086
+10 10000 5 5 blocuri 4 JAVA 1047195
+10 10000 5 5 distributie liniara 4 JAVA 20892469
+10 10000 5 5 distributie ciclica 4 JAVA 15769792
+10 10000 5 5 secvential JAVA 7435444
+10 10000 5 5 linii 4 JAVA 3591618
+10 10000 5 5 coloane 4 JAVA 3336089
+10 10000 5 5 blocuri 4 JAVA 1203545
+10 10000 5 5 distributie liniara 4 JAVA 25298341
+10 10000 5 5 distributie ciclica 4 JAVA 14888476
+10 10000 5 5 secvential JAVA 7343343
+10 10000 5 5 linii 4 JAVA 3578878
+10 10000 5 5 coloane 4 JAVA 4050063
+10 10000 5 5 blocuri 4 JAVA 1131465
+10 10000 5 5 distributie liniara 4 JAVA 21552102
+10 10000 5 5 distributie ciclica 4 JAVA 16080182
+10 10000 5 5 secvential JAVA 7394085
+10 10000 5 5 linii 4 JAVA 3573417
+10 10000 5 5 coloane 4 JAVA 3381676
+10 10000 5 5 blocuri 4 JAVA 1190629
+10 10000 5 5 distributie liniara 4 JAVA 21440152
+10 10000 5 5 distributie ciclica 4 JAVA 15455103
+10 10000 5 5 secvential JAVA 7695374
+10 10000 5 5 linii 4 JAVA 3829467
+10 10000 5 5 coloane 4 JAVA 3670159
+10 10000 5 5 blocuri 4 JAVA 1142470
+10 10000 5 5 distributie liniara 4 JAVA 24974962
+10 10000 5 5 distributie ciclica 4 JAVA 14268161
+10 10000 5 5 secvential JAVA 7962219
+10 10000 5 5 linii 4 JAVA 4259032
+10 10000 5 5 coloane 4 JAVA 3883855
+10 10000 5 5 blocuri 4 JAVA 1102615
+10 10000 5 5 distributie liniara 4 JAVA 21291791
+10 10000 5 5 distributie ciclica 4 JAVA 17845928
+10 10000 5 5 secvential JAVA 7413103
+10 10000 5 5 linii 4 JAVA 3393579
+10 10000 5 5 coloane 4 JAVA 3376474
+10 10000 5 5 blocuri 4 JAVA 1212016
+10 10000 5 5 distributie liniara 4 JAVA 23263653
+10 10000 5 5 distributie ciclica 4 JAVA 16670438
+10 10000 5 5 secvential JAVA 7396191
+10 10000 5 5 linii 4 JAVA 3347673
+10 10000 5 5 coloane 4 JAVA 3353159
+10 10000 5 5 blocuri 4 JAVA 1105687
+10 10000 5 5 distributie liniara 4 JAVA 20753279
+10 10000 5 5 distributie ciclica 4 JAVA 16835772
+10 10000 5 5 secvential JAVA 7350209
+10 10000 5 5 linii 4 JAVA 3497336
+10 10000 5 5 coloane 4 JAVA 3454128
+10 10000 5 5 blocuri 4 JAVA 1124880
+10 10000 5 5 distributie liniara 4 JAVA 20942806
+10 10000 5 5 distributie ciclica 4 JAVA 15690120
+10 10000 5 5 secvential JAVA 7800804
+10 10000 5 5 linii 8 JAVA 3834163
+10 10000 5 5 coloane 8 JAVA 3360849
+10 10000 5 5 blocuri 8 JAVA 708405
+10 10000 5 5 distributie liniara 8 JAVA 23172732
+10 10000 5 5 distributie ciclica 8 JAVA 12680676
+10 10000 5 5 secvential JAVA 7213128
+10 10000 5 5 linii 8 JAVA 3794737
+10 10000 5 5 coloane 8 JAVA 3628598
+10 10000 5 5 blocuri 8 JAVA 681032
+10 10000 5 5 distributie liniara 8 JAVA 22381079
+10 10000 5 5 distributie ciclica 8 JAVA 13502587
+10 10000 5 5 secvential JAVA 7237384
+10 10000 5 5 linii 8 JAVA 3481038
+10 10000 5 5 coloane 8 JAVA 3529583
+10 10000 5 5 blocuri 8 JAVA 697129
+10 10000 5 5 distributie liniara 8 JAVA 21794323
+10 10000 5 5 distributie ciclica 8 JAVA 13511003
+10 10000 5 5 secvential JAVA 7319769
+10 10000 5 5 linii 8 JAVA 3408495
+10 10000 5 5 coloane 8 JAVA 3358754
+10 10000 5 5 blocuri 8 JAVA 700095
+10 10000 5 5 distributie liniara 8 JAVA 21973880
+10 10000 5 5 distributie ciclica 8 JAVA 13422278
+10 10000 5 5 secvential JAVA 7217919
+10 10000 5 5 linii 8 JAVA 3529263
+10 10000 5 5 coloane 8 JAVA 3303326
+10 10000 5 5 blocuri 8 JAVA 689128
+10 10000 5 5 distributie liniara 8 JAVA 24359668
+10 10000 5 5 distributie ciclica 8 JAVA 12788944
+10 10000 5 5 secvential JAVA 7350304
+10 10000 5 5 linii 8 JAVA 3525160
+10 10000 5 5 coloane 8 JAVA 3364810
+10 10000 5 5 blocuri 8 JAVA 685855
+10 10000 5 5 distributie liniara 8 JAVA 22076736
+10 10000 5 5 distributie ciclica 8 JAVA 12945665
+10 10000 5 5 secvential JAVA 7391649
+10 10000 5 5 linii 8 JAVA 4036837
+10 10000 5 5 coloane 8 JAVA 3411005
+10 10000 5 5 blocuri 8 JAVA 776818
+10 10000 5 5 distributie liniara 8 JAVA 23940318
+10 10000 5 5 distributie ciclica 8 JAVA 15527726
+10 10000 5 5 secvential JAVA 7512758
+10 10000 5 5 linii 8 JAVA 3382414
+10 10000 5 5 coloane 8 JAVA 3362480
+10 10000 5 5 blocuri 8 JAVA 637992
+10 10000 5 5 distributie liniara 8 JAVA 22496275
+10 10000 5 5 distributie ciclica 8 JAVA 13728787
+10 10000 5 5 secvential JAVA 7425006
+10 10000 5 5 linii 8 JAVA 3371694
+10 10000 5 5 coloane 8 JAVA 3486390
+10 10000 5 5 blocuri 8 JAVA 653787
+10 10000 5 5 distributie liniara 8 JAVA 21988650
+10 10000 5 5 distributie ciclica 8 JAVA 12833774
+10 10000 5 5 secvential JAVA 7297281
+10 10000 5 5 linii 8 JAVA 3735242
+10 10000 5 5 coloane 8 JAVA 3450164
+10 10000 5 5 blocuri 8 JAVA 692134
+10 10000 5 5 distributie liniara 8 JAVA 21227395
+10 10000 5 5 distributie ciclica 8 JAVA 14267415
+10 10000 5 5 secvential JAVA 7143175
+10 10000 5 5 linii 16 JAVA 3717840
+10 10000 5 5 coloane 16 JAVA 3524412
+10 10000 5 5 blocuri 16 JAVA 768222
+10 10000 5 5 distributie liniara 16 JAVA 21052639
+10 10000 5 5 distributie ciclica 16 JAVA 13716418
+10 10000 5 5 secvential JAVA 7517814
+10 10000 5 5 linii 16 JAVA 3763868
+10 10000 5 5 coloane 16 JAVA 3459899
+10 10000 5 5 blocuri 16 JAVA 663340
+10 10000 5 5 distributie liniara 16 JAVA 21697335
+10 10000 5 5 distributie ciclica 16 JAVA 13458214
+10 10000 5 5 secvential JAVA 7431510
+10 10000 5 5 linii 16 JAVA 3847618
+10 10000 5 5 coloane 16 JAVA 3356798
+10 10000 5 5 blocuri 16 JAVA 653760
+10 10000 5 5 distributie liniara 16 JAVA 24218326
+10 10000 5 5 distributie ciclica 16 JAVA 13420474
+10 10000 5 5 secvential JAVA 7443887
+10 10000 5 5 linii 16 JAVA 3813060
+10 10000 5 5 coloane 16 JAVA 3341699
+10 10000 5 5 blocuri 16 JAVA 717233
+10 10000 5 5 distributie liniara 16 JAVA 23652413
+10 10000 5 5 distributie ciclica 16 JAVA 10408900
+10 10000 5 5 secvential JAVA 10852785
+10 10000 5 5 linii 16 JAVA 3928707
+10 10000 5 5 coloane 16 JAVA 3352067
+10 10000 5 5 blocuri 16 JAVA 791355
+10 10000 5 5 distributie liniara 16 JAVA 26472552
+10 10000 5 5 distributie ciclica 16 JAVA 10901810
+10 10000 5 5 secvential JAVA 10534874
+10 10000 5 5 linii 16 JAVA 3727427
+10 10000 5 5 coloane 16 JAVA 3591128
+10 10000 5 5 blocuri 16 JAVA 996748
+10 10000 5 5 distributie liniara 16 JAVA 22807991
+10 10000 5 5 distributie ciclica 16 JAVA 13351759
+10 10000 5 5 secvential JAVA 7813909
+10 10000 5 5 linii 16 JAVA 4038695
+10 10000 5 5 coloane 16 JAVA 3737906
+10 10000 5 5 blocuri 16 JAVA 698913
+10 10000 5 5 distributie liniara 16 JAVA 23661547
+10 10000 5 5 distributie ciclica 16 JAVA 14328564
+10 10000 5 5 secvential JAVA 8018029
+10 10000 5 5 linii 16 JAVA 3751594
+10 10000 5 5 coloane 16 JAVA 3372832
+10 10000 5 5 blocuri 16 JAVA 746987
+10 10000 5 5 distributie liniara 16 JAVA 22064964
+10 10000 5 5 distributie ciclica 16 JAVA 15924113
+10 10000 5 5 secvential JAVA 7347759
+10 10000 5 5 linii 16 JAVA 3565453
+10 10000 5 5 coloane 16 JAVA 3292989
+10 10000 5 5 blocuri 16 JAVA 739471
+10 10000 5 5 distributie liniara 16 JAVA 22093935
+10 10000 5 5 distributie ciclica 16 JAVA 13449239
+10 10000 5 5 secvential JAVA 7222689
+10 10000 5 5 linii 16 JAVA 3754803
+10 10000 5 5 coloane 16 JAVA 3534510
+10 10000 5 5 blocuri 16 JAVA 661892
+10 10000 5 5 distributie liniara 16 JAVA 24089257
+10 10000 5 5 distributie ciclica 16 JAVA 24957054
+1000 1000 5 5 secvential JAVA 37080848
+1000 1000 5 5 linii 1 JAVA 35210597
+1000 1000 5 5 coloane 1 JAVA 39639978
+1000 1000 5 5 blocuri 1 JAVA 35549837
+1000 1000 5 5 distributie liniara 1 JAVA 98590073
+1000 1000 5 5 distributie ciclica 1 JAVA 85415519
+1000 1000 5 5 secvential JAVA 36588848
+1000 1000 5 5 linii 1 JAVA 37201770
+1000 1000 5 5 coloane 1 JAVA 43787428
+1000 1000 5 5 blocuri 1 JAVA 34789068
+1000 1000 5 5 distributie liniara 1 JAVA 87467172
+1000 1000 5 5 distributie ciclica 1 JAVA 104458688
+1000 1000 5 5 secvential JAVA 38493081
+1000 1000 5 5 linii 1 JAVA 37054995
+1000 1000 5 5 coloane 1 JAVA 42597624
+1000 1000 5 5 blocuri 1 JAVA 35836909
+1000 1000 5 5 distributie liniara 1 JAVA 94161364
+1000 1000 5 5 distributie ciclica 1 JAVA 87791219
+1000 1000 5 5 secvential JAVA 40602018
+1000 1000 5 5 linii 1 JAVA 38388820
+1000 1000 5 5 coloane 1 JAVA 39522233
+1000 1000 5 5 blocuri 1 JAVA 37627733
+1000 1000 5 5 distributie liniara 1 JAVA 86616880
+1000 1000 5 5 distributie ciclica 1 JAVA 96902688
+1000 1000 5 5 secvential JAVA 44391369
+1000 1000 5 5 linii 1 JAVA 36286058
+1000 1000 5 5 coloane 1 JAVA 37214006
+1000 1000 5 5 blocuri 1 JAVA 33347721
+1000 1000 5 5 distributie liniara 1 JAVA 102967792
+1000 1000 5 5 distributie ciclica 1 JAVA 86309548
+1000 1000 5 5 secvential JAVA 37153050
+1000 1000 5 5 linii 1 JAVA 34700536
+1000 1000 5 5 coloane 1 JAVA 39379154
+1000 1000 5 5 blocuri 1 JAVA 33770752
+1000 1000 5 5 distributie liniara 1 JAVA 80312900
+1000 1000 5 5 distributie ciclica 1 JAVA 90810318
+1000 1000 5 5 secvential JAVA 34524594
+1000 1000 5 5 linii 1 JAVA 33460595
+1000 1000 5 5 coloane 1 JAVA 39233253
+1000 1000 5 5 blocuri 1 JAVA 33057684
+1000 1000 5 5 distributie liniara 1 JAVA 83253533
+1000 1000 5 5 distributie ciclica 1 JAVA 103791715
+1000 1000 5 5 secvential JAVA 35749763
+1000 1000 5 5 linii 1 JAVA 34568179
+1000 1000 5 5 coloane 1 JAVA 36749478
+1000 1000 5 5 blocuri 1 JAVA 34281069
+1000 1000 5 5 distributie liniara 1 JAVA 81888116
+1000 1000 5 5 distributie ciclica 1 JAVA 89999931
+1000 1000 5 5 secvential JAVA 34740110
+1000 1000 5 5 linii 1 JAVA 33600461
+1000 1000 5 5 coloane 1 JAVA 35208039
+1000 1000 5 5 blocuri 1 JAVA 33574947
+1000 1000 5 5 distributie liniara 1 JAVA 79421515
+1000 1000 5 5 distributie ciclica 1 JAVA 67040363
+1000 1000 5 5 secvential JAVA 35789051
+1000 1000 5 5 linii 1 JAVA 34699782
+1000 1000 5 5 coloane 1 JAVA 37264706
+1000 1000 5 5 blocuri 1 JAVA 35666051
+1000 1000 5 5 distributie liniara 1 JAVA 97361294
+1000 1000 5 5 distributie ciclica 1 JAVA 87298140
+1000 1000 5 5 secvential JAVA 34723502
+1000 1000 5 5 linii 2 JAVA 26087539
+1000 1000 5 5 coloane 2 JAVA 27324848
+1000 1000 5 5 blocuri 2 JAVA 16741355
+1000 1000 5 5 distributie liniara 2 JAVA 68119293
+1000 1000 5 5 distributie ciclica 2 JAVA 50862631
+1000 1000 5 5 secvential JAVA 42892403
+1000 1000 5 5 linii 2 JAVA 25773460
+1000 1000 5 5 coloane 2 JAVA 30009785
+1000 1000 5 5 blocuri 2 JAVA 17978089
+1000 1000 5 5 distributie liniara 2 JAVA 145365522
+1000 1000 5 5 distributie ciclica 2 JAVA 71231614
+1000 1000 5 5 secvential JAVA 34613354
+1000 1000 5 5 linii 2 JAVA 27090998
+1000 1000 5 5 coloane 2 JAVA 27390947
+1000 1000 5 5 blocuri 2 JAVA 16693551
+1000 1000 5 5 distributie liniara 2 JAVA 67551033
+1000 1000 5 5 distributie ciclica 2 JAVA 78485070
+1000 1000 5 5 secvential JAVA 34482799
+1000 1000 5 5 linii 2 JAVA 26551792
+1000 1000 5 5 coloane 2 JAVA 27784587
+1000 1000 5 5 blocuri 2 JAVA 16780754
+1000 1000 5 5 distributie liniara 2 JAVA 67100417
+1000 1000 5 5 distributie ciclica 2 JAVA 77101967
+1000 1000 5 5 secvential JAVA 34644051
+1000 1000 5 5 linii 2 JAVA 27310655
+1000 1000 5 5 coloane 2 JAVA 27573619
+1000 1000 5 5 blocuri 2 JAVA 16835706
+1000 1000 5 5 distributie liniara 2 JAVA 135176309
+1000 1000 5 5 distributie ciclica 2 JAVA 58846458
+1000 1000 5 5 secvential JAVA 34496189
+1000 1000 5 5 linii 2 JAVA 27208182
+1000 1000 5 5 coloane 2 JAVA 27391775
+1000 1000 5 5 blocuri 2 JAVA 16770541
+1000 1000 5 5 distributie liniara 2 JAVA 137944044
+1000 1000 5 5 distributie ciclica 2 JAVA 57792433
+1000 1000 5 5 secvential JAVA 40339391
+1000 1000 5 5 linii 2 JAVA 25182130
+1000 1000 5 5 coloane 2 JAVA 27843417
+1000 1000 5 5 blocuri 2 JAVA 17024624
+1000 1000 5 5 distributie liniara 2 JAVA 69586167
+1000 1000 5 5 distributie ciclica 2 JAVA 50636744
+1000 1000 5 5 secvential JAVA 35516628
+1000 1000 5 5 linii 2 JAVA 26266591
+1000 1000 5 5 coloane 2 JAVA 26859362
+1000 1000 5 5 blocuri 2 JAVA 16710848
+1000 1000 5 5 distributie liniara 2 JAVA 66159287
+1000 1000 5 5 distributie ciclica 2 JAVA 49293101
+1000 1000 5 5 secvential JAVA 34532299
+1000 1000 5 5 linii 2 JAVA 27556356
+1000 1000 5 5 coloane 2 JAVA 28085161
+1000 1000 5 5 blocuri 2 JAVA 17890217
+1000 1000 5 5 distributie liniara 2 JAVA 66303956
+1000 1000 5 5 distributie ciclica 2 JAVA 76642111
+1000 1000 5 5 secvential JAVA 34801650
+1000 1000 5 5 linii 2 JAVA 26126252
+1000 1000 5 5 coloane 2 JAVA 28590150
+1000 1000 5 5 blocuri 2 JAVA 18023644
+1000 1000 5 5 distributie liniara 2 JAVA 68334450
+1000 1000 5 5 distributie ciclica 2 JAVA 78727521
+1000 1000 5 5 secvential JAVA 35451578
+1000 1000 5 5 linii 4 JAVA 26218404
+1000 1000 5 5 coloane 4 JAVA 26223834
+1000 1000 5 5 blocuri 4 JAVA 8046528
+1000 1000 5 5 distributie liniara 4 JAVA 66139687
+1000 1000 5 5 distributie ciclica 4 JAVA 75633230
+1000 1000 5 5 secvential JAVA 34401738
+1000 1000 5 5 linii 4 JAVA 25289291
+1000 1000 5 5 coloane 4 JAVA 25834910
+1000 1000 5 5 blocuri 4 JAVA 8843111
+1000 1000 5 5 distributie liniara 4 JAVA 68812472
+1000 1000 5 5 distributie ciclica 4 JAVA 45741078
+1000 1000 5 5 secvential JAVA 34848130
+1000 1000 5 5 linii 4 JAVA 25816170
+1000 1000 5 5 coloane 4 JAVA 24344076
+1000 1000 5 5 blocuri 4 JAVA 8780053
+1000 1000 5 5 distributie liniara 4 JAVA 141280038
+1000 1000 5 5 distributie ciclica 4 JAVA 56570917
+1000 1000 5 5 secvential JAVA 34368758
+1000 1000 5 5 linii 4 JAVA 27654131
+1000 1000 5 5 coloane 4 JAVA 30760049
+1000 1000 5 5 blocuri 4 JAVA 9497982
+1000 1000 5 5 distributie liniara 4 JAVA 142791893
+1000 1000 5 5 distributie ciclica 4 JAVA 56763495
+1000 1000 5 5 secvential JAVA 35104995
+1000 1000 5 5 linii 4 JAVA 26004182
+1000 1000 5 5 coloane 4 JAVA 27318021
+1000 1000 5 5 blocuri 4 JAVA 7947705
+1000 1000 5 5 distributie liniara 4 JAVA 72422615
+1000 1000 5 5 distributie ciclica 4 JAVA 80286844
+1000 1000 5 5 secvential JAVA 34359115
+1000 1000 5 5 linii 4 JAVA 27118830
+1000 1000 5 5 coloane 4 JAVA 28950157
+1000 1000 5 5 blocuri 4 JAVA 9075554
+1000 1000 5 5 distributie liniara 4 JAVA 64822002
+1000 1000 5 5 distributie ciclica 4 JAVA 81669206
+1000 1000 5 5 secvential JAVA 34656740
+1000 1000 5 5 linii 4 JAVA 24726804
+1000 1000 5 5 coloane 4 JAVA 26681277
+1000 1000 5 5 blocuri 4 JAVA 9504370
+1000 1000 5 5 distributie liniara 4 JAVA 66298950
+1000 1000 5 5 distributie ciclica 4 JAVA 73265273
+1000 1000 5 5 secvential JAVA 34591063
+1000 1000 5 5 linii 4 JAVA 25074991
+1000 1000 5 5 coloane 4 JAVA 26775695
+1000 1000 5 5 blocuri 4 JAVA 8612602
+1000 1000 5 5 distributie liniara 4 JAVA 64539373
+1000 1000 5 5 distributie ciclica 4 JAVA 79155008
+1000 1000 5 5 secvential JAVA 39921703
+1000 1000 5 5 linii 4 JAVA 27797758
+1000 1000 5 5 coloane 4 JAVA 28267878
+1000 1000 5 5 blocuri 4 JAVA 8478817
+1000 1000 5 5 distributie liniara 4 JAVA 69241731
+1000 1000 5 5 distributie ciclica 4 JAVA 95832399
+1000 1000 5 5 secvential JAVA 35055994
+1000 1000 5 5 linii 4 JAVA 23705662
+1000 1000 5 5 coloane 4 JAVA 28904378
+1000 1000 5 5 blocuri 4 JAVA 9633696
+1000 1000 5 5 distributie liniara 4 JAVA 148821539
+1000 1000 5 5 distributie ciclica 4 JAVA 63136714
+1000 1000 5 5 secvential JAVA 35606638
+1000 1000 5 5 linii 8 JAVA 28367640
+1000 1000 5 5 coloane 8 JAVA 33831249
+1000 1000 5 5 blocuri 8 JAVA 3694076
+1000 1000 5 5 distributie liniara 8 JAVA 155127526
+1000 1000 5 5 distributie ciclica 8 JAVA 56532759
+1000 1000 5 5 secvential JAVA 34456944
+1000 1000 5 5 linii 8 JAVA 30703465
+1000 1000 5 5 coloane 8 JAVA 28576155
+1000 1000 5 5 blocuri 8 JAVA 3887410
+1000 1000 5 5 distributie liniara 8 JAVA 70025353
+1000 1000 5 5 distributie ciclica 8 JAVA 58230372
+1000 1000 5 5 secvential JAVA 35145620
+1000 1000 5 5 linii 8 JAVA 30946367
+1000 1000 5 5 coloane 8 JAVA 34049758
+1000 1000 5 5 blocuri 8 JAVA 4006600
+1000 1000 5 5 distributie liniara 8 JAVA 76625169
+1000 1000 5 5 distributie ciclica 8 JAVA 70699962
+1000 1000 5 5 secvential JAVA 34684991
+1000 1000 5 5 linii 8 JAVA 34042524
+1000 1000 5 5 coloane 8 JAVA 31020069
+1000 1000 5 5 blocuri 8 JAVA 3859214
+1000 1000 5 5 distributie liniara 8 JAVA 83434468
+1000 1000 5 5 distributie ciclica 8 JAVA 29311387
+1000 1000 5 5 secvential JAVA 34857860
+1000 1000 5 5 linii 8 JAVA 30863779
+1000 1000 5 5 coloane 8 JAVA 33712659
+1000 1000 5 5 blocuri 8 JAVA 4032016
+1000 1000 5 5 distributie liniara 8 JAVA 166666718
+1000 1000 5 5 distributie ciclica 8 JAVA 59959407
+1000 1000 5 5 secvential JAVA 34976493
+1000 1000 5 5 linii 8 JAVA 29637624
+1000 1000 5 5 coloane 8 JAVA 38993171
+1000 1000 5 5 blocuri 8 JAVA 4070153
+1000 1000 5 5 distributie liniara 8 JAVA 68877660
+1000 1000 5 5 distributie ciclica 8 JAVA 61094249
+1000 1000 5 5 secvential JAVA 34554147
+1000 1000 5 5 linii 8 JAVA 32876707
+1000 1000 5 5 coloane 8 JAVA 36444607
+1000 1000 5 5 blocuri 8 JAVA 3979749
+1000 1000 5 5 distributie liniara 8 JAVA 146598013
+1000 1000 5 5 distributie ciclica 8 JAVA 37436684
+1000 1000 5 5 secvential JAVA 35222390
+1000 1000 5 5 linii 8 JAVA 31891134
+1000 1000 5 5 coloane 8 JAVA 32598811
+1000 1000 5 5 blocuri 8 JAVA 3823271
+1000 1000 5 5 distributie liniara 8 JAVA 169719816
+1000 1000 5 5 distributie ciclica 8 JAVA 60894892
+1000 1000 5 5 secvential JAVA 40102978
+1000 1000 5 5 linii 8 JAVA 32280304
+1000 1000 5 5 coloane 8 JAVA 31037191
+1000 1000 5 5 blocuri 8 JAVA 4147912
+1000 1000 5 5 distributie liniara 8 JAVA 81225968
+1000 1000 5 5 distributie ciclica 8 JAVA 82519119
+1000 1000 5 5 secvential JAVA 35679982
+1000 1000 5 5 linii 8 JAVA 33489009
+1000 1000 5 5 coloane 8 JAVA 47480530
+1000 1000 5 5 blocuri 8 JAVA 4677811
+1000 1000 5 5 distributie liniara 8 JAVA 79902714
+1000 1000 5 5 distributie ciclica 8 JAVA 28699170
+1000 1000 5 5 secvential JAVA 34579887
+1000 1000 5 5 linii 16 JAVA 29348262
+1000 1000 5 5 coloane 16 JAVA 37975325
+1000 1000 5 5 blocuri 16 JAVA 2209112
+1000 1000 5 5 distributie liniara 16 JAVA 86880219
+1000 1000 5 5 distributie ciclica 16 JAVA 29945261
+1000 1000 5 5 secvential JAVA 36067435
+1000 1000 5 5 linii 16 JAVA 31632435
+1000 1000 5 5 coloane 16 JAVA 35255979
+1000 1000 5 5 blocuri 16 JAVA 2428093
+1000 1000 5 5 distributie liniara 16 JAVA 161853096
+1000 1000 5 5 distributie ciclica 16 JAVA 44085990
+1000 1000 5 5 secvential JAVA 36223914
+1000 1000 5 5 linii 16 JAVA 30081084
+1000 1000 5 5 coloane 16 JAVA 30000027
+1000 1000 5 5 blocuri 16 JAVA 2169042
+1000 1000 5 5 distributie liniara 16 JAVA 100078740
+1000 1000 5 5 distributie ciclica 16 JAVA 31906578
+1000 1000 5 5 secvential JAVA 36400059
+1000 1000 5 5 linii 16 JAVA 33160898
+1000 1000 5 5 coloane 16 JAVA 31934676
+1000 1000 5 5 blocuri 16 JAVA 2207756
+1000 1000 5 5 distributie liniara 16 JAVA 90499808
+1000 1000 5 5 distributie ciclica 16 JAVA 59999453
+1000 1000 5 5 secvential JAVA 37309272
+1000 1000 5 5 linii 16 JAVA 32733525
+1000 1000 5 5 coloane 16 JAVA 33089388
+1000 1000 5 5 blocuri 16 JAVA 2290241
+1000 1000 5 5 distributie liniara 16 JAVA 88418342
+1000 1000 5 5 distributie ciclica 16 JAVA 59436263
+1000 1000 5 5 secvential JAVA 36942732
+1000 1000 5 5 linii 16 JAVA 30698850
+1000 1000 5 5 coloane 16 JAVA 31080289
+1000 1000 5 5 blocuri 16 JAVA 2337052
+1000 1000 5 5 distributie liniara 16 JAVA 75627002
+1000 1000 5 5 distributie ciclica 16 JAVA 79347646
+1000 1000 5 5 secvential JAVA 37548847
+1000 1000 5 5 linii 16 JAVA 31694456
+1000 1000 5 5 coloane 16 JAVA 31873911
+1000 1000 5 5 blocuri 16 JAVA 2127722
+1000 1000 5 5 distributie liniara 16 JAVA 166727463
+1000 1000 5 5 distributie ciclica 16 JAVA 47898428
+1000 1000 5 5 secvential JAVA 41686135
+1000 1000 5 5 linii 16 JAVA 29644053
+1000 1000 5 5 coloane 16 JAVA 36327007
+1000 1000 5 5 blocuri 16 JAVA 2529948
+1000 1000 5 5 distributie liniara 16 JAVA 179579187
+1000 1000 5 5 distributie ciclica 16 JAVA 43931465
+1000 1000 5 5 secvential JAVA 35428005
+1000 1000 5 5 linii 16 JAVA 30205791
+1000 1000 5 5 coloane 16 JAVA 31015382
+1000 1000 5 5 blocuri 16 JAVA 2096956
+1000 1000 5 5 distributie liniara 16 JAVA 95163371
+1000 1000 5 5 distributie ciclica 16 JAVA 31299411
+1000 1000 5 5 secvential JAVA 37146157
+1000 1000 5 5 linii 16 JAVA 30872294
+1000 1000 5 5 coloane 16 JAVA 30772965
+1000 1000 5 5 blocuri 16 JAVA 2158521
+1000 1000 5 5 distributie liniara 16 JAVA 88545558
+1000 1000 5 5 distributie ciclica 16 JAVA 30559289
+10000 10 5 5 secvential JAVA 7788280
+10000 10 5 5 linii 1 JAVA 5886228
+10000 10 5 5 coloane 1 JAVA 5633169
+10000 10 5 5 blocuri 1 JAVA 5282872
+10000 10 5 5 distributie liniara 1 JAVA 22839301
+10000 10 5 5 distributie ciclica 1 JAVA 10297237
+10000 10 5 5 secvential JAVA 7969499
+10000 10 5 5 linii 1 JAVA 6200874
+10000 10 5 5 coloane 1 JAVA 5793907
+10000 10 5 5 blocuri 1 JAVA 4967588
+10000 10 5 5 distributie liniara 1 JAVA 25681171
+10000 10 5 5 distributie ciclica 1 JAVA 10534096
+10000 10 5 5 secvential JAVA 7598872
+10000 10 5 5 linii 1 JAVA 5812255
+10000 10 5 5 coloane 1 JAVA 5353299
+10000 10 5 5 blocuri 1 JAVA 5035504
+10000 10 5 5 distributie liniara 1 JAVA 24513433
+10000 10 5 5 distributie ciclica 1 JAVA 9982307
+10000 10 5 5 secvential JAVA 8965684
+10000 10 5 5 linii 1 JAVA 5794374
+10000 10 5 5 coloane 1 JAVA 5619777
+10000 10 5 5 blocuri 1 JAVA 5330461
+10000 10 5 5 distributie liniara 1 JAVA 23604464
+10000 10 5 5 distributie ciclica 1 JAVA 11130130
+10000 10 5 5 secvential JAVA 8812023
+10000 10 5 5 linii 1 JAVA 5658211
+10000 10 5 5 coloane 1 JAVA 5822038
+10000 10 5 5 blocuri 1 JAVA 5292947
+10000 10 5 5 distributie liniara 1 JAVA 23019207
+10000 10 5 5 distributie ciclica 1 JAVA 9951249
+10000 10 5 5 secvential JAVA 8050174
+10000 10 5 5 linii 1 JAVA 5743438
+10000 10 5 5 coloane 1 JAVA 5450721
+10000 10 5 5 blocuri 1 JAVA 5111854
+10000 10 5 5 distributie liniara 1 JAVA 23985508
+10000 10 5 5 distributie ciclica 1 JAVA 10589661
+10000 10 5 5 secvential JAVA 7814458
+10000 10 5 5 linii 1 JAVA 5851703
+10000 10 5 5 coloane 1 JAVA 5330307
+10000 10 5 5 blocuri 1 JAVA 5053956
+10000 10 5 5 distributie liniara 1 JAVA 23361528
+10000 10 5 5 distributie ciclica 1 JAVA 10048770
+10000 10 5 5 secvential JAVA 7624289
+10000 10 5 5 linii 1 JAVA 5682601
+10000 10 5 5 coloane 1 JAVA 5536733
+10000 10 5 5 blocuri 1 JAVA 5041435
+10000 10 5 5 distributie liniara 1 JAVA 26777930
+10000 10 5 5 distributie ciclica 1 JAVA 9918341
+10000 10 5 5 secvential JAVA 7669377
+10000 10 5 5 linii 1 JAVA 5709243
+10000 10 5 5 coloane 1 JAVA 5414072
+10000 10 5 5 blocuri 1 JAVA 5085078
+10000 10 5 5 distributie liniara 1 JAVA 23286201
+10000 10 5 5 distributie ciclica 1 JAVA 9891589
+10000 10 5 5 secvential JAVA 7948699
+10000 10 5 5 linii 1 JAVA 5755824
+10000 10 5 5 coloane 1 JAVA 5380692
+10000 10 5 5 blocuri 1 JAVA 4994602
+10000 10 5 5 distributie liniara 1 JAVA 22956120
+10000 10 5 5 distributie ciclica 1 JAVA 9725893
+10000 10 5 5 secvential JAVA 8114796
+10000 10 5 5 linii 2 JAVA 4311739
+10000 10 5 5 coloane 2 JAVA 4957816
+10000 10 5 5 blocuri 2 JAVA 2079813
+10000 10 5 5 distributie liniara 2 JAVA 24518874
+10000 10 5 5 distributie ciclica 2 JAVA 17105670
+10000 10 5 5 secvential JAVA 8312056
+10000 10 5 5 linii 2 JAVA 4367627
+10000 10 5 5 coloane 2 JAVA 4200178
+10000 10 5 5 blocuri 2 JAVA 2307769
+10000 10 5 5 distributie liniara 2 JAVA 24595283
+10000 10 5 5 distributie ciclica 2 JAVA 17250148
+10000 10 5 5 secvential JAVA 7689082
+10000 10 5 5 linii 2 JAVA 4582413
+10000 10 5 5 coloane 2 JAVA 4255712
+10000 10 5 5 blocuri 2 JAVA 2091797
+10000 10 5 5 distributie liniara 2 JAVA 25238629
+10000 10 5 5 distributie ciclica 2 JAVA 15814395
+10000 10 5 5 secvential JAVA 8529208
+10000 10 5 5 linii 2 JAVA 4430766
+10000 10 5 5 coloane 2 JAVA 4114477
+10000 10 5 5 blocuri 2 JAVA 2199452
+10000 10 5 5 distributie liniara 2 JAVA 24016450
+10000 10 5 5 distributie ciclica 2 JAVA 16901784
+10000 10 5 5 secvential JAVA 7644958
+10000 10 5 5 linii 2 JAVA 4351929
+10000 10 5 5 coloane 2 JAVA 4193636
+10000 10 5 5 blocuri 2 JAVA 2129159
+10000 10 5 5 distributie liniara 2 JAVA 23813263
+10000 10 5 5 distributie ciclica 2 JAVA 16199707
+10000 10 5 5 secvential JAVA 7732304
+10000 10 5 5 linii 2 JAVA 4390898
+10000 10 5 5 coloane 2 JAVA 4042477
+10000 10 5 5 blocuri 2 JAVA 2143351
+10000 10 5 5 distributie liniara 2 JAVA 25984010
+10000 10 5 5 distributie ciclica 2 JAVA 19031175
+10000 10 5 5 secvential JAVA 7891394
+10000 10 5 5 linii 2 JAVA 4461255
+10000 10 5 5 coloane 2 JAVA 4290795
+10000 10 5 5 blocuri 2 JAVA 2210820
+10000 10 5 5 distributie liniara 2 JAVA 23370985
+10000 10 5 5 distributie ciclica 2 JAVA 15899612
+10000 10 5 5 secvential JAVA 7778459
+10000 10 5 5 linii 2 JAVA 4457102
+10000 10 5 5 coloane 2 JAVA 5007892
+10000 10 5 5 blocuri 2 JAVA 2140053
+10000 10 5 5 distributie liniara 2 JAVA 23032186
+10000 10 5 5 distributie ciclica 2 JAVA 16045323
+10000 10 5 5 secvential JAVA 8207681
+10000 10 5 5 linii 2 JAVA 4579601
+10000 10 5 5 coloane 2 JAVA 4570658
+10000 10 5 5 blocuri 2 JAVA 2286839
+10000 10 5 5 distributie liniara 2 JAVA 24400197
+10000 10 5 5 distributie ciclica 2 JAVA 17508825
+10000 10 5 5 secvential JAVA 7710711
+10000 10 5 5 linii 2 JAVA 4541418
+10000 10 5 5 coloane 2 JAVA 4207631
+10000 10 5 5 blocuri 2 JAVA 2033454
+10000 10 5 5 distributie liniara 2 JAVA 23231024
+10000 10 5 5 distributie ciclica 2 JAVA 16483546
+10000 10 5 5 secvential JAVA 7898963
+10000 10 5 5 linii 4 JAVA 3397489
+10000 10 5 5 coloane 4 JAVA 3343122
+10000 10 5 5 blocuri 4 JAVA 1181169
+10000 10 5 5 distributie liniara 4 JAVA 21300962
+10000 10 5 5 distributie ciclica 4 JAVA 14801722
+10000 10 5 5 secvential JAVA 7685839
+10000 10 5 5 linii 4 JAVA 3347138
+10000 10 5 5 coloane 4 JAVA 3515601
+10000 10 5 5 blocuri 4 JAVA 1357407
+10000 10 5 5 distributie liniara 4 JAVA 20844788
+10000 10 5 5 distributie ciclica 4 JAVA 15324895
+10000 10 5 5 secvential JAVA 7544107
+10000 10 5 5 linii 4 JAVA 3502251
+10000 10 5 5 coloane 4 JAVA 3629599
+10000 10 5 5 blocuri 4 JAVA 1233531
+10000 10 5 5 distributie liniara 4 JAVA 23451866
+10000 10 5 5 distributie ciclica 4 JAVA 15655148
+10000 10 5 5 secvential JAVA 8117749
+10000 10 5 5 linii 4 JAVA 3450270
+10000 10 5 5 coloane 4 JAVA 3623928
+10000 10 5 5 blocuri 4 JAVA 1227814
+10000 10 5 5 distributie liniara 4 JAVA 21137222
+10000 10 5 5 distributie ciclica 4 JAVA 15654962
+10000 10 5 5 secvential JAVA 8276432
+10000 10 5 5 linii 4 JAVA 3430999
+10000 10 5 5 coloane 4 JAVA 3435050
+10000 10 5 5 blocuri 4 JAVA 1193215
+10000 10 5 5 distributie liniara 4 JAVA 22120407
+10000 10 5 5 distributie ciclica 4 JAVA 18048892
+10000 10 5 5 secvential JAVA 8053394
+10000 10 5 5 linii 4 JAVA 3462451
+10000 10 5 5 coloane 4 JAVA 3536866
+10000 10 5 5 blocuri 4 JAVA 1315686
+10000 10 5 5 distributie liniara 4 JAVA 21849357
+10000 10 5 5 distributie ciclica 4 JAVA 17688270
+10000 10 5 5 secvential JAVA 7727591
+10000 10 5 5 linii 4 JAVA 3750002
+10000 10 5 5 coloane 4 JAVA 3502243
+10000 10 5 5 blocuri 4 JAVA 1188558
+10000 10 5 5 distributie liniara 4 JAVA 21059587
+10000 10 5 5 distributie ciclica 4 JAVA 15299496
+10000 10 5 5 secvential JAVA 10273329
+10000 10 5 5 linii 4 JAVA 3646296
+10000 10 5 5 coloane 4 JAVA 3388747
+10000 10 5 5 blocuri 4 JAVA 1168257
+10000 10 5 5 distributie liniara 4 JAVA 21311241
+10000 10 5 5 distributie ciclica 4 JAVA 14531308
+10000 10 5 5 secvential JAVA 7693401
+10000 10 5 5 linii 4 JAVA 3372505
+10000 10 5 5 coloane 4 JAVA 3534698
+10000 10 5 5 blocuri 4 JAVA 1186482
+10000 10 5 5 distributie liniara 4 JAVA 20568960
+10000 10 5 5 distributie ciclica 4 JAVA 14860085
+10000 10 5 5 secvential JAVA 7523531
+10000 10 5 5 linii 4 JAVA 3544199
+10000 10 5 5 coloane 4 JAVA 3267805
+10000 10 5 5 blocuri 4 JAVA 1165791
+10000 10 5 5 distributie liniara 4 JAVA 21612820
+10000 10 5 5 distributie ciclica 4 JAVA 15934098
+10000 10 5 5 secvential JAVA 11408139
+10000 10 5 5 linii 8 JAVA 3670001
+10000 10 5 5 coloane 8 JAVA 3445804
+10000 10 5 5 blocuri 8 JAVA 756182
+10000 10 5 5 distributie liniara 8 JAVA 23429687
+10000 10 5 5 distributie ciclica 8 JAVA 13646913
+10000 10 5 5 secvential JAVA 7763685
+10000 10 5 5 linii 8 JAVA 3422520
+10000 10 5 5 coloane 8 JAVA 3631083
+10000 10 5 5 blocuri 8 JAVA 723659
+10000 10 5 5 distributie liniara 8 JAVA 19898372
+10000 10 5 5 distributie ciclica 8 JAVA 12903525
+10000 10 5 5 secvential JAVA 7679178
+10000 10 5 5 linii 8 JAVA 3286976
+10000 10 5 5 coloane 8 JAVA 3250451
+10000 10 5 5 blocuri 8 JAVA 747417
+10000 10 5 5 distributie liniara 8 JAVA 24213369
+10000 10 5 5 distributie ciclica 8 JAVA 15735260
+10000 10 5 5 secvential JAVA 7645172
+10000 10 5 5 linii 8 JAVA 3311725
+10000 10 5 5 coloane 8 JAVA 3651917
+10000 10 5 5 blocuri 8 JAVA 793851
+10000 10 5 5 distributie liniara 8 JAVA 21198173
+10000 10 5 5 distributie ciclica 8 JAVA 13001276
+10000 10 5 5 secvential JAVA 8108285
+10000 10 5 5 linii 8 JAVA 3680105
+10000 10 5 5 coloane 8 JAVA 3459723
+10000 10 5 5 blocuri 8 JAVA 854654
+10000 10 5 5 distributie liniara 8 JAVA 24696303
+10000 10 5 5 distributie ciclica 8 JAVA 13429782
+10000 10 5 5 secvential JAVA 7843770
+10000 10 5 5 linii 8 JAVA 3480182
+10000 10 5 5 coloane 8 JAVA 3471237
+10000 10 5 5 blocuri 8 JAVA 771715
+10000 10 5 5 distributie liniara 8 JAVA 22716034
+10000 10 5 5 distributie ciclica 8 JAVA 12800617
+10000 10 5 5 secvential JAVA 7631821
+10000 10 5 5 linii 8 JAVA 3536663
+10000 10 5 5 coloane 8 JAVA 3328362
+10000 10 5 5 blocuri 8 JAVA 725484
+10000 10 5 5 distributie liniara 8 JAVA 21703178
+10000 10 5 5 distributie ciclica 8 JAVA 13122848
+10000 10 5 5 secvential JAVA 9636442
+10000 10 5 5 linii 8 JAVA 3559434
+10000 10 5 5 coloane 8 JAVA 3752559
+10000 10 5 5 blocuri 8 JAVA 745841
+10000 10 5 5 distributie liniara 8 JAVA 22111078
+10000 10 5 5 distributie ciclica 8 JAVA 13817091
+10000 10 5 5 secvential JAVA 7636676
+10000 10 5 5 linii 8 JAVA 3469627
+10000 10 5 5 coloane 8 JAVA 3885862
+10000 10 5 5 blocuri 8 JAVA 750483
+10000 10 5 5 distributie liniara 8 JAVA 22431758
+10000 10 5 5 distributie ciclica 8 JAVA 12960084
+10000 10 5 5 secvential JAVA 7615104
+10000 10 5 5 linii 8 JAVA 3530062
+10000 10 5 5 coloane 8 JAVA 3752522
+10000 10 5 5 blocuri 8 JAVA 719966
+10000 10 5 5 distributie liniara 8 JAVA 20201516
+10000 10 5 5 distributie ciclica 8 JAVA 13091623
+10000 10 5 5 secvential JAVA 7826986
+10000 10 5 5 linii 16 JAVA 3587853
+10000 10 5 5 coloane 16 JAVA 3422998
+10000 10 5 5 blocuri 16 JAVA 753853
+10000 10 5 5 distributie liniara 16 JAVA 21588203
+10000 10 5 5 distributie ciclica 16 JAVA 13895194
+10000 10 5 5 secvential JAVA 9734513
+10000 10 5 5 linii 16 JAVA 3568902
+10000 10 5 5 coloane 16 JAVA 2988877
+10000 10 5 5 blocuri 16 JAVA 875716
+10000 10 5 5 distributie liniara 16 JAVA 23868219
+10000 10 5 5 distributie ciclica 16 JAVA 14029819
+10000 10 5 5 secvential JAVA 10308298
+10000 10 5 5 linii 16 JAVA 3732180
+10000 10 5 5 coloane 16 JAVA 3202675
+10000 10 5 5 blocuri 16 JAVA 735849
+10000 10 5 5 distributie liniara 16 JAVA 25824453
+10000 10 5 5 distributie ciclica 16 JAVA 10565857
+10000 10 5 5 secvential JAVA 7692114
+10000 10 5 5 linii 16 JAVA 3644256
+10000 10 5 5 coloane 16 JAVA 3344787
+10000 10 5 5 blocuri 16 JAVA 728597
+10000 10 5 5 distributie liniara 16 JAVA 23198754
+10000 10 5 5 distributie ciclica 16 JAVA 16262494
+10000 10 5 5 secvential JAVA 7640459
+10000 10 5 5 linii 16 JAVA 3626973
+10000 10 5 5 coloane 16 JAVA 3231288
+10000 10 5 5 blocuri 16 JAVA 680706
+10000 10 5 5 distributie liniara 16 JAVA 26991663
+10000 10 5 5 distributie ciclica 16 JAVA 10535207
+10000 10 5 5 secvential JAVA 7997643
+10000 10 5 5 linii 16 JAVA 3760966
+10000 10 5 5 coloane 16 JAVA 3501044
+10000 10 5 5 blocuri 16 JAVA 726185
+10000 10 5 5 distributie liniara 16 JAVA 21839400
+10000 10 5 5 distributie ciclica 16 JAVA 13938352
+10000 10 5 5 secvential JAVA 7729131
+10000 10 5 5 linii 16 JAVA 3835273
+10000 10 5 5 coloane 16 JAVA 3482935
+10000 10 5 5 blocuri 16 JAVA 765714
+10000 10 5 5 distributie liniara 16 JAVA 26112035
+10000 10 5 5 distributie ciclica 16 JAVA 9610312
+10000 10 5 5 secvential JAVA 7591789
+10000 10 5 5 linii 16 JAVA 3686453
+10000 10 5 5 coloane 16 JAVA 3382502
+10000 10 5 5 blocuri 16 JAVA 739946
+10000 10 5 5 distributie liniara 16 JAVA 25806588
+10000 10 5 5 distributie ciclica 16 JAVA 14100544
+10000 10 5 5 secvential JAVA 7872207
+10000 10 5 5 linii 16 JAVA 3644380
+10000 10 5 5 coloane 16 JAVA 3563490
+10000 10 5 5 blocuri 16 JAVA 713248
+10000 10 5 5 distributie liniara 16 JAVA 21920656
+10000 10 5 5 distributie ciclica 16 JAVA 13871530
+10000 10 5 5 secvential JAVA 8084643
+10000 10 5 5 linii 16 JAVA 3527131
+10000 10 5 5 coloane 16 JAVA 3456016
+10000 10 5 5 blocuri 16 JAVA 721771
+10000 10 5 5 distributie liniara 16 JAVA 24090023
+10000 10 5 5 distributie ciclica 16 JAVA 10168498
+10000 10000 5 5 secvential JAVA 2993946827
+10000 10000 5 5 linii 1 JAVA 3001215294
+10000 10000 5 5 coloane 1 JAVA 5991883026
+10000 10000 5 5 blocuri 1 JAVA 3004515859
+10000 10000 5 5 distributie liniara 1 JAVA 7801341732
+10000 10000 5 5 distributie ciclica 1 JAVA 6540401277
+10000 10000 5 5 secvential JAVA 2986527429
+10000 10000 5 5 linii 1 JAVA 2993711917
+10000 10000 5 5 coloane 1 JAVA 10999810113
+10000 10000 5 5 blocuri 1 JAVA 3004627977
+10000 10000 5 5 distributie liniara 1 JAVA 7094694774
+10000 10000 5 5 distributie ciclica 1 JAVA 7370992406
+10000 10000 5 5 secvential JAVA 2984727637
+10000 10000 5 5 linii 1 JAVA 2986540989
+10000 10000 5 5 coloane 1 JAVA 11605190240
+10000 10000 5 5 blocuri 1 JAVA 2993433937
+10000 10000 5 5 distributie liniara 1 JAVA 7162872131
+10000 10000 5 5 distributie ciclica 1 JAVA 7313156143
+10000 10000 5 5 secvential JAVA 3083909854
+10000 10000 5 5 linii 1 JAVA 3061247144
+10000 10000 5 5 coloane 1 JAVA 10602612718
+10000 10000 5 5 blocuri 1 JAVA 3235342433
+10000 10000 5 5 distributie liniara 1 JAVA 8035754021
+10000 10000 5 5 distributie ciclica 1 JAVA 7278198985
+10000 10000 5 5 secvential JAVA 3183038330
+10000 10000 5 5 linii 1 JAVA 3138389286
+10000 10000 5 5 coloane 1 JAVA 11958316231
+10000 10000 5 5 blocuri 1 JAVA 3206245276
+10000 10000 5 5 distributie liniara 1 JAVA 7504381157
+10000 10000 5 5 distributie ciclica 1 JAVA 7299385667
+10000 10000 5 5 secvential JAVA 3172129938
+10000 10000 5 5 linii 1 JAVA 3011341858
+10000 10000 5 5 coloane 1 JAVA 11137503460
+10000 10000 5 5 blocuri 1 JAVA 3012039917
+10000 10000 5 5 distributie liniara 1 JAVA 7062223356
+10000 10000 5 5 distributie ciclica 1 JAVA 7209161122
+10000 10000 5 5 secvential JAVA 3062830382
+10000 10000 5 5 linii 1 JAVA 3020914268
+10000 10000 5 5 coloane 1 JAVA 11413565408
+10000 10000 5 5 blocuri 1 JAVA 3129057878
+10000 10000 5 5 distributie liniara 1 JAVA 7467078963
+10000 10000 5 5 distributie ciclica 1 JAVA 7080264386
+10000 10000 5 5 secvential JAVA 3092236908
+10000 10000 5 5 linii 1 JAVA 3162971242
+10000 10000 5 5 coloane 1 JAVA 12016362009
+10000 10000 5 5 blocuri 1 JAVA 3148613888
+10000 10000 5 5 distributie liniara 1 JAVA 7357580045
+10000 10000 5 5 distributie ciclica 1 JAVA 7464082057
+10000 10000 5 5 secvential JAVA 3136907338
+10000 10000 5 5 linii 1 JAVA 3048784988
+10000 10000 5 5 coloane 1 JAVA 6793805931
+10000 10000 5 5 blocuri 1 JAVA 3099033813
+10000 10000 5 5 distributie liniara 1 JAVA 7938523153
+10000 10000 5 5 distributie ciclica 1 JAVA 7546353503
+10000 10000 5 5 secvential JAVA 2999268493
+10000 10000 5 5 linii 2 JAVA 1609594066
+10000 10000 5 5 coloane 2 JAVA 6528892691
+10000 10000 5 5 blocuri 2 JAVA 763734975
+10000 10000 5 5 distributie liniara 2 JAVA 5828823011
+10000 10000 5 5 distributie ciclica 2 JAVA 5825962845
+10000 10000 5 5 secvential JAVA 2999428803
+10000 10000 5 5 linii 2 JAVA 1515966602
+10000 10000 5 5 coloane 2 JAVA 4099328091
+10000 10000 5 5 blocuri 2 JAVA 773726499
+10000 10000 5 5 distributie liniara 2 JAVA 6571172883
+10000 10000 5 5 distributie ciclica 2 JAVA 6058587392
+10000 10000 5 5 secvential JAVA 3240227177
+10000 10000 5 5 linii 2 JAVA 1621258423
+10000 10000 5 5 coloane 2 JAVA 7245263486
+10000 10000 5 5 blocuri 2 JAVA 847625027
+10000 10000 5 5 distributie liniara 2 JAVA 6696361561
+10000 10000 5 5 distributie ciclica 2 JAVA 6817379990
+10000 10000 5 5 secvential JAVA 3090748584
+10000 10000 5 5 linii 2 JAVA 1672984382
+10000 10000 5 5 coloane 2 JAVA 5013220775
+10000 10000 5 5 blocuri 2 JAVA 860428907
+10000 10000 5 5 distributie liniara 2 JAVA 6737682481
+10000 10000 5 5 distributie ciclica 2 JAVA 5960755387
+10000 10000 5 5 secvential JAVA 3044520255
+10000 10000 5 5 linii 2 JAVA 1549547536
+10000 10000 5 5 coloane 2 JAVA 6287978114
+10000 10000 5 5 blocuri 2 JAVA 872086459
+10000 10000 5 5 distributie liniara 2 JAVA 6070040482
+10000 10000 5 5 distributie ciclica 2 JAVA 5963557750
+10000 10000 5 5 secvential JAVA 3124990711
+10000 10000 5 5 linii 2 JAVA 1573149036
+10000 10000 5 5 coloane 2 JAVA 4301678157
+10000 10000 5 5 blocuri 2 JAVA 778261246
+10000 10000 5 5 distributie liniara 2 JAVA 6482763560
+10000 10000 5 5 distributie ciclica 2 JAVA 6117377733
+10000 10000 5 5 secvential JAVA 3067724889
+10000 10000 5 5 linii 2 JAVA 1557084198
+10000 10000 5 5 coloane 2 JAVA 4055889760
+10000 10000 5 5 blocuri 2 JAVA 802201656
+10000 10000 5 5 distributie liniara 2 JAVA 6496449660
+10000 10000 5 5 distributie ciclica 2 JAVA 6446499553
+10000 10000 5 5 secvential JAVA 3026803274
+10000 10000 5 5 linii 2 JAVA 1557023926
+10000 10000 5 5 coloane 2 JAVA 4464170959
+10000 10000 5 5 blocuri 2 JAVA 795016028
+10000 10000 5 5 distributie liniara 2 JAVA 6500664776
+10000 10000 5 5 distributie ciclica 2 JAVA 6079774890
+10000 10000 5 5 secvential JAVA 3062279894
+10000 10000 5 5 linii 2 JAVA 1578190186
+10000 10000 5 5 coloane 2 JAVA 6327698509
+10000 10000 5 5 blocuri 2 JAVA 802154351
+10000 10000 5 5 distributie liniara 2 JAVA 6743153078
+10000 10000 5 5 distributie ciclica 2 JAVA 6971009283
+3 3 3 3 secvential JAVA 6356
+3 3 3 3 linii 4 JAVA 519344
+3 3 3 3 coloane 4 JAVA 362201
+3 3 3 3 blocuri 4 JAVA 861422
+3 3 3 3 distributie liniara 4 JAVA 748647
+3 3 3 3 distributie ciclica 4 JAVA 217057
+3 3 3 3 secvential JAVA 6170
+3 3 3 3 linii 4 JAVA 1022457
+3 3 3 3 coloane 4 JAVA 969793
+3 3 3 3 blocuri 4 JAVA 3615923
+3 3 3 3 distributie liniara 4 JAVA 4173064
+3 3 3 3 distributie ciclica 4 JAVA 1432804
+3 3 3 3 secvential JAVA 6332
+3 3 3 3 linii 4 JAVA 520433
+3 3 3 3 coloane 4 JAVA 330045
+3 3 3 3 blocuri 4 JAVA 305405
+3 3 3 3 distributie liniara 4 JAVA 528149
+3 3 3 3 distributie ciclica 4 JAVA 207632
+10000 10000 5 5 secvential JAVA 3009629548
+10000 10000 5 5 linii 2 JAVA 1619766378
+10000 10000 5 5 coloane 2 JAVA 4281701669
+10000 10000 5 5 blocuri 2 JAVA 921714985
+10000 10000 5 5 distributie liniara 2 JAVA 6921407907
+10000 10000 5 5 distributie ciclica 2 JAVA 6930478870
+10000 10000 5 5 secvential JAVA 3066829458
+10000 10000 5 5 linii 4 JAVA 1004547366
+10000 10000 5 5 coloane 4 JAVA 3726536111
+10000 10000 5 5 blocuri 4 JAVA 383833289
+10000 10000 5 5 distributie liniara 4 JAVA 6617687238
+10000 10000 5 5 distributie ciclica 4 JAVA 6316012035
+10000 10000 5 5 secvential JAVA 3113252994
+10000 10000 5 5 linii 4 JAVA 954658653
+10000 10000 5 5 coloane 4 JAVA 3507967046
+10000 10000 5 5 blocuri 4 JAVA 226579738
+10000 10000 5 5 distributie liniara 4 JAVA 5850039183
+10000 10000 5 5 distributie ciclica 4 JAVA 6037577415
+10000 10000 5 5 secvential JAVA 3044637037
+10000 10000 5 5 linii 4 JAVA 980375755
+10000 10000 5 5 coloane 4 JAVA 3093866077
+10000 10000 5 5 blocuri 4 JAVA 228150438
+10000 10000 5 5 distributie liniara 4 JAVA 6891675653
+10000 10000 5 5 distributie ciclica 4 JAVA 6638664634
+10000 10000 5 5 secvential JAVA 3089901238
+10000 10000 5 5 linii 4 JAVA 1037673371
+10000 10000 5 5 coloane 4 JAVA 3308225671
+10000 10000 5 5 blocuri 4 JAVA 233081818
+10000 10000 5 5 distributie liniara 4 JAVA 6504335671
+10000 10000 5 5 distributie ciclica 4 JAVA 5549758137
+10000 10000 5 5 secvential JAVA 3070125403
+10000 10000 5 5 linii 4 JAVA 989177733
+10000 10000 5 5 coloane 4 JAVA 2930627452
+10000 10000 5 5 blocuri 4 JAVA 222105364
+10000 10000 5 5 distributie liniara 4 JAVA 5855110471
+10000 10000 5 5 distributie ciclica 4 JAVA 6184482547
+10000 10000 5 5 secvential JAVA 3246188213
+10000 10000 5 5 linii 4 JAVA 990504552
+10000 10000 5 5 coloane 4 JAVA 3721538107
+10000 10000 5 5 blocuri 4 JAVA 226942184
+10000 10000 5 5 distributie liniara 4 JAVA 6407099194
+10000 10000 5 5 distributie ciclica 4 JAVA 6517070068
+3 3 3 3 secvential JAVA 6236
+3 3 3 3 linii 4 JAVA 604555
+3 3 3 3 coloane 4 JAVA 345498
+3 3 3 3 blocuri 4 JAVA 469806
+3 3 3 3 distributie liniara 4 JAVA 833630
+3 3 3 3 distributie ciclica 4 JAVA 227060
+10000 10000 5 5 secvential JAVA 3184288796
+10000 10000 5 5 linii 4 JAVA 960558535
+10000 10000 5 5 coloane 4 JAVA 3237991333
+10000 10000 5 5 blocuri 4 JAVA 223124686
+10000 10000 5 5 distributie liniara 4 JAVA 5952044790
+10000 10000 5 5 distributie ciclica 4 JAVA 6128359018
+10000 10000 5 5 secvential JAVA 3063607630
+10000 10000 5 5 linii 4 JAVA 960233890
+10000 10000 5 5 coloane 4 JAVA 3315791798
+10000 10000 5 5 blocuri 4 JAVA 218093057
+10000 10000 5 5 distributie liniara 4 JAVA 5270630767
+10000 10000 5 5 distributie ciclica 4 JAVA 6573588766
+10000 10000 5 5 secvential JAVA 3038209772
+10000 10000 5 5 linii 4 JAVA 972353873
+10000 10000 5 5 coloane 4 JAVA 2987547445
+10000 10000 5 5 blocuri 4 JAVA 212634393
+10000 10000 5 5 distributie liniara 4 JAVA 6557265978
+10000 10000 5 5 distributie ciclica 4 JAVA 5528660598
+3 3 3 3 secvential JAVA 7344
+3 3 3 3 linii 4 JAVA 681434
+3 3 3 3 coloane 4 JAVA 346874
+3 3 3 3 blocuri 4 JAVA 299593
+3 3 3 3 distributie liniara 4 JAVA 568287
+3 3 3 3 distributie ciclica 4 JAVA 217148
+static 3 3 3 3 1 secvential C++ 2810
+static 3 3 3 3 1 linie C++ 114828
+static 3 3 3 3 1 coloane C++ 43663
+static 3 3 3 3 1 bloc C++ 31305
+static 3 3 3 3 1 secvential C++ 4380
+static 3 3 3 3 1 linie C++ 55431
+static 3 3 3 3 1 coloane C++ 25657
+static 3 3 3 3 1 bloc C++ 25229
+static 3 3 3 3 1 secvential C++ 4127
+static 3 3 3 3 1 linie C++ 71934
+static 3 3 3 3 1 coloane C++ 53057
+static 3 3 3 3 1 bloc C++ 18371
+static 3 3 3 3 1 secvential C++ 4019
+static 3 3 3 3 1 linie C++ 63645
+static 3 3 3 3 1 coloane C++ 16097
+static 3 3 3 3 1 bloc C++ 18950
+static 3 3 3 3 1 secvential C++ 4956
+static 3 3 3 3 1 linie C++ 89309
+static 3 3 3 3 1 coloane C++ 29351
+static 3 3 3 3 1 bloc C++ 22521
+static 3 3 3 3 1 secvential C++ 3737
+static 3 3 3 3 1 linie C++ 54509
+static 3 3 3 3 1 coloane C++ 41793
+static 3 3 3 3 1 bloc C++ 48560
+static 3 3 3 3 1 secvential C++ 4048
+static 3 3 3 3 1 linie C++ 53296
+static 3 3 3 3 1 coloane C++ 20920
+static 3 3 3 3 1 bloc C++ 38025
+static 3 3 3 3 1 secvential C++ 4860
+static 3 3 3 3 1 linie C++ 95683
+static 3 3 3 3 1 coloane C++ 34861
+static 3 3 3 3 1 bloc C++ 22898
+static 3 3 3 3 1 secvential C++ 4298
+static 3 3 3 3 1 linie C++ 67958
+static 3 3 3 3 1 coloane C++ 37374
+static 3 3 3 3 1 bloc C++ 40333
+static 3 3 3 3 1 secvential C++ 4307
+static 3 3 3 3 1 linie C++ 52696
+static 3 3 3 3 1 coloane C++ 21171
+static 3 3 3 3 1 bloc C++ 20977
+static 3 3 3 3 2 secvential C++ 3861
+static 3 3 3 3 2 linie C++ 83022
+static 3 3 3 3 2 coloane C++ 45375
+static 3 3 3 3 2 bloc C++ 22949
+static 3 3 3 3 2 secvential C++ 4004
+static 3 3 3 3 2 linie C++ 88300
+static 3 3 3 3 2 coloane C++ 65580
+static 3 3 3 3 2 bloc C++ 24105
+static 3 3 3 3 2 secvential C++ 3939
+static 3 3 3 3 2 linie C++ 71507
+static 3 3 3 3 2 coloane C++ 41691
+static 3 3 3 3 2 bloc C++ 21241
+static 3 3 3 3 2 secvential C++ 4050
+static 3 3 3 3 2 linie C++ 80948
+static 3 3 3 3 2 coloane C++ 52047
+static 3 3 3 3 2 bloc C++ 24298
+static 3 3 3 3 2 secvential C++ 3978
+static 3 3 3 3 2 linie C++ 68155
+static 3 3 3 3 2 coloane C++ 28596
+static 3 3 3 3 2 bloc C++ 26624
+static 3 3 3 3 2 secvential C++ 4194
+static 3 3 3 3 2 linie C++ 77544
+static 3 3 3 3 2 coloane C++ 26152
+static 3 3 3 3 2 bloc C++ 25762
+static 3 3 3 3 2 secvential C++ 3675
+static 3 3 3 3 2 linie C++ 84420
+static 3 3 3 3 2 coloane C++ 26630
+static 3 3 3 3 2 bloc C++ 22491
+static 3 3 3 3 2 secvential C++ 4292
+static 3 3 3 3 2 linie C++ 70968
+static 3 3 3 3 2 coloane C++ 46432
+static 3 3 3 3 2 bloc C++ 22334
+static 3 3 3 3 2 secvential C++ 3696
+static 3 3 3 3 2 linie C++ 62279
+static 3 3 3 3 2 coloane C++ 32772
+static 3 3 3 3 2 bloc C++ 34654
+static 3 3 3 3 2 secvential C++ 3882
+static 3 3 3 3 2 linie C++ 91747
+static 3 3 3 3 2 coloane C++ 38074
+static 3 3 3 3 2 bloc C++ 27067
+static 3 3 3 3 4 secvential C++ 4457
+static 3 3 3 3 4 linie C++ 95756
+static 3 3 3 3 4 coloane C++ 41127
+static 3 3 3 3 4 bloc C++ 40385
+static 3 3 3 3 4 secvential C++ 4692
+static 3 3 3 3 4 linie C++ 111260
+static 3 3 3 3 4 coloane C++ 42209
+static 3 3 3 3 4 bloc C++ 38608
+static 3 3 3 3 4 secvential C++ 4393
+static 3 3 3 3 4 linie C++ 109256
+static 3 3 3 3 4 coloane C++ 40017
+static 3 3 3 3 4 bloc C++ 42009
+static 3 3 3 3 4 secvential C++ 4030
+static 3 3 3 3 4 linie C++ 97029
+static 3 3 3 3 4 coloane C++ 43327
+static 3 3 3 3 4 bloc C++ 39813
+static 3 3 3 3 4 secvential C++ 3770
+static 3 3 3 3 4 linie C++ 101125
+static 3 3 3 3 4 coloane C++ 40437
+static 3 3 3 3 4 bloc C++ 39070
+static 3 3 3 3 4 secvential C++ 4138
+static 3 3 3 3 4 linie C++ 110562
+static 3 3 3 3 4 coloane C++ 38699
+static 3 3 3 3 4 bloc C++ 40254
+static 3 3 3 3 4 secvential C++ 3821
+static 3 3 3 3 4 linie C++ 120706
+static 3 3 3 3 4 coloane C++ 39438
+static 3 3 3 3 4 bloc C++ 38947
+static 3 3 3 3 4 secvential C++ 3965
+static 3 3 3 3 4 linie C++ 86737
+static 3 3 3 3 4 coloane C++ 40532
+static 3 3 3 3 4 bloc C++ 37603
+static 3 3 3 3 4 secvential C++ 4122
+static 3 3 3 3 4 linie C++ 99556
+static 3 3 3 3 4 coloane C++ 44403
+static 3 3 3 3 4 bloc C++ 41234
+static 3 3 3 3 4 secvential C++ 5006
+static 3 3 3 3 4 linie C++ 110462
+static 3 3 3 3 4 coloane C++ 48706
+static 3 3 3 3 4 bloc C++ 41438
+static 3 3 3 3 8 secvential C++ 4525
+static 3 3 3 3 8 linie C++ 156363
+static 3 3 3 3 8 coloane C++ 114841
+static 3 3 3 3 8 bloc C++ 113209
+static 3 3 3 3 8 secvential C++ 4113
+static 3 3 3 3 8 linie C++ 184126
+static 3 3 3 3 8 coloane C++ 105347
+static 3 3 3 3 8 bloc C++ 102044
+static 3 3 3 3 8 secvential C++ 3948
+static 3 3 3 3 8 linie C++ 164288
+static 3 3 3 3 8 coloane C++ 109935
+static 3 3 3 3 8 bloc C++ 101495
+static 3 3 3 3 8 secvential C++ 4502
+static 3 3 3 3 8 linie C++ 180664
+static 3 3 3 3 8 coloane C++ 110939
+static 3 3 3 3 8 bloc C++ 100557
+static 3 3 3 3 8 secvential C++ 36415
+static 3 3 3 3 8 linie C++ 161526
+static 3 3 3 3 8 coloane C++ 112395
+static 3 3 3 3 8 bloc C++ 108006
+static 3 3 3 3 8 secvential C++ 4112
+static 3 3 3 3 8 linie C++ 398515
+static 3 3 3 3 8 coloane C++ 101754
+static 3 3 3 3 8 bloc C++ 101770
+static 3 3 3 3 8 secvential C++ 3876
+static 3 3 3 3 8 linie C++ 145476
+static 3 3 3 3 8 coloane C++ 102174
+static 3 3 3 3 8 bloc C++ 102872
+static 3 3 3 3 8 secvential C++ 4450
+static 3 3 3 3 8 linie C++ 161214
+static 3 3 3 3 8 coloane C++ 107990
+static 3 3 3 3 8 bloc C++ 129675
+static 3 3 3 3 8 secvential C++ 4065
+static 3 3 3 3 8 linie C++ 200152
+static 3 3 3 3 8 coloane C++ 109455
+static 3 3 3 3 8 bloc C++ 115339
+static 3 3 3 3 8 secvential C++ 3915
+static 3 3 3 3 8 linie C++ 161160
+static 3 3 3 3 8 coloane C++ 115307
+static 3 3 3 3 8 bloc C++ 109682
+static 3 3 3 3 16 secvential C++ 5349
+static 3 3 3 3 16 linie C++ 313945
+static 3 3 3 3 16 coloane C++ 232938
+static 3 3 3 3 16 bloc C++ 232806
+static 3 3 3 3 16 secvential C++ 3814
+static 3 3 3 3 16 linie C++ 303265
+static 3 3 3 3 16 coloane C++ 216980
+static 3 3 3 3 16 bloc C++ 317066
+static 3 3 3 3 16 secvential C++ 4036
+static 3 3 3 3 16 linie C++ 298743
+static 3 3 3 3 16 coloane C++ 235322
+static 3 3 3 3 16 bloc C++ 231407
+static 3 3 3 3 16 secvential C++ 3942
+static 3 3 3 3 16 linie C++ 294822
+static 3 3 3 3 16 coloane C++ 244319
+static 3 3 3 3 16 bloc C++ 243129
+static 3 3 3 3 16 secvential C++ 4064
+static 3 3 3 3 16 linie C++ 296795
+static 3 3 3 3 16 coloane C++ 223266
+static 3 3 3 3 16 bloc C++ 237393
+static 3 3 3 3 16 secvential C++ 4653
+static 3 3 3 3 16 linie C++ 339446
+static 3 3 3 3 16 coloane C++ 244344
+static 3 3 3 3 16 bloc C++ 495663
+static 3 3 3 3 16 secvential C++ 3854
+static 3 3 3 3 16 linie C++ 658074
+static 3 3 3 3 16 coloane C++ 244869
+static 3 3 3 3 16 bloc C++ 243946
+static 3 3 3 3 16 secvential C++ 3948
+static 3 3 3 3 16 linie C++ 297273
+static 3 3 3 3 16 coloane C++ 249860
+static 3 3 3 3 16 bloc C++ 234608
+static 3 3 3 3 16 secvential C++ 4260
+static 3 3 3 3 16 linie C++ 299336
+static 3 3 3 3 16 coloane C++ 244949
+static 3 3 3 3 16 bloc C++ 229386
+static 3 3 3 3 16 secvential C++ 3952
+static 3 3 3 3 16 linie C++ 275810
+static 3 3 3 3 16 coloane C++ 223864
+static 3 3 3 3 16 bloc C++ 230886
+static 10 10 3 3 1 secvential C++ 10568
+static 10 10 3 3 1 linie C++ 57508
+static 10 10 3 3 1 coloane C++ 39080
+static 10 10 3 3 1 bloc C++ 20984
+static 10 10 3 3 1 secvential C++ 10571
+static 10 10 3 3 1 linie C++ 81607
+static 10 10 3 3 1 coloane C++ 21807
+static 10 10 3 3 1 bloc C++ 20429
+static 10 10 3 3 1 secvential C++ 14196
+static 10 10 3 3 1 linie C++ 78403
+static 10 10 3 3 1 coloane C++ 20249
+static 10 10 3 3 1 bloc C++ 41675
+static 10 10 3 3 1 secvential C++ 12125
+static 10 10 3 3 1 linie C++ 78708
+static 10 10 3 3 1 coloane C++ 21279
+static 10 10 3 3 1 bloc C++ 24818
+static 10 10 3 3 1 secvential C++ 10631
+static 10 10 3 3 1 linie C++ 77227
+static 10 10 3 3 1 coloane C++ 18907
+static 10 10 3 3 1 bloc C++ 19157
+static 10 10 3 3 1 secvential C++ 12442
+static 10 10 3 3 1 linie C++ 76805
+static 10 10 3 3 1 coloane C++ 20789
+static 10 10 3 3 1 bloc C++ 19130
+static 10 10 3 3 1 secvential C++ 11149
+static 10 10 3 3 1 linie C++ 76693
+static 10 10 3 3 1 coloane C++ 22482
+static 10 10 3 3 1 bloc C++ 20572
+static 10 10 3 3 1 secvential C++ 11230
+static 10 10 3 3 1 linie C++ 63534
+static 10 10 3 3 1 coloane C++ 46863
+static 10 10 3 3 1 bloc C++ 40753
+static 10 10 3 3 1 secvential C++ 11409
+static 10 10 3 3 1 linie C++ 84497
+static 10 10 3 3 1 coloane C++ 18563
+static 10 10 3 3 1 bloc C++ 18228
+static 10 10 3 3 1 secvential C++ 11281
+static 10 10 3 3 1 linie C++ 83149
+static 10 10 3 3 1 coloane C++ 36658
+static 10 10 3 3 1 bloc C++ 40187
+static 10 10 3 3 2 secvential C++ 11429
+static 10 10 3 3 2 linie C++ 62374
+static 10 10 3 3 2 coloane C++ 31066
+static 10 10 3 3 2 bloc C++ 23966
+static 10 10 3 3 2 secvential C++ 11127
+static 10 10 3 3 2 linie C++ 76343
+static 10 10 3 3 2 coloane C++ 32886
+static 10 10 3 3 2 bloc C++ 22484
+static 10 10 3 3 2 secvential C++ 10994
+static 10 10 3 3 2 linie C++ 82740
+static 10 10 3 3 2 coloane C++ 29564
+static 10 10 3 3 2 bloc C++ 54748
+static 10 10 3 3 2 secvential C++ 10556
+static 10 10 3 3 2 linie C++ 91303
+static 10 10 3 3 2 coloane C++ 31094
+static 10 10 3 3 2 bloc C++ 26328
+static 10 10 3 3 2 secvential C++ 10538
+static 10 10 3 3 2 linie C++ 116993
+static 10 10 3 3 2 coloane C++ 34106
+static 10 10 3 3 2 bloc C++ 30114
+static 10 10 3 3 2 secvential C++ 11299
+static 10 10 3 3 2 linie C++ 84821
+static 10 10 3 3 2 coloane C++ 28994
+static 10 10 3 3 2 bloc C++ 24265
+static 10 10 3 3 2 secvential C++ 10712
+static 10 10 3 3 2 linie C++ 82192
+static 10 10 3 3 2 coloane C++ 29150
+static 10 10 3 3 2 bloc C++ 73180
+static 10 10 3 3 2 secvential C++ 12322
+static 10 10 3 3 2 linie C++ 100403
+static 10 10 3 3 2 coloane C++ 28486
+static 10 10 3 3 2 bloc C++ 24788
+static 10 10 3 3 2 secvential C++ 10764
+static 10 10 3 3 2 linie C++ 91829
+static 10 10 3 3 2 coloane C++ 50974
+static 10 10 3 3 2 bloc C++ 22806
+static 10 10 3 3 2 secvential C++ 11012
+static 10 10 3 3 2 linie C++ 90640
+static 10 10 3 3 2 coloane C++ 30975
+static 10 10 3 3 2 bloc C++ 28067
+static 10 10 3 3 4 secvential C++ 13753
+static 10 10 3 3 4 linie C++ 96437
+static 10 10 3 3 4 coloane C++ 50131
+static 10 10 3 3 4 bloc C++ 38638
+static 10 10 3 3 4 secvential C++ 11044
+static 10 10 3 3 4 linie C++ 112985
+static 10 10 3 3 4 coloane C++ 39915
+static 10 10 3 3 4 bloc C++ 39547
+static 10 10 3 3 4 secvential C++ 10955
+static 10 10 3 3 4 linie C++ 96079
+static 10 10 3 3 4 coloane C++ 42586
+static 10 10 3 3 4 bloc C++ 36070
+static 10 10 3 3 4 secvential C++ 11050
+static 10 10 3 3 4 linie C++ 100205
+static 10 10 3 3 4 coloane C++ 39879
+static 10 10 3 3 4 bloc C++ 38924
+static 10 10 3 3 4 secvential C++ 11848
+static 10 10 3 3 4 linie C++ 110372
+static 10 10 3 3 4 coloane C++ 44020
+static 10 10 3 3 4 bloc C++ 42570
+static 10 10 3 3 4 secvential C++ 11817
+static 10 10 3 3 4 linie C++ 115304
+static 10 10 3 3 4 coloane C++ 54730
+static 10 10 3 3 4 bloc C++ 39627
+static 10 10 3 3 4 secvential C++ 25257
+static 10 10 3 3 4 linie C++ 134830
+static 10 10 3 3 4 coloane C++ 49659
+static 10 10 3 3 4 bloc C++ 39528
+static 10 10 3 3 4 secvential C++ 12130
+static 10 10 3 3 4 linie C++ 109987
+static 10 10 3 3 4 coloane C++ 44537
+static 10 10 3 3 4 bloc C++ 48891
+static 10 10 3 3 4 secvential C++ 10771
+static 10 10 3 3 4 linie C++ 168771
+static 10 10 3 3 4 coloane C++ 52483
+static 10 10 3 3 4 bloc C++ 68169
+static 10 10 3 3 4 secvential C++ 10928
+static 10 10 3 3 4 linie C++ 122088
+static 10 10 3 3 4 coloane C++ 38022
+static 10 10 3 3 4 bloc C++ 38194
+static 10 10 3 3 8 secvential C++ 11593
+static 10 10 3 3 8 linie C++ 188921
+static 10 10 3 3 8 coloane C++ 116631
+static 10 10 3 3 8 bloc C++ 96946
+static 10 10 3 3 8 secvential C++ 11476
+static 10 10 3 3 8 linie C++ 168555
+static 10 10 3 3 8 coloane C++ 103847
+static 10 10 3 3 8 bloc C++ 101381
+static 10 10 3 3 8 secvential C++ 11823
+static 10 10 3 3 8 linie C++ 165282
+static 10 10 3 3 8 coloane C++ 107255
+static 10 10 3 3 8 bloc C++ 97734
+static 10 10 3 3 8 secvential C++ 12754
+static 10 10 3 3 8 linie C++ 186767
+static 10 10 3 3 8 coloane C++ 122946
+static 10 10 3 3 8 bloc C++ 110574
+static 10 10 3 3 8 secvential C++ 12693
+static 10 10 3 3 8 linie C++ 182302
+static 10 10 3 3 8 coloane C++ 102058
+static 10 10 3 3 8 bloc C++ 103488
+static 10 10 3 3 8 secvential C++ 11524
+static 10 10 3 3 8 linie C++ 173401
+static 10 10 3 3 8 coloane C++ 170298
+static 10 10 3 3 8 bloc C++ 110928
+static 10 10 3 3 8 secvential C++ 11787
+static 10 10 3 3 8 linie C++ 194216
+static 10 10 3 3 8 coloane C++ 120525
+static 10 10 3 3 8 bloc C++ 102940
+static 10 10 3 3 8 secvential C++ 126965
+static 10 10 3 3 8 linie C++ 162942
+static 10 10 3 3 8 coloane C++ 103946
+static 10 10 3 3 8 bloc C++ 102350
+static 10 10 3 3 8 secvential C++ 11771
+static 10 10 3 3 8 linie C++ 154997
+static 10 10 3 3 8 coloane C++ 103208
+static 10 10 3 3 8 bloc C++ 149989
+static 10 10 3 3 8 secvential C++ 12172
+static 10 10 3 3 8 linie C++ 151580
+static 10 10 3 3 8 coloane C++ 104756
+static 10 10 3 3 8 bloc C++ 101649
+static 10 10 3 3 16 secvential C++ 10894
+static 10 10 3 3 16 linie C++ 276458
+static 10 10 3 3 16 coloane C++ 238956
+static 10 10 3 3 16 bloc C++ 235234
+static 10 10 3 3 16 secvential C++ 10983
+static 10 10 3 3 16 linie C++ 286044
+static 10 10 3 3 16 coloane C++ 241815
+static 10 10 3 3 16 bloc C++ 233229
+static 10 10 3 3 16 secvential C++ 11357
+static 10 10 3 3 16 linie C++ 316040
+static 10 10 3 3 16 coloane C++ 232688
+static 10 10 3 3 16 bloc C++ 230504
+static 10 10 3 3 16 secvential C++ 11993
+static 10 10 3 3 16 linie C++ 312643
+static 10 10 3 3 16 coloane C++ 224389
+static 10 10 3 3 16 bloc C++ 225745
+static 10 10 3 3 16 secvential C++ 28858
+static 10 10 3 3 16 linie C++ 310869
+static 10 10 3 3 16 coloane C++ 228335
+static 10 10 3 3 16 bloc C++ 224905
+static 10 10 3 3 16 secvential C++ 11740
+static 10 10 3 3 16 linie C++ 293297
+static 10 10 3 3 16 coloane C++ 225928
+static 10 10 3 3 16 bloc C++ 217631
+static 10 10 3 3 16 secvential C++ 11625
+static 10 10 3 3 16 linie C++ 299030
+static 10 10 3 3 16 coloane C++ 228295
+static 10 10 3 3 16 bloc C++ 228266
+static 10 10 3 3 16 secvential C++ 12406
+static 10 10 3 3 16 linie C++ 280397
+static 10 10 3 3 16 coloane C++ 224296
+static 10 10 3 3 16 bloc C++ 219224
+static 10 10 3 3 16 secvential C++ 11178
+static 10 10 3 3 16 linie C++ 308351
+static 10 10 3 3 16 coloane C++ 226280
+static 10 10 3 3 16 bloc C++ 239747
+static 10 10 3 3 16 secvential C++ 12134
+static 10 10 3 3 16 linie C++ 320048
+static 10 10 3 3 16 coloane C++ 240909
+static 10 10 3 3 16 bloc C++ 222659
+static 10 10000 5 5 1 secvential C++ 1.29301e+06
+static 10 10000 5 5 1 linie C++ 1.37546e+06
+static 10 10000 5 5 1 coloane C++ 1.20467e+06
+static 10 10000 5 5 1 bloc C++ 1.18522e+06
+static 10 10000 5 5 1 secvential C++ 1.2664e+06
+static 10 10000 5 5 1 linie C++ 1.3645e+06
+static 10 10000 5 5 1 coloane C++ 1.20859e+06
+static 10 10000 5 5 1 bloc C++ 1.19761e+06
+static 10 10000 5 5 1 secvential C++ 1.26357e+06
+static 10 10000 5 5 1 linie C++ 1.40936e+06
+static 10 10000 5 5 1 coloane C++ 1.178e+06
+static 10 10000 5 5 1 bloc C++ 1.1972e+06
+static 10 10000 5 5 1 secvential C++ 1.30507e+06
+static 10 10000 5 5 1 linie C++ 1.35811e+06
+static 10 10000 5 5 1 coloane C++ 1.20369e+06
+static 10 10000 5 5 1 bloc C++ 1.18739e+06
+static 10 10000 5 5 1 secvential C++ 1.26446e+06
+static 10 10000 5 5 1 linie C++ 1.34217e+06
+static 10 10000 5 5 1 coloane C++ 1.16464e+06
+static 10 10000 5 5 1 bloc C++ 1.24709e+06
+static 10 10000 5 5 1 secvential C++ 1.24497e+06
+static 10 10000 5 5 1 linie C++ 1.34336e+06
+static 10 10000 5 5 1 coloane C++ 1.20486e+06
+static 10 10000 5 5 1 bloc C++ 1.1635e+06
+static 10 10000 5 5 1 secvential C++ 1.26425e+06
+static 10 10000 5 5 1 linie C++ 1.37392e+06
+static 10 10000 5 5 1 coloane C++ 1.19131e+06
+static 10 10000 5 5 1 bloc C++ 1.15896e+06
+static 10 10000 5 5 1 secvential C++ 1.285e+06
+static 10 10000 5 5 1 linie C++ 1.35563e+06
+static 10 10000 5 5 1 coloane C++ 1.17433e+06
+static 10 10000 5 5 1 bloc C++ 1.19892e+06
+static 10 10000 5 5 1 secvential C++ 1.30029e+06
+static 10 10000 5 5 1 linie C++ 1.33849e+06
+static 10 10000 5 5 1 coloane C++ 1.19678e+06
+static 10 10000 5 5 1 bloc C++ 1.2004e+06
+static 10 10000 5 5 1 secvential C++ 1.29755e+06
+static 10 10000 5 5 1 linie C++ 1.34759e+06
+static 10 10000 5 5 1 coloane C++ 1.19873e+06
+static 10 10000 5 5 1 bloc C++ 1.16672e+06
+static 10 10000 5 5 2 secvential C++ 1.26992e+06
+static 10 10000 5 5 2 linie C++ 712039
+static 10 10000 5 5 2 coloane C++ 718339
+static 10 10000 5 5 2 bloc C++ 340967
+static 10 10000 5 5 2 secvential C++ 1.313e+06
+static 10 10000 5 5 2 linie C++ 739800
+static 10 10000 5 5 2 coloane C++ 607333
+static 10 10000 5 5 2 bloc C++ 348214
+static 10 10000 5 5 2 secvential C++ 1.262e+06
+static 10 10000 5 5 2 linie C++ 730084
+static 10 10000 5 5 2 coloane C++ 596566
+static 10 10000 5 5 2 bloc C++ 336019
+static 10 10000 5 5 2 secvential C++ 1.25278e+06
+static 10 10000 5 5 2 linie C++ 744417
+static 10 10000 5 5 2 coloane C++ 601241
+static 10 10000 5 5 2 bloc C++ 343672
+static 10 10000 5 5 2 secvential C++ 1.2545e+06
+static 10 10000 5 5 2 linie C++ 760193
+static 10 10000 5 5 2 coloane C++ 655747
+static 10 10000 5 5 2 bloc C++ 350695
+static 10 10000 5 5 2 secvential C++ 1.26986e+06
+static 10 10000 5 5 2 linie C++ 742001
+static 10 10000 5 5 2 coloane C++ 613822
+static 10 10000 5 5 2 bloc C++ 307375
+static 10 10000 5 5 2 secvential C++ 1.25316e+06
+static 10 10000 5 5 2 linie C++ 703700
+static 10 10000 5 5 2 coloane C++ 612212
+static 10 10000 5 5 2 bloc C++ 309629
+static 10 10000 5 5 2 secvential C++ 1.26218e+06
+static 10 10000 5 5 2 linie C++ 815927
+static 10 10000 5 5 2 coloane C++ 728439
+static 10 10000 5 5 2 bloc C++ 302407
+static 10 10000 5 5 2 secvential C++ 1.24662e+06
+static 10 10000 5 5 2 linie C++ 735710
+static 10 10000 5 5 2 coloane C++ 629941
+static 10 10000 5 5 2 bloc C++ 332511
+static 10 10000 5 5 2 secvential C++ 1.2462e+06
+static 10 10000 5 5 2 linie C++ 717145
+static 10 10000 5 5 2 coloane C++ 613443
+static 10 10000 5 5 2 bloc C++ 367049
+static 10 10000 5 5 4 secvential C++ 1.25548e+06
+static 10 10000 5 5 4 linie C++ 517623
+static 10 10000 5 5 4 coloane C++ 323777
+static 10 10000 5 5 4 bloc C++ 109651
+static 10 10000 5 5 4 secvential C++ 1.35778e+06
+static 10 10000 5 5 4 linie C++ 472444
+static 10 10000 5 5 4 coloane C++ 325730
+static 10 10000 5 5 4 bloc C++ 107564
+static 10 10000 5 5 4 secvential C++ 1.3e+06
+static 10 10000 5 5 4 linie C++ 535299
+static 10 10000 5 5 4 coloane C++ 327054
+static 10 10000 5 5 4 bloc C++ 107101
+static 10 10000 5 5 4 secvential C++ 1.25264e+06
+static 10 10000 5 5 4 linie C++ 460441
+static 10 10000 5 5 4 coloane C++ 328360
+static 10 10000 5 5 4 bloc C++ 130428
+static 10 10000 5 5 4 secvential C++ 1.24309e+06
+static 10 10000 5 5 4 linie C++ 474211
+static 10 10000 5 5 4 coloane C++ 335011
+static 10 10000 5 5 4 bloc C++ 117586
+static 10 10000 5 5 4 secvential C++ 1.23849e+06
+static 10 10000 5 5 4 linie C++ 452531
+static 10 10000 5 5 4 coloane C++ 325400
+static 10 10000 5 5 4 bloc C++ 117355
+static 10 10000 5 5 4 secvential C++ 1.27806e+06
+static 10 10000 5 5 4 linie C++ 470993
+static 10 10000 5 5 4 coloane C++ 326722
+static 10 10000 5 5 4 bloc C++ 122983
+static 10 10000 5 5 4 secvential C++ 1.2364e+06
+static 10 10000 5 5 4 linie C++ 490498
+static 10 10000 5 5 4 coloane C++ 322340
+static 10 10000 5 5 4 bloc C++ 115841
+static 10 10000 5 5 4 secvential C++ 1.25606e+06
+static 10 10000 5 5 4 linie C++ 510861
+static 10 10000 5 5 4 coloane C++ 326760
+static 10 10000 5 5 4 bloc C++ 126129
+static 10 10000 5 5 4 secvential C++ 1.24709e+06
+static 10 10000 5 5 4 linie C++ 450642
+static 10 10000 5 5 4 coloane C++ 357189
+static 10 10000 5 5 4 bloc C++ 197569
+static 10 10000 5 5 8 secvential C++ 1.26011e+06
+static 10 10000 5 5 8 linie C++ 587784
+static 10 10000 5 5 8 coloane C++ 326929
+static 10 10000 5 5 8 bloc C++ 134562
+static 10 10000 5 5 8 secvential C++ 1.23973e+06
+static 10 10000 5 5 8 linie C++ 514057
+static 10 10000 5 5 8 coloane C++ 366572
+static 10 10000 5 5 8 bloc C++ 131356
+static 10 10000 5 5 8 secvential C++ 1.24554e+06
+static 10 10000 5 5 8 linie C++ 457926
+static 10 10000 5 5 8 coloane C++ 344500
+static 10 10000 5 5 8 bloc C++ 142332
+static 10 10000 5 5 8 secvential C++ 1.25434e+06
+static 10 10000 5 5 8 linie C++ 467134
+static 10 10000 5 5 8 coloane C++ 351005
+static 10 10000 5 5 8 bloc C++ 131333
+static 10 10000 5 5 8 secvential C++ 1.25454e+06
+static 10 10000 5 5 8 linie C++ 472419
+static 10 10000 5 5 8 coloane C++ 353638
+static 10 10000 5 5 8 bloc C++ 124639
+static 10 10000 5 5 8 secvential C++ 1.26048e+06
+static 10 10000 5 5 8 linie C++ 454348
+static 10 10000 5 5 8 coloane C++ 375488
+static 10 10000 5 5 8 bloc C++ 137340
+static 10 10000 5 5 8 secvential C++ 1.28552e+06
+static 10 10000 5 5 8 linie C++ 520818
+static 10 10000 5 5 8 coloane C++ 357449
+static 10 10000 5 5 8 bloc C++ 135984
+static 10 10000 5 5 8 secvential C++ 1.27378e+06
+static 10 10000 5 5 8 linie C++ 551176
+static 10 10000 5 5 8 coloane C++ 340435
+static 10 10000 5 5 8 bloc C++ 129689
+static 10 10000 5 5 8 secvential C++ 1.25272e+06
+static 10 10000 5 5 8 linie C++ 459026
+static 10 10000 5 5 8 coloane C++ 352681
+static 10 10000 5 5 8 bloc C++ 119055
+static 10 10000 5 5 8 secvential C++ 1.2409e+06
+static 10 10000 5 5 8 linie C++ 449036
+static 10 10000 5 5 8 coloane C++ 336258
+static 10 10000 5 5 8 bloc C++ 123361
+static 10 10000 5 5 16 secvential C++ 1.26254e+06
+static 10 10000 5 5 16 linie C++ 449606
+static 10 10000 5 5 16 coloane C++ 349822
+static 10 10000 5 5 16 bloc C++ 309089
+static 10 10000 5 5 16 secvential C++ 1.27359e+06
+static 10 10000 5 5 16 linie C++ 509866
+static 10 10000 5 5 16 coloane C++ 343738
+static 10 10000 5 5 16 bloc C++ 261634
+static 10 10000 5 5 16 secvential C++ 1.31363e+06
+static 10 10000 5 5 16 linie C++ 516954
+static 10 10000 5 5 16 coloane C++ 353503
+static 10 10000 5 5 16 bloc C++ 238502
+static 10 10000 5 5 16 secvential C++ 1.24671e+06
+static 10 10000 5 5 16 linie C++ 471612
+static 10 10000 5 5 16 coloane C++ 338217
+static 10 10000 5 5 16 bloc C++ 292953
+static 10 10000 5 5 16 secvential C++ 1.2782e+06
+static 10 10000 5 5 16 linie C++ 526308
+static 10 10000 5 5 16 coloane C++ 338751
+static 10 10000 5 5 16 bloc C++ 240259
+static 10 10000 5 5 16 secvential C++ 1.28322e+06
+static 10 10000 5 5 16 linie C++ 423543
+static 10 10000 5 5 16 coloane C++ 341974
+static 10 10000 5 5 16 bloc C++ 239310
+static 10 10000 5 5 16 secvential C++ 1.2492e+06
+static 10 10000 5 5 16 linie C++ 432850
+static 10 10000 5 5 16 coloane C++ 352230
+static 10 10000 5 5 16 bloc C++ 255474
+static 10 10000 5 5 16 secvential C++ 1.25421e+06
+static 10 10000 5 5 16 linie C++ 494369
+static 10 10000 5 5 16 coloane C++ 395889
+static 10 10000 5 5 16 bloc C++ 258899
+static 10 10000 5 5 16 secvential C++ 1.26825e+06
+static 10 10000 5 5 16 linie C++ 431883
+static 10 10000 5 5 16 coloane C++ 351843
+static 10 10000 5 5 16 bloc C++ 234686
+static 10 10000 5 5 16 secvential C++ 1.48171e+06
+static 10 10000 5 5 16 linie C++ 466893
+static 10 10000 5 5 16 coloane C++ 379394
+static 10 10000 5 5 16 bloc C++ 244230
+static 1000 1000 5 5 1 secvential C++ 1.27569e+07
+static 1000 1000 5 5 1 linie C++ 1.32747e+07
+static 1000 1000 5 5 1 coloane C++ 1.59438e+07
+static 1000 1000 5 5 1 bloc C++ 1.11308e+07
+static 1000 1000 5 5 1 secvential C++ 1.25041e+07
+static 1000 1000 5 5 1 linie C++ 1.32834e+07
+static 1000 1000 5 5 1 coloane C++ 1.37871e+07
+static 1000 1000 5 5 1 bloc C++ 1.14118e+07
+static 1000 1000 5 5 1 secvential C++ 1.29779e+07
+static 1000 1000 5 5 1 linie C++ 1.31499e+07
+static 1000 1000 5 5 1 coloane C++ 1.65259e+07
+static 1000 1000 5 5 1 bloc C++ 1.11491e+07
+static 1000 1000 5 5 1 secvential C++ 1.26037e+07
+static 1000 1000 5 5 1 linie C++ 1.31757e+07
+static 1000 1000 5 5 1 coloane C++ 1.37586e+07
+static 1000 1000 5 5 1 bloc C++ 1.13153e+07
+static 1000 1000 5 5 1 secvential C++ 1.25602e+07
+static 1000 1000 5 5 1 linie C++ 1.31405e+07
+static 1000 1000 5 5 1 coloane C++ 1.70343e+07
+static 1000 1000 5 5 1 bloc C++ 1.30253e+07
+static 1000 1000 5 5 1 secvential C++ 1.29136e+07
+static 1000 1000 5 5 1 linie C++ 1.30416e+07
+static 1000 1000 5 5 1 coloane C++ 1.36892e+07
+static 1000 1000 5 5 1 bloc C++ 1.26992e+07
+static 1000 1000 5 5 1 secvential C++ 1.26373e+07
+static 1000 1000 5 5 1 linie C++ 1.32393e+07
+static 1000 1000 5 5 1 coloane C++ 1.67422e+07
+static 1000 1000 5 5 1 bloc C++ 1.25789e+07
+static 1000 1000 5 5 1 secvential C++ 1.25036e+07
+static 1000 1000 5 5 1 linie C++ 1.32044e+07
+static 1000 1000 5 5 1 coloane C++ 1.67341e+07
+static 1000 1000 5 5 1 bloc C++ 1.11491e+07
+static 1000 1000 5 5 1 secvential C++ 1.29542e+07
+static 1000 1000 5 5 1 linie C++ 1.36148e+07
+static 1000 1000 5 5 1 coloane C++ 1.38129e+07
+static 1000 1000 5 5 1 bloc C++ 1.14607e+07
+static 1000 1000 5 5 1 secvential C++ 1.25783e+07
+static 1000 1000 5 5 1 linie C++ 1.33043e+07
+static 1000 1000 5 5 1 coloane C++ 1.52649e+07
+static 1000 1000 5 5 1 bloc C++ 1.11248e+07
+static 1000 1000 5 5 2 secvential C++ 1.2554e+07
+static 1000 1000 5 5 2 linie C++ 7.232e+06
+static 1000 1000 5 5 2 coloane C++ 6.97062e+06
+static 1000 1000 5 5 2 bloc C++ 2.86907e+06
+static 1000 1000 5 5 2 secvential C++ 1.26607e+07
+static 1000 1000 5 5 2 linie C++ 6.98597e+06
+static 1000 1000 5 5 2 coloane C++ 7.32198e+06
+static 1000 1000 5 5 2 bloc C++ 3.00052e+06
+static 1000 1000 5 5 2 secvential C++ 1.25212e+07
+static 1000 1000 5 5 2 linie C++ 6.99787e+06
+static 1000 1000 5 5 2 coloane C++ 6.96088e+06
+static 1000 1000 5 5 2 bloc C++ 2.90982e+06
+static 1000 1000 5 5 2 secvential C++ 1.25148e+07
+static 1000 1000 5 5 2 linie C++ 6.7891e+06
+static 1000 1000 5 5 2 coloane C++ 7.11409e+06
+static 1000 1000 5 5 2 bloc C++ 3.08868e+06
+static 1000 1000 5 5 2 secvential C++ 1.25254e+07
+static 1000 1000 5 5 2 linie C++ 7.27023e+06
+static 1000 1000 5 5 2 coloane C++ 7.02389e+06
+static 1000 1000 5 5 2 bloc C++ 3.13406e+06
+static 1000 1000 5 5 2 secvential C++ 1.24707e+07
+static 1000 1000 5 5 2 linie C++ 6.84656e+06
+static 1000 1000 5 5 2 coloane C++ 7.45596e+06
+static 1000 1000 5 5 2 bloc C++ 3.07239e+06
+static 1000 1000 5 5 2 secvential C++ 1.24666e+07
+static 1000 1000 5 5 2 linie C++ 7.09637e+06
+static 1000 1000 5 5 2 coloane C++ 6.92456e+06
+static 1000 1000 5 5 2 bloc C++ 2.90945e+06
+static 1000 1000 5 5 2 secvential C++ 1.30663e+07
+static 1000 1000 5 5 2 linie C++ 7.20152e+06
+static 1000 1000 5 5 2 coloane C++ 7.51003e+06
+static 1000 1000 5 5 2 bloc C++ 3.00344e+06
+static 1000 1000 5 5 2 secvential C++ 1.24985e+07
+static 1000 1000 5 5 2 linie C++ 6.93441e+06
+static 1000 1000 5 5 2 coloane C++ 7.04421e+06
+static 1000 1000 5 5 2 bloc C++ 2.92326e+06
+static 1000 1000 5 5 2 secvential C++ 1.24731e+07
+static 1000 1000 5 5 2 linie C++ 7.03072e+06
+static 1000 1000 5 5 2 coloane C++ 7.23392e+06
+static 1000 1000 5 5 2 bloc C++ 2.93e+06
+static 1000 1000 5 5 4 secvential C++ 1.25751e+07
+static 1000 1000 5 5 4 linie C++ 4.19116e+06
+static 1000 1000 5 5 4 coloane C++ 3.86773e+06
+static 1000 1000 5 5 4 bloc C++ 911964
+static 1000 1000 5 5 4 secvential C++ 1.24716e+07
+static 1000 1000 5 5 4 linie C++ 4.08836e+06
+static 1000 1000 5 5 4 coloane C++ 3.83419e+06
+static 1000 1000 5 5 4 bloc C++ 1.03386e+06
+static 1000 1000 5 5 4 secvential C++ 1.24699e+07
+static 1000 1000 5 5 4 linie C++ 3.83946e+06
+static 1000 1000 5 5 4 coloane C++ 4.09649e+06
+static 1000 1000 5 5 4 bloc C++ 872757
+static 1000 1000 5 5 4 secvential C++ 1.24924e+07
+static 1000 1000 5 5 4 linie C++ 3.89522e+06
+static 1000 1000 5 5 4 coloane C++ 3.91962e+06
+static 1000 1000 5 5 4 bloc C++ 855846
+static 1000 1000 5 5 4 secvential C++ 1.26169e+07
+static 1000 1000 5 5 4 linie C++ 3.68196e+06
+static 1000 1000 5 5 4 coloane C++ 3.83027e+06
+static 1000 1000 5 5 4 bloc C++ 874199
+static 1000 1000 5 5 4 secvential C++ 1.27907e+07
+static 1000 1000 5 5 4 linie C++ 3.84206e+06
+static 1000 1000 5 5 4 coloane C++ 4.05832e+06
+static 1000 1000 5 5 4 bloc C++ 945065
+static 1000 1000 5 5 4 secvential C++ 1.24603e+07
+static 1000 1000 5 5 4 linie C++ 3.82516e+06
+static 1000 1000 5 5 4 coloane C++ 4.03393e+06
+static 1000 1000 5 5 4 bloc C++ 918290
+static 1000 1000 5 5 4 secvential C++ 1.28517e+07
+static 1000 1000 5 5 4 linie C++ 3.83824e+06
+static 1000 1000 5 5 4 coloane C++ 3.88284e+06
+static 1000 1000 5 5 4 bloc C++ 952601
+static 1000 1000 5 5 4 secvential C++ 1.2616e+07
+static 1000 1000 5 5 4 linie C++ 4.21301e+06
+static 1000 1000 5 5 4 coloane C++ 3.90446e+06
+static 1000 1000 5 5 4 bloc C++ 868265
+static 1000 1000 5 5 4 secvential C++ 1.2617e+07
+static 1000 1000 5 5 4 linie C++ 3.90433e+06
+static 1000 1000 5 5 4 coloane C++ 3.99454e+06
+static 1000 1000 5 5 4 bloc C++ 884629
+static 1000 1000 5 5 8 secvential C++ 1.26325e+07
+static 1000 1000 5 5 8 linie C++ 3.4335e+06
+static 1000 1000 5 5 8 coloane C++ 3.99351e+06
+static 1000 1000 5 5 8 bloc C++ 477190
+static 1000 1000 5 5 8 secvential C++ 1.24883e+07
+static 1000 1000 5 5 8 linie C++ 3.3926e+06
+static 1000 1000 5 5 8 coloane C++ 3.93425e+06
+static 1000 1000 5 5 8 bloc C++ 523157
+static 1000 1000 5 5 8 secvential C++ 1.25721e+07
+static 1000 1000 5 5 8 linie C++ 3.44028e+06
+static 1000 1000 5 5 8 coloane C++ 3.95568e+06
+static 1000 1000 5 5 8 bloc C++ 441874
+static 1000 1000 5 5 8 secvential C++ 1.25023e+07
+static 1000 1000 5 5 8 linie C++ 3.49088e+06
+static 1000 1000 5 5 8 coloane C++ 4.1051e+06
+static 1000 1000 5 5 8 bloc C++ 450913
+static 1000 1000 5 5 8 secvential C++ 1.3e+07
+static 1000 1000 5 5 8 linie C++ 3.41701e+06
+static 1000 1000 5 5 8 coloane C++ 4.01361e+06
+static 1000 1000 5 5 8 bloc C++ 492246
+static 1000 1000 5 5 8 secvential C++ 1.25732e+07
+static 1000 1000 5 5 8 linie C++ 3.38967e+06
+static 1000 1000 5 5 8 coloane C++ 4.04372e+06
+static 1000 1000 5 5 8 bloc C++ 510272
+static 1000 1000 5 5 8 secvential C++ 1.37092e+07
+static 1000 1000 5 5 8 linie C++ 3.33609e+06
+static 1000 1000 5 5 8 coloane C++ 3.97599e+06
+static 1000 1000 5 5 8 bloc C++ 490313
+static 1000 1000 5 5 8 secvential C++ 1.24446e+07
+static 1000 1000 5 5 8 linie C++ 3.38783e+06
+static 1000 1000 5 5 8 coloane C++ 3.97228e+06
+static 1000 1000 5 5 8 bloc C++ 502208
+static 1000 1000 5 5 8 secvential C++ 1.25097e+07
+static 1000 1000 5 5 8 linie C++ 3.45287e+06
+static 1000 1000 5 5 8 coloane C++ 4.15569e+06
+static 1000 1000 5 5 8 bloc C++ 458591
+static 1000 1000 5 5 8 secvential C++ 1.25303e+07
+static 1000 1000 5 5 8 linie C++ 3.39027e+06
+static 1000 1000 5 5 8 coloane C++ 3.99943e+06
+static 1000 1000 5 5 8 bloc C++ 485536
+static 1000 1000 5 5 16 secvential C++ 1.25468e+07
+static 1000 1000 5 5 16 linie C++ 2.75488e+06
+static 1000 1000 5 5 16 coloane C++ 3.91247e+06
+static 1000 1000 5 5 16 bloc C++ 398259
+static 1000 1000 5 5 16 secvential C++ 1.39052e+07
+static 1000 1000 5 5 16 linie C++ 3.30851e+06
+static 1000 1000 5 5 16 coloane C++ 5.13287e+06
+static 1000 1000 5 5 16 bloc C++ 366258
+static 1000 1000 5 5 16 secvential C++ 1.34426e+07
+static 1000 1000 5 5 16 linie C++ 3.4333e+06
+static 1000 1000 5 5 16 coloane C++ 3.3583e+06
+static 1000 1000 5 5 16 bloc C++ 417217
+static 1000 1000 5 5 16 secvential C++ 1.24923e+07
+static 1000 1000 5 5 16 linie C++ 2.95882e+06
+static 1000 1000 5 5 16 coloane C++ 3.24044e+06
+static 1000 1000 5 5 16 bloc C++ 343011
+static 1000 1000 5 5 16 secvential C++ 1.25708e+07
+static 1000 1000 5 5 16 linie C++ 3.03096e+06
+static 1000 1000 5 5 16 coloane C++ 3.18925e+06
+static 1000 1000 5 5 16 bloc C++ 354407
+static 1000 1000 5 5 16 secvential C++ 1.25085e+07
+static 1000 1000 5 5 16 linie C++ 3.13673e+06
+static 1000 1000 5 5 16 coloane C++ 3.32083e+06
+static 1000 1000 5 5 16 bloc C++ 413351
+static 1000 1000 5 5 16 secvential C++ 1.25057e+07
+static 1000 1000 5 5 16 linie C++ 3.36634e+06
+static 1000 1000 5 5 16 coloane C++ 3.55332e+06
+static 1000 1000 5 5 16 bloc C++ 407259
+static 1000 1000 5 5 16 secvential C++ 1.25278e+07
+static 1000 1000 5 5 16 linie C++ 2.95518e+06
+static 1000 1000 5 5 16 coloane C++ 3.12397e+06
+static 1000 1000 5 5 16 bloc C++ 407335
+static 1000 1000 5 5 16 secvential C++ 1.25337e+07
+static 1000 1000 5 5 16 linie C++ 3.01158e+06
+static 1000 1000 5 5 16 coloane C++ 3.42652e+06
+static 1000 1000 5 5 16 bloc C++ 352054
+static 1000 1000 5 5 16 secvential C++ 1.24716e+07
+static 1000 1000 5 5 16 linie C++ 2.77918e+06
+static 1000 1000 5 5 16 coloane C++ 4.03553e+06
+static 1000 1000 5 5 16 bloc C++ 378949
+static 10000 10 5 5 1 secvential C++ 1.07695e+07
+static 10000 10 5 5 1 linie C++ 1.06512e+07
+static 10000 10 5 5 1 coloane C++ 2.67588e+06
+static 10000 10 5 5 1 bloc C++ 1.96074e+06
+static 10000 10 5 5 1 secvential C++ 1.03525e+07
+static 10000 10 5 5 1 linie C++ 1.06591e+07
+static 10000 10 5 5 1 coloane C++ 3.34256e+06
+static 10000 10 5 5 1 bloc C++ 1.80704e+06
+static 10000 10 5 5 1 secvential C++ 1.02523e+07
+static 10000 10 5 5 1 linie C++ 1.1462e+07
+static 10000 10 5 5 1 coloane C++ 2.70014e+06
+static 10000 10 5 5 1 bloc C++ 1.80332e+06
+static 10000 10 5 5 1 secvential C++ 1.04008e+07
+static 10000 10 5 5 1 linie C++ 1.13704e+07
+static 10000 10 5 5 1 coloane C++ 2.78883e+06
+static 10000 10 5 5 1 bloc C++ 1.79627e+06
+static 10000 10 5 5 1 secvential C++ 9.99383e+06
+static 10000 10 5 5 1 linie C++ 1.09113e+07
+static 10000 10 5 5 1 coloane C++ 2.70552e+06
+static 10000 10 5 5 1 bloc C++ 1.87755e+06
+static 10000 10 5 5 1 secvential C++ 1.00288e+07
+static 10000 10 5 5 1 linie C++ 1.10361e+07
+static 10000 10 5 5 1 coloane C++ 2.67065e+06
+static 10000 10 5 5 1 bloc C++ 1.71901e+06
+static 10000 10 5 5 1 secvential C++ 1.01608e+07
+static 10000 10 5 5 1 linie C++ 1.07616e+07
+static 10000 10 5 5 1 coloane C++ 2.80158e+06
+static 10000 10 5 5 1 bloc C++ 1.96755e+06
+static 10000 10 5 5 1 secvential C++ 1.00752e+07
+static 10000 10 5 5 1 linie C++ 1.12101e+07
+static 10000 10 5 5 1 coloane C++ 2.65728e+06
+static 10000 10 5 5 1 bloc C++ 1.70748e+06
+static 10000 10 5 5 1 secvential C++ 1.00797e+07
+static 10000 10 5 5 1 linie C++ 1.09185e+07
+static 10000 10 5 5 1 coloane C++ 2.86918e+06
+static 10000 10 5 5 1 bloc C++ 1.84267e+06
+static 10000 10 5 5 1 secvential C++ 1.04131e+07
+static 10000 10 5 5 1 linie C++ 1.09367e+07
+static 10000 10 5 5 1 coloane C++ 2.66204e+06
+static 10000 10 5 5 1 bloc C++ 1.79468e+06
+static 10000 10 5 5 2 secvential C++ 1.01143e+07
+static 10000 10 5 5 2 linie C++ 6.26689e+06
+static 10000 10 5 5 2 coloane C++ 2.22054e+06
+static 10000 10 5 5 2 bloc C++ 653556
+static 10000 10 5 5 2 secvential C++ 1.13271e+07
+static 10000 10 5 5 2 linie C++ 6.41234e+06
+static 10000 10 5 5 2 coloane C++ 1.97546e+06
+static 10000 10 5 5 2 bloc C++ 728415
+static 10000 10 5 5 2 secvential C++ 1.02485e+07
+static 10000 10 5 5 2 linie C++ 6.33961e+06
+static 10000 10 5 5 2 coloane C++ 1.84807e+06
+static 10000 10 5 5 2 bloc C++ 739520
+static 10000 10 5 5 2 secvential C++ 1.00504e+07
+static 10000 10 5 5 2 linie C++ 6.34672e+06
+static 10000 10 5 5 2 coloane C++ 2.15854e+06
+static 10000 10 5 5 2 bloc C++ 756245
+static 10000 10 5 5 2 secvential C++ 1.09198e+07
+static 10000 10 5 5 2 linie C++ 5.83069e+06
+static 10000 10 5 5 2 coloane C++ 1.70709e+06
+static 10000 10 5 5 2 bloc C++ 656070
+static 10000 10 5 5 2 secvential C++ 1.03024e+07
+static 10000 10 5 5 2 linie C++ 6.56525e+06
+static 10000 10 5 5 2 coloane C++ 2.12293e+06
+static 10000 10 5 5 2 bloc C++ 673680
+static 10000 10 5 5 2 secvential C++ 1.02485e+07
+static 10000 10 5 5 2 linie C++ 6.16053e+06
+static 10000 10 5 5 2 coloane C++ 2.09884e+06
+static 10000 10 5 5 2 bloc C++ 681203
+static 10000 10 5 5 2 secvential C++ 1.03392e+07
+static 10000 10 5 5 2 linie C++ 6.06814e+06
+static 10000 10 5 5 2 coloane C++ 1.75356e+06
+static 10000 10 5 5 2 bloc C++ 670266
+static 10000 10 5 5 2 secvential C++ 1.01496e+07
+static 10000 10 5 5 2 linie C++ 5.85538e+06
+static 10000 10 5 5 2 coloane C++ 2.12178e+06
+static 10000 10 5 5 2 bloc C++ 1.19515e+06
+static 10000 10 5 5 2 secvential C++ 1.02883e+07
+static 10000 10 5 5 2 linie C++ 6.25951e+06
+static 10000 10 5 5 2 coloane C++ 1.8319e+06
+static 10000 10 5 5 2 bloc C++ 675528
+static 10000 10 5 5 4 secvential C++ 1.04248e+07
+static 10000 10 5 5 4 linie C++ 3.49514e+06
+static 10000 10 5 5 4 coloane C++ 1.49342e+06
+static 10000 10 5 5 4 bloc C++ 434426
+static 10000 10 5 5 4 secvential C++ 1.04329e+07
+static 10000 10 5 5 4 linie C++ 3.5206e+06
+static 10000 10 5 5 4 coloane C++ 1.46964e+06
+static 10000 10 5 5 4 bloc C++ 353966
+static 10000 10 5 5 4 secvential C++ 1.04229e+07
+static 10000 10 5 5 4 linie C++ 3.39256e+06
+static 10000 10 5 5 4 coloane C++ 1.46512e+06
+static 10000 10 5 5 4 bloc C++ 326481
+static 10000 10 5 5 4 secvential C++ 1.01067e+07
+static 10000 10 5 5 4 linie C++ 3.75785e+06
+static 10000 10 5 5 4 coloane C++ 1.62236e+06
+static 10000 10 5 5 4 bloc C++ 281629
+static 10000 10 5 5 4 secvential C++ 1.04378e+07
+static 10000 10 5 5 4 linie C++ 3.59827e+06
+static 10000 10 5 5 4 coloane C++ 1.59657e+06
+static 10000 10 5 5 4 bloc C++ 300911
+static 10000 10 5 5 4 secvential C++ 1.04117e+07
+static 10000 10 5 5 4 linie C++ 3.57719e+06
+static 10000 10 5 5 4 coloane C++ 1.4555e+06
+static 10000 10 5 5 4 bloc C++ 370990
+static 10000 10 5 5 4 secvential C++ 1.02231e+07
+static 10000 10 5 5 4 linie C++ 3.66964e+06
+static 10000 10 5 5 4 coloane C++ 1.61674e+06
+static 10000 10 5 5 4 bloc C++ 376519
+static 10000 10 5 5 4 secvential C++ 1.04488e+07
+static 10000 10 5 5 4 linie C++ 3.69427e+06
+static 10000 10 5 5 4 coloane C++ 1.47273e+06
+static 10000 10 5 5 4 bloc C++ 290249
+static 10000 10 5 5 4 secvential C++ 1.0273e+07
+static 10000 10 5 5 4 linie C++ 3.44038e+06
+static 10000 10 5 5 4 coloane C++ 1.57234e+06
+static 10000 10 5 5 4 bloc C++ 362396
+static 10000 10 5 5 4 secvential C++ 1.087e+07
+static 10000 10 5 5 4 linie C++ 4.20256e+06
+static 10000 10 5 5 4 coloane C++ 1.8316e+06
+static 10000 10 5 5 4 bloc C++ 311193
+static 10000 10 5 5 8 secvential C++ 1.05548e+07
+static 10000 10 5 5 8 linie C++ 2.73586e+06
+static 10000 10 5 5 8 coloane C++ 1.34385e+06
+static 10000 10 5 5 8 bloc C++ 208722
+static 10000 10 5 5 8 secvential C++ 1.03939e+07
+static 10000 10 5 5 8 linie C++ 2.71763e+06
+static 10000 10 5 5 8 coloane C++ 1.28913e+06
+static 10000 10 5 5 8 bloc C++ 188822
+static 10000 10 5 5 8 secvential C++ 1.02519e+07
+static 10000 10 5 5 8 linie C++ 2.80682e+06
+static 10000 10 5 5 8 coloane C++ 2.20348e+06
+static 10000 10 5 5 8 bloc C++ 237461
+static 10000 10 5 5 8 secvential C++ 1.0418e+07
+static 10000 10 5 5 8 linie C++ 3.09311e+06
+static 10000 10 5 5 8 coloane C++ 1.35293e+06
+static 10000 10 5 5 8 bloc C++ 230125
+static 10000 10 5 5 8 secvential C++ 1.05403e+07
+static 10000 10 5 5 8 linie C++ 2.69054e+06
+static 10000 10 5 5 8 coloane C++ 1.46207e+06
+static 10000 10 5 5 8 bloc C++ 210254
+static 10000 10 5 5 8 secvential C++ 1.04911e+07
+static 10000 10 5 5 8 linie C++ 2.71648e+06
+static 10000 10 5 5 8 coloane C++ 1.42907e+06
+static 10000 10 5 5 8 bloc C++ 185054
+static 10000 10 5 5 8 secvential C++ 9.99123e+06
+static 10000 10 5 5 8 linie C++ 2.85608e+06
+static 10000 10 5 5 8 coloane C++ 1.58594e+06
+static 10000 10 5 5 8 bloc C++ 200388
+static 10000 10 5 5 8 secvential C++ 1.05504e+07
+static 10000 10 5 5 8 linie C++ 2.844e+06
+static 10000 10 5 5 8 coloane C++ 1.24474e+06
+static 10000 10 5 5 8 bloc C++ 216070
+static 10000 10 5 5 8 secvential C++ 1.00294e+07
+static 10000 10 5 5 8 linie C++ 2.7656e+06
+static 10000 10 5 5 8 coloane C++ 2.28406e+06
+static 10000 10 5 5 8 bloc C++ 228679
+static 10000 10 5 5 8 secvential C++ 1.07184e+07
+static 10000 10 5 5 8 linie C++ 2.83125e+06
+static 10000 10 5 5 8 coloane C++ 1.45998e+06
+static 10000 10 5 5 8 bloc C++ 204222
+static 10000 10 5 5 16 secvential C++ 1.0161e+07
+static 10000 10 5 5 16 linie C++ 2.6592e+06
+static 10000 10 5 5 16 coloane C++ 1.07043e+06
+static 10000 10 5 5 16 bloc C++ 320555
+static 10000 10 5 5 16 secvential C++ 1.03576e+07
+static 10000 10 5 5 16 linie C++ 2.93055e+06
+static 10000 10 5 5 16 coloane C++ 2.08495e+06
+static 10000 10 5 5 16 bloc C++ 300676
+static 10000 10 5 5 16 secvential C++ 1.04939e+07
+static 10000 10 5 5 16 linie C++ 2.99188e+06
+static 10000 10 5 5 16 coloane C++ 1.15554e+06
+static 10000 10 5 5 16 bloc C++ 303444
+static 10000 10 5 5 16 secvential C++ 1.07545e+07
+static 10000 10 5 5 16 linie C++ 2.74246e+06
+static 10000 10 5 5 16 coloane C++ 2.85506e+06
+static 10000 10 5 5 16 bloc C++ 344329
+static 10000 10 5 5 16 secvential C++ 1.12302e+07
+static 10000 10 5 5 16 linie C++ 2.96794e+06
+static 10000 10 5 5 16 coloane C++ 1.68974e+06
+static 10000 10 5 5 16 bloc C++ 351659
+static 10000 10 5 5 16 secvential C++ 1.04696e+07
+static 10000 10 5 5 16 linie C++ 2.62546e+06
+static 10000 10 5 5 16 coloane C++ 1.02901e+06
+static 10000 10 5 5 16 bloc C++ 290447
+static 10000 10 5 5 16 secvential C++ 1.0234e+07
+static 10000 10 5 5 16 linie C++ 2.99584e+06
+static 10000 10 5 5 16 coloane C++ 1.37016e+06
+static 10000 10 5 5 16 bloc C++ 331851
+static 10000 10 5 5 16 secvential C++ 1.02971e+07
+static 10000 10 5 5 16 linie C++ 2.52004e+06
+static 10000 10 5 5 16 coloane C++ 1.16441e+06
+static 10000 10 5 5 16 bloc C++ 331150
+static 10000 10 5 5 16 secvential C++ 1.02448e+07
+static 10000 10 5 5 16 linie C++ 2.89097e+06
+static 10000 10 5 5 16 coloane C++ 1.24797e+06
+static 10000 10 5 5 16 bloc C++ 304836
+static 10000 10 5 5 16 secvential C++ 1.11114e+07
+static 10000 10 5 5 16 linie C++ 2.66941e+06
+static 10000 10 5 5 16 coloane C++ 1.22608e+06
+static 10000 10 5 5 16 bloc C++ 333779
+static 10000 10000 5 5 1 secvential C++ 1.15341e+09
+static 10000 10000 5 5 1 linie C++ 1.15713e+09
+static 10000 10000 5 5 1 coloane C++ 2.04917e+09
+static 10000 10000 5 5 1 bloc C++ 1.06815e+09
+static 10000 10000 5 5 1 secvential C++ 1.1738e+09
+static 10000 10000 5 5 1 linie C++ 1.17127e+09
+static 10000 10000 5 5 1 coloane C++ 1.85485e+09
+static 10000 10000 5 5 1 bloc C++ 1.04497e+09
+static 10000 10000 5 5 1 secvential C++ 1.13823e+09
+static 10000 10000 5 5 1 linie C++ 1.15767e+09
+static 10000 10000 5 5 1 coloane C++ 1.89213e+09
+static 10000 10000 5 5 1 bloc C++ 1.07023e+09
+static 10000 10000 5 5 1 secvential C++ 1.17295e+09
+static 10000 10000 5 5 1 linie C++ 1.13985e+09
+static 10000 10000 5 5 1 coloane C++ 2.04354e+09
+static 10000 10000 5 5 1 bloc C++ 1.05258e+09
+static 10000 10000 5 5 1 secvential C++ 1.13538e+09
+static 10000 10000 5 5 1 linie C++ 1.13671e+09
+static 10000 10000 5 5 1 coloane C++ 2.06743e+09
+static 10000 10000 5 5 1 bloc C++ 1.04459e+09
+static 10000 10000 5 5 1 secvential C++ 1.14136e+09
+static 10000 10000 5 5 1 linie C++ 1.14076e+09
+static 10000 10000 5 5 1 coloane C++ 1.90069e+09
+static 10000 10000 5 5 1 bloc C++ 1.04727e+09
+static 10000 10000 5 5 1 secvential C++ 1.14877e+09
+static 10000 10000 5 5 1 linie C++ 1.14167e+09
+static 10000 10000 5 5 1 coloane C++ 1.86697e+09
+static 10000 10000 5 5 1 bloc C++ 1.04534e+09
+static 10000 10000 5 5 1 secvential C++ 1.14324e+09
+static 10000 10000 5 5 1 linie C++ 1.17887e+09
+static 10000 10000 5 5 1 coloane C++ 2.03758e+09
+static 10000 10000 5 5 1 bloc C++ 1.1292e+09
+static 10000 10000 5 5 1 secvential C++ 1.16071e+09
+static 10000 10000 5 5 1 linie C++ 1.14323e+09
+static 10000 10000 5 5 1 coloane C++ 1.96291e+09
+static 10000 10000 5 5 1 bloc C++ 1.05029e+09
+static 10000 10000 5 5 1 secvential C++ 1.23543e+09
+static 10000 10000 5 5 1 linie C++ 1.26547e+09
+static 10000 10000 5 5 1 coloane C++ 2.21943e+09
+static 10000 10000 5 5 1 bloc C++ 1.16099e+09
+static 10000 10000 5 5 2 secvential C++ 1.22577e+09
+static 10000 10000 5 5 2 linie C++ 6.35459e+08
+static 10000 10000 5 5 2 coloane C++ 1.58536e+09
+static 10000 10000 5 5 2 bloc C++ 3.33933e+08
+static 10000 10000 5 5 2 secvential C++ 1.20364e+09
+static 10000 10000 5 5 2 linie C++ 6.46535e+08
+static 10000 10000 5 5 2 coloane C++ 1.39386e+09
+static 10000 10000 5 5 2 bloc C++ 2.71996e+08
+static 10000 10000 5 5 2 secvential C++ 1.22304e+09
+static 10000 10000 5 5 2 linie C++ 6.09573e+08
+static 10000 10000 5 5 2 coloane C++ 1.43835e+09
+static 10000 10000 5 5 2 bloc C++ 2.78581e+08
+static 10000 10000 5 5 2 secvential C++ 1.13714e+09
+static 10000 10000 5 5 2 linie C++ 5.79711e+08
+static 10000 10000 5 5 2 coloane C++ 1.25087e+09
+static 10000 10000 5 5 2 bloc C++ 2.74072e+08
+static 10000 10000 5 5 2 secvential C++ 1.22259e+09
+static 10000 10000 5 5 2 linie C++ 6.07159e+08
+static 10000 10000 5 5 2 coloane C++ 1.47723e+09
+static 10000 10000 5 5 2 bloc C++ 3.03684e+08
+static 10000 10000 5 5 2 secvential C++ 1.24286e+09
+static 10000 10000 5 5 2 linie C++ 6.37155e+08
+static 10000 10000 5 5 2 coloane C++ 1.33797e+09
+static 10000 10000 5 5 2 bloc C++ 2.83808e+08
+static 10000 10000 5 5 2 secvential C++ 1.27355e+09
+static 10000 10000 5 5 2 linie C++ 5.90201e+08
+static 10000 10000 5 5 2 coloane C++ 1.31419e+09
+static 10000 10000 5 5 2 bloc C++ 2.66216e+08
+static 10000 10000 5 5 2 secvential C++ 1.16057e+09
+static 10000 10000 5 5 2 linie C++ 6.31541e+08
+static 10000 10000 5 5 2 coloane C++ 1.42542e+09
+static 10000 10000 5 5 2 bloc C++ 2.77594e+08
+static 10000 10000 5 5 2 secvential C++ 1.20427e+09
+static 10000 10000 5 5 2 linie C++ 6.21891e+08
+static 10000 10000 5 5 2 coloane C++ 1.53472e+09
+static 10000 10000 5 5 2 bloc C++ 2.88134e+08
+static 10000 10000 5 5 2 secvential C++ 1.15933e+09
+static 10000 10000 5 5 2 linie C++ 6.17002e+08
+static 10000 10000 5 5 2 coloane C++ 1.27627e+09
+static 10000 10000 5 5 2 bloc C++ 2.62834e+08
+static 10000 10000 5 5 4 secvential C++ 1.1385e+09
+static 10000 10000 5 5 4 linie C++ 2.98118e+08
+static 10000 10000 5 5 4 coloane C++ 1.1731e+09
+static 10000 10000 5 5 4 bloc C++ 6.98946e+07
+static 10000 10000 5 5 4 secvential C++ 1.13531e+09
+static 10000 10000 5 5 4 linie C++ 3.01674e+08
+static 10000 10000 5 5 4 coloane C++ 1.08005e+09
+static 10000 10000 5 5 4 bloc C++ 6.9124e+07
+static 10000 10000 5 5 4 secvential C++ 1.13673e+09
+static 10000 10000 5 5 4 linie C++ 2.98211e+08
+static 10000 10000 5 5 4 coloane C++ 1.13927e+09
+static 10000 10000 5 5 4 bloc C++ 6.89108e+07
+static 10000 10000 5 5 4 secvential C++ 1.13703e+09
+static 10000 10000 5 5 4 linie C++ 3.04875e+08
+static 10000 10000 5 5 4 coloane C++ 1.11347e+09
+static 10000 10000 5 5 4 bloc C++ 7.02129e+07
+static 10000 10000 5 5 4 secvential C++ 1.13905e+09
+static 10000 10000 5 5 4 linie C++ 3.04097e+08
+static 10000 10000 5 5 4 coloane C++ 1.13225e+09
+static 10000 10000 5 5 4 bloc C++ 7.6085e+07
+static 10000 10000 5 5 4 secvential C++ 1.13833e+09
+static 10000 10000 5 5 4 linie C++ 3.01067e+08
+static 10000 10000 5 5 4 coloane C++ 1.07992e+09
+static 10000 10000 5 5 4 bloc C++ 6.96113e+07
+static 10000 10000 5 5 4 secvential C++ 1.15151e+09
+static 10000 10000 5 5 4 linie C++ 3.00577e+08
+static 10000 10000 5 5 4 coloane C++ 1.1135e+09
+static 10000 10000 5 5 4 bloc C++ 7.23598e+07
+static 10000 10000 5 5 4 secvential C++ 1.13378e+09
+static 10000 10000 5 5 4 linie C++ 2.99804e+08
+static 10000 10000 5 5 4 coloane C++ 1.09592e+09
+static 10000 10000 5 5 4 bloc C++ 6.94908e+07
+static 10000 10000 5 5 4 secvential C++ 1.15071e+09
+static 10000 10000 5 5 4 linie C++ 3.1157e+08
+static 10000 10000 5 5 4 coloane C++ 1.16005e+09
+static 10000 10000 5 5 4 bloc C++ 6.90666e+07
+static 10000 10000 5 5 4 secvential C++ 1.14735e+09
+static 10000 10000 5 5 4 linie C++ 3.02064e+08
+static 10000 10000 5 5 4 coloane C++ 1.16055e+09
+static 10000 10000 5 5 4 bloc C++ 7.05511e+07
+static 10000 10000 5 5 8 secvential C++ 1.13808e+09
+static 10000 10000 5 5 8 linie C++ 2.56398e+08
+static 10000 10000 5 5 8 coloane C++ 9.95545e+08
+static 10000 10000 5 5 8 bloc C++ 3.40458e+07
+static 10000 10000 5 5 8 secvential C++ 1.1368e+09
+static 10000 10000 5 5 8 linie C++ 2.50737e+08
+static 10000 10000 5 5 8 coloane C++ 9.71126e+08
+static 10000 10000 5 5 8 bloc C++ 3.38732e+07
+static 10000 10000 5 5 8 secvential C++ 1.153e+09
+static 10000 10000 5 5 8 linie C++ 2.46861e+08
+static 10000 10000 5 5 8 coloane C++ 9.92557e+08
+static 10000 10000 5 5 8 bloc C++ 3.37952e+07
+static 10000 10000 5 5 8 secvential C++ 1.13543e+09
+static 10000 10000 5 5 8 linie C++ 2.42191e+08
+static 10000 10000 5 5 8 coloane C++ 9.87227e+08
+static 10000 10000 5 5 8 bloc C++ 3.36277e+07
+static 10000 10000 5 5 8 secvential C++ 1.14453e+09
+static 10000 10000 5 5 8 linie C++ 2.52655e+08
+static 10000 10000 5 5 8 coloane C++ 9.77358e+08
+static 10000 10000 5 5 8 bloc C++ 3.37703e+07
+static 10000 10000 5 5 8 secvential C++ 1.14945e+09
+static 10000 10000 5 5 8 linie C++ 2.44822e+08
+static 10000 10000 5 5 8 coloane C++ 1.00848e+09
+static 10000 10000 5 5 8 bloc C++ 3.38274e+07
+static 10000 10000 5 5 8 secvential C++ 1.14799e+09
+static 10000 10000 5 5 8 linie C++ 2.49031e+08
+static 10000 10000 5 5 8 coloane C++ 9.77486e+08
+static 10000 10000 5 5 8 bloc C++ 3.39174e+07
+static 10000 10000 5 5 8 secvential C++ 1.13525e+09
+static 10000 10000 5 5 8 linie C++ 2.51646e+08
+static 10000 10000 5 5 8 coloane C++ 9.75544e+08
+static 10000 10000 5 5 8 bloc C++ 3.3952e+07
+static 10000 10000 5 5 8 secvential C++ 1.1543e+09
+static 10000 10000 5 5 8 linie C++ 2.4627e+08
+static 10000 10000 5 5 8 coloane C++ 1.11445e+09
+static 10000 10000 5 5 8 bloc C++ 3.44538e+07
+static 10000 10000 5 5 8 secvential C++ 1.166e+09
+static 10000 10000 5 5 8 linie C++ 2.52023e+08
+static 10000 10000 5 5 8 coloane C++ 1.00642e+09
+static 10000 10000 5 5 8 bloc C++ 3.44034e+07
+static 10000 10000 5 5 16 secvential C++ 1.21875e+09
+static 10000 10000 5 5 16 linie C++ 2.22814e+08
+static 10000 10000 5 5 16 coloane C++ 1.4318e+09
+static 10000 10000 5 5 16 bloc C++ 1.62629e+07
+static 10000 10000 5 5 16 secvential C++ 1.16553e+09
+static 10000 10000 5 5 16 linie C++ 2.22435e+08
+static 10000 10000 5 5 16 coloane C++ 1.31697e+09
+static 10000 10000 5 5 16 bloc C++ 1.50704e+07
+static 10000 10000 5 5 16 secvential C++ 1.16381e+09
+static 10000 10000 5 5 16 linie C++ 2.21378e+08
+static 10000 10000 5 5 16 coloane C++ 1.29334e+09
+static 10000 10000 5 5 16 bloc C++ 1.48172e+07
+static 10000 10000 5 5 16 secvential C++ 1.19259e+09
+static 10000 10000 5 5 16 linie C++ 2.2973e+08
+static 10000 10000 5 5 16 coloane C++ 1.49226e+09
+static 10000 10000 5 5 16 bloc C++ 1.66231e+07
+static 10000 10000 5 5 16 secvential C++ 1.17424e+09
+static 10000 10000 5 5 16 linie C++ 2.33925e+08
+static 10000 10000 5 5 16 coloane C++ 1.25672e+09
+static 10000 10000 5 5 16 bloc C++ 1.59596e+07
+static 10000 10000 5 5 16 secvential C++ 1.13849e+09
+static 10000 10000 5 5 16 linie C++ 2.20372e+08
+static 10000 10000 5 5 16 coloane C++ 1.1749e+09
+static 10000 10000 5 5 16 bloc C++ 1.66602e+07
+static 10000 10000 5 5 16 secvential C++ 1.21716e+09
+static 10000 10000 5 5 16 linie C++ 2.2461e+08
+static 10000 10000 5 5 16 coloane C++ 1.25527e+09
+static 10000 10000 5 5 16 bloc C++ 1.64746e+07
+static 10000 10000 5 5 16 secvential C++ 1.15049e+09
+static 10000 10000 5 5 16 linie C++ 2.19182e+08
+static 10000 10000 5 5 16 coloane C++ 1.21498e+09
+static 10000 10000 5 5 16 bloc C++ 1.66291e+07
+static 10000 10000 5 5 16 secvential C++ 1.17634e+09
+static 10000 10000 5 5 16 linie C++ 2.19582e+08
+static 10000 10000 5 5 16 coloane C++ 1.26157e+09
+static 10000 10000 5 5 16 bloc C++ 1.61559e+07
+static 10000 10000 5 5 16 secvential C++ 1.20233e+09
+static 10000 10000 5 5 16 linie C++ 2.19152e+08
+static 10000 10000 5 5 16 coloane C++ 1.27093e+09
+static 10000 10000 5 5 16 bloc C++ 1.47743e+07
+dinamic 3 3 3 3 1 secvential C++ 1873
+dinamic 3 3 3 3 1 linie C++ 194027
+dinamic 3 3 3 3 1 coloane C++ 23283
+dinamic 3 3 3 3 1 bloc C++ 30156
+dinamic 3 3 3 3 1 secvential C++ 1854
+dinamic 3 3 3 3 1 linie C++ 61055
+dinamic 3 3 3 3 1 coloane C++ 22095
+dinamic 3 3 3 3 1 bloc C++ 21545
+dinamic 3 3 3 3 1 secvential C++ 1922
+dinamic 3 3 3 3 1 linie C++ 81760
+dinamic 3 3 3 3 1 coloane C++ 21428
+dinamic 3 3 3 3 1 bloc C++ 19737
+dinamic 3 3 3 3 1 secvential C++ 1992
+dinamic 3 3 3 3 1 linie C++ 68663
+dinamic 3 3 3 3 1 coloane C++ 18628
+dinamic 3 3 3 3 1 bloc C++ 21809
+dinamic 3 3 3 3 1 secvential C++ 2135
+dinamic 3 3 3 3 1 linie C++ 83510
+dinamic 3 3 3 3 1 coloane C++ 20240
+dinamic 3 3 3 3 1 bloc C++ 28089
+dinamic 3 3 3 3 1 secvential C++ 1964
+dinamic 3 3 3 3 1 linie C++ 73189
+dinamic 3 3 3 3 1 coloane C++ 26455
+dinamic 3 3 3 3 1 bloc C++ 25652
+dinamic 3 3 3 3 1 secvential C++ 1878
+dinamic 3 3 3 3 1 linie C++ 72543
+dinamic 3 3 3 3 1 coloane C++ 22154
+dinamic 3 3 3 3 1 bloc C++ 21605
+dinamic 3 3 3 3 1 secvential C++ 1947
+dinamic 3 3 3 3 1 linie C++ 61854
+dinamic 3 3 3 3 1 coloane C++ 37564
+dinamic 3 3 3 3 1 bloc C++ 23901
+dinamic 3 3 3 3 1 secvential C++ 2027
+dinamic 3 3 3 3 1 linie C++ 78328
+dinamic 3 3 3 3 1 coloane C++ 18972
+dinamic 3 3 3 3 1 bloc C++ 18486
+dinamic 3 3 3 3 1 secvential C++ 1947
+dinamic 3 3 3 3 1 linie C++ 78416
+dinamic 3 3 3 3 1 coloane C++ 19570
+dinamic 3 3 3 3 1 bloc C++ 18429
+dinamic 3 3 3 3 2 secvential C++ 1803
+dinamic 3 3 3 3 2 linie C++ 97032
+dinamic 3 3 3 3 2 coloane C++ 27797
+dinamic 3 3 3 3 2 bloc C++ 30168
+dinamic 3 3 3 3 2 secvential C++ 1925
+dinamic 3 3 3 3 2 linie C++ 83097
+dinamic 3 3 3 3 2 coloane C++ 50443
+dinamic 3 3 3 3 2 bloc C++ 30825
+dinamic 3 3 3 3 2 secvential C++ 1989
+dinamic 3 3 3 3 2 linie C++ 84087
+dinamic 3 3 3 3 2 coloane C++ 29742
+dinamic 3 3 3 3 2 bloc C++ 24296
+dinamic 3 3 3 3 2 secvential C++ 2218
+dinamic 3 3 3 3 2 linie C++ 60982
+dinamic 3 3 3 3 2 coloane C++ 38050
+dinamic 3 3 3 3 2 bloc C++ 25693
+dinamic 3 3 3 3 2 secvential C++ 1820
+dinamic 3 3 3 3 2 linie C++ 53140
+dinamic 3 3 3 3 2 coloane C++ 25645
+dinamic 3 3 3 3 2 bloc C++ 26363
+dinamic 3 3 3 3 2 secvential C++ 1810
+dinamic 3 3 3 3 2 linie C++ 74334
+dinamic 3 3 3 3 2 coloane C++ 29250
+dinamic 3 3 3 3 2 bloc C++ 23694
+dinamic 3 3 3 3 2 secvential C++ 1826
+dinamic 3 3 3 3 2 linie C++ 75140
+dinamic 3 3 3 3 2 coloane C++ 27222
+dinamic 3 3 3 3 2 bloc C++ 23765
+dinamic 3 3 3 3 2 secvential C++ 1897
+dinamic 3 3 3 3 2 linie C++ 81723
+dinamic 3 3 3 3 2 coloane C++ 27239
+dinamic 3 3 3 3 2 bloc C++ 23827
+dinamic 3 3 3 3 2 secvential C++ 1951
+dinamic 3 3 3 3 2 linie C++ 59562
+dinamic 3 3 3 3 2 coloane C++ 31570
+dinamic 3 3 3 3 2 bloc C++ 28933
+dinamic 3 3 3 3 2 secvential C++ 2085
+dinamic 3 3 3 3 2 linie C++ 82199
+dinamic 3 3 3 3 2 coloane C++ 32132
+dinamic 3 3 3 3 2 bloc C++ 46781
+dinamic 3 3 3 3 4 secvential C++ 1947
+dinamic 3 3 3 3 4 linie C++ 105160
+dinamic 3 3 3 3 4 coloane C++ 40142
+dinamic 3 3 3 3 4 bloc C++ 37256
+dinamic 3 3 3 3 4 secvential C++ 2395
+dinamic 3 3 3 3 4 linie C++ 118464
+dinamic 3 3 3 3 4 coloane C++ 47721
+dinamic 3 3 3 3 4 bloc C++ 41679
+dinamic 3 3 3 3 4 secvential C++ 1843
+dinamic 3 3 3 3 4 linie C++ 93603
+dinamic 3 3 3 3 4 coloane C++ 48451
+dinamic 3 3 3 3 4 bloc C++ 42525
+dinamic 3 3 3 3 4 secvential C++ 1988
+dinamic 3 3 3 3 4 linie C++ 93868
+dinamic 3 3 3 3 4 coloane C++ 54833
+dinamic 3 3 3 3 4 bloc C++ 42638
+dinamic 3 3 3 3 4 secvential C++ 1862
+dinamic 3 3 3 3 4 linie C++ 97139
+dinamic 3 3 3 3 4 coloane C++ 38197
+dinamic 3 3 3 3 4 bloc C++ 39121
+dinamic 3 3 3 3 4 secvential C++ 2163
+dinamic 3 3 3 3 4 linie C++ 92647
+dinamic 3 3 3 3 4 coloane C++ 38869
+dinamic 3 3 3 3 4 bloc C++ 39534
+dinamic 3 3 3 3 4 secvential C++ 1911
+dinamic 3 3 3 3 4 linie C++ 101920
+dinamic 3 3 3 3 4 coloane C++ 44101
+dinamic 3 3 3 3 4 bloc C++ 39519
+dinamic 3 3 3 3 4 secvential C++ 1935
+dinamic 3 3 3 3 4 linie C++ 100857
+dinamic 3 3 3 3 4 coloane C++ 38423
+dinamic 3 3 3 3 4 bloc C++ 37435
+dinamic 3 3 3 3 4 secvential C++ 2527
+dinamic 3 3 3 3 4 linie C++ 97562
+dinamic 3 3 3 3 4 coloane C++ 40405
+dinamic 3 3 3 3 4 bloc C++ 38118
+dinamic 3 3 3 3 4 secvential C++ 2104
+dinamic 3 3 3 3 4 linie C++ 123507
+dinamic 3 3 3 3 4 coloane C++ 42120
+dinamic 3 3 3 3 4 bloc C++ 45519
+dinamic 3 3 3 3 8 secvential C++ 1951
+dinamic 3 3 3 3 8 linie C++ 161808
+dinamic 3 3 3 3 8 coloane C++ 116531
+dinamic 3 3 3 3 8 bloc C++ 128453
+dinamic 3 3 3 3 8 secvential C++ 2308
+dinamic 3 3 3 3 8 linie C++ 190579
+dinamic 3 3 3 3 8 coloane C++ 107065
+dinamic 3 3 3 3 8 bloc C++ 97751
+dinamic 3 3 3 3 8 secvential C++ 1884
+dinamic 3 3 3 3 8 linie C++ 167315
+dinamic 3 3 3 3 8 coloane C++ 102001
+dinamic 3 3 3 3 8 bloc C++ 99538
+dinamic 3 3 3 3 8 secvential C++ 1927
+dinamic 3 3 3 3 8 linie C++ 164593
+dinamic 3 3 3 3 8 coloane C++ 111044
+dinamic 3 3 3 3 8 bloc C++ 96828
+dinamic 3 3 3 3 8 secvential C++ 2832
+dinamic 3 3 3 3 8 linie C++ 178526
+dinamic 3 3 3 3 8 coloane C++ 111594
+dinamic 3 3 3 3 8 bloc C++ 140836
+dinamic 3 3 3 3 8 secvential C++ 1909
+dinamic 3 3 3 3 8 linie C++ 145462
+dinamic 3 3 3 3 8 coloane C++ 111503
+dinamic 3 3 3 3 8 bloc C++ 103298
+dinamic 3 3 3 3 8 secvential C++ 1844
+dinamic 3 3 3 3 8 linie C++ 178000
+dinamic 3 3 3 3 8 coloane C++ 127169
+dinamic 3 3 3 3 8 bloc C++ 113373
+dinamic 3 3 3 3 8 secvential C++ 2124
+dinamic 3 3 3 3 8 linie C++ 170297
+dinamic 3 3 3 3 8 coloane C++ 113056
+dinamic 3 3 3 3 8 bloc C++ 109963
+dinamic 3 3 3 3 8 secvential C++ 1952
+dinamic 3 3 3 3 8 linie C++ 149449
+dinamic 3 3 3 3 8 coloane C++ 105470
+dinamic 3 3 3 3 8 bloc C++ 105776
+dinamic 3 3 3 3 8 secvential C++ 2194
+dinamic 3 3 3 3 8 linie C++ 161568
+dinamic 3 3 3 3 8 coloane C++ 113074
+dinamic 3 3 3 3 8 bloc C++ 107974
+dinamic 3 3 3 3 16 secvential C++ 1842
+dinamic 3 3 3 3 16 linie C++ 292406
+dinamic 3 3 3 3 16 coloane C++ 229462
+dinamic 3 3 3 3 16 bloc C++ 240853
+dinamic 3 3 3 3 16 secvential C++ 2339
+dinamic 3 3 3 3 16 linie C++ 295975
+dinamic 3 3 3 3 16 coloane C++ 240320
+dinamic 3 3 3 3 16 bloc C++ 230801
+dinamic 3 3 3 3 16 secvential C++ 1970
+dinamic 3 3 3 3 16 linie C++ 281922
+dinamic 3 3 3 3 16 coloane C++ 233733
+dinamic 3 3 3 3 16 bloc C++ 232169
+dinamic 3 3 3 3 16 secvential C++ 1942
+dinamic 3 3 3 3 16 linie C++ 277677
+dinamic 3 3 3 3 16 coloane C++ 246287
+dinamic 3 3 3 3 16 bloc C++ 244564
+dinamic 3 3 3 3 16 secvential C++ 2020
+dinamic 3 3 3 3 16 linie C++ 305886
+dinamic 3 3 3 3 16 coloane C++ 225468
+dinamic 3 3 3 3 16 bloc C++ 226509
+dinamic 3 3 3 3 16 secvential C++ 2408
+dinamic 3 3 3 3 16 linie C++ 297606
+dinamic 3 3 3 3 16 coloane C++ 235298
+dinamic 3 3 3 3 16 bloc C++ 239334
+dinamic 3 3 3 3 16 secvential C++ 1869
+dinamic 3 3 3 3 16 linie C++ 318705
+dinamic 3 3 3 3 16 coloane C++ 315856
+dinamic 3 3 3 3 16 bloc C++ 320938
+dinamic 3 3 3 3 16 secvential C++ 1944
+dinamic 3 3 3 3 16 linie C++ 292535
+dinamic 3 3 3 3 16 coloane C++ 239442
+dinamic 3 3 3 3 16 bloc C++ 225693
+dinamic 3 3 3 3 16 secvential C++ 1949
+dinamic 3 3 3 3 16 linie C++ 307696
+dinamic 3 3 3 3 16 coloane C++ 254198
+dinamic 3 3 3 3 16 bloc C++ 243159
+dinamic 3 3 3 3 16 secvential C++ 1937
+dinamic 3 3 3 3 16 linie C++ 309416
+dinamic 3 3 3 3 16 coloane C++ 238504
+dinamic 3 3 3 3 16 bloc C++ 254956
+dinamic 10 10 3 3 1 secvential C++ 10095
+dinamic 10 10 3 3 1 linie C++ 66831
+dinamic 10 10 3 3 1 coloane C++ 22206
+dinamic 10 10 3 3 1 bloc C++ 43148
+dinamic 10 10 3 3 1 secvential C++ 8918
+dinamic 10 10 3 3 1 linie C++ 66433
+dinamic 10 10 3 3 1 coloane C++ 40034
+dinamic 10 10 3 3 1 bloc C++ 42002
+dinamic 10 10 3 3 1 secvential C++ 8975
+dinamic 10 10 3 3 1 linie C++ 93408
+dinamic 10 10 3 3 1 coloane C++ 21274
+dinamic 10 10 3 3 1 bloc C++ 19877
+dinamic 10 10 3 3 1 secvential C++ 9299
+dinamic 10 10 3 3 1 linie C++ 93546
+dinamic 10 10 3 3 1 coloane C++ 29230
+dinamic 10 10 3 3 1 bloc C++ 22837
+dinamic 10 10 3 3 1 secvential C++ 10244
+dinamic 10 10 3 3 1 linie C++ 90282
+dinamic 10 10 3 3 1 coloane C++ 24447
+dinamic 10 10 3 3 1 bloc C++ 17276
+dinamic 10 10 3 3 1 secvential C++ 9770
+dinamic 10 10 3 3 1 linie C++ 74894
+dinamic 10 10 3 3 1 coloane C++ 22724
+dinamic 10 10 3 3 1 bloc C++ 26907
+dinamic 10 10 3 3 1 secvential C++ 9164
+dinamic 10 10 3 3 1 linie C++ 67956
+dinamic 10 10 3 3 1 coloane C++ 44633
+dinamic 10 10 3 3 1 bloc C++ 25354
+dinamic 10 10 3 3 1 secvential C++ 9189
+dinamic 10 10 3 3 1 linie C++ 73422
+dinamic 10 10 3 3 1 coloane C++ 22814
+dinamic 10 10 3 3 1 bloc C++ 24530
+dinamic 10 10 3 3 1 secvential C++ 11056
+dinamic 10 10 3 3 1 linie C++ 60826
+dinamic 10 10 3 3 1 coloane C++ 44901
+dinamic 10 10 3 3 1 bloc C++ 18333
+dinamic 10 10 3 3 1 secvential C++ 10118
+dinamic 10 10 3 3 1 linie C++ 96233
+dinamic 10 10 3 3 1 coloane C++ 24745
+dinamic 10 10 3 3 1 bloc C++ 22229
+dinamic 10 10 3 3 2 secvential C++ 8991
+dinamic 10 10 3 3 2 linie C++ 73585
+dinamic 10 10 3 3 2 coloane C++ 31630
+dinamic 10 10 3 3 2 bloc C++ 25471
+dinamic 10 10 3 3 2 secvential C++ 9173
+dinamic 10 10 3 3 2 linie C++ 99917
+dinamic 10 10 3 3 2 coloane C++ 34123
+dinamic 10 10 3 3 2 bloc C++ 22757
+dinamic 10 10 3 3 2 secvential C++ 9111
+dinamic 10 10 3 3 2 linie C++ 80654
+dinamic 10 10 3 3 2 coloane C++ 41605
+dinamic 10 10 3 3 2 bloc C++ 47520
+dinamic 10 10 3 3 2 secvential C++ 9382
+dinamic 10 10 3 3 2 linie C++ 90872
+dinamic 10 10 3 3 2 coloane C++ 28096
+dinamic 10 10 3 3 2 bloc C++ 25033
+dinamic 10 10 3 3 2 secvential C++ 14341
+dinamic 10 10 3 3 2 linie C++ 80420
+dinamic 10 10 3 3 2 coloane C++ 29018
+dinamic 10 10 3 3 2 bloc C++ 44409
+dinamic 10 10 3 3 2 secvential C++ 9599
+dinamic 10 10 3 3 2 linie C++ 75452
+dinamic 10 10 3 3 2 coloane C++ 31328
+dinamic 10 10 3 3 2 bloc C++ 29557
+dinamic 10 10 3 3 2 secvential C++ 8947
+dinamic 10 10 3 3 2 linie C++ 112257
+dinamic 10 10 3 3 2 coloane C++ 53051
+dinamic 10 10 3 3 2 bloc C++ 26408
+dinamic 10 10 3 3 2 secvential C++ 9040
+dinamic 10 10 3 3 2 linie C++ 99663
+dinamic 10 10 3 3 2 coloane C++ 39373
+dinamic 10 10 3 3 2 bloc C++ 33980
+dinamic 10 10 3 3 2 secvential C++ 9996
+dinamic 10 10 3 3 2 linie C++ 88324
+dinamic 10 10 3 3 2 coloane C++ 42278
+dinamic 10 10 3 3 2 bloc C++ 23112
+dinamic 10 10 3 3 2 secvential C++ 10340
+dinamic 10 10 3 3 2 linie C++ 94997
+dinamic 10 10 3 3 2 coloane C++ 23876
+dinamic 10 10 3 3 2 bloc C++ 41586
+dinamic 10 10 3 3 4 secvential C++ 8857
+dinamic 10 10 3 3 4 linie C++ 109317
+dinamic 10 10 3 3 4 coloane C++ 53404
+dinamic 10 10 3 3 4 bloc C++ 42142
+dinamic 10 10 3 3 4 secvential C++ 9495
+dinamic 10 10 3 3 4 linie C++ 106088
+dinamic 10 10 3 3 4 coloane C++ 41454
+dinamic 10 10 3 3 4 bloc C++ 40079
+dinamic 10 10 3 3 4 secvential C++ 9255
+dinamic 10 10 3 3 4 linie C++ 132958
+dinamic 10 10 3 3 4 coloane C++ 59688
+dinamic 10 10 3 3 4 bloc C++ 46208
+dinamic 10 10 3 3 4 secvential C++ 9569
+dinamic 10 10 3 3 4 linie C++ 104017
+dinamic 10 10 3 3 4 coloane C++ 40072
+dinamic 10 10 3 3 4 bloc C++ 40737
+dinamic 10 10 3 3 4 secvential C++ 9300
+dinamic 10 10 3 3 4 linie C++ 84863
+dinamic 10 10 3 3 4 coloane C++ 54664
+dinamic 10 10 3 3 4 bloc C++ 44652
+dinamic 10 10 3 3 4 secvential C++ 8990
+dinamic 10 10 3 3 4 linie C++ 93589
+dinamic 10 10 3 3 4 coloane C++ 38762
+dinamic 10 10 3 3 4 bloc C++ 39474
+dinamic 10 10 3 3 4 secvential C++ 9892
+dinamic 10 10 3 3 4 linie C++ 121418
+dinamic 10 10 3 3 4 coloane C++ 48747
+dinamic 10 10 3 3 4 bloc C++ 45399
+dinamic 10 10 3 3 4 secvential C++ 9063
+dinamic 10 10 3 3 4 linie C++ 120654
+dinamic 10 10 3 3 4 coloane C++ 52810
+dinamic 10 10 3 3 4 bloc C++ 46632
+dinamic 10 10 3 3 4 secvential C++ 8908
+dinamic 10 10 3 3 4 linie C++ 126902
+dinamic 10 10 3 3 4 coloane C++ 39937
+dinamic 10 10 3 3 4 bloc C++ 46770
+dinamic 10 10 3 3 4 secvential C++ 9539
+dinamic 10 10 3 3 4 linie C++ 125128
+dinamic 10 10 3 3 4 coloane C++ 42335
+dinamic 10 10 3 3 4 bloc C++ 47429
+dinamic 10 10 3 3 8 secvential C++ 9169
+dinamic 10 10 3 3 8 linie C++ 176732
+dinamic 10 10 3 3 8 coloane C++ 109538
+dinamic 10 10 3 3 8 bloc C++ 122723
+dinamic 10 10 3 3 8 secvential C++ 9267
+dinamic 10 10 3 3 8 linie C++ 193148
+dinamic 10 10 3 3 8 coloane C++ 116422
+dinamic 10 10 3 3 8 bloc C++ 108309
+dinamic 10 10 3 3 8 secvential C++ 8967
+dinamic 10 10 3 3 8 linie C++ 196772
+dinamic 10 10 3 3 8 coloane C++ 114814
+dinamic 10 10 3 3 8 bloc C++ 112057
+dinamic 10 10 3 3 8 secvential C++ 9111
+dinamic 10 10 3 3 8 linie C++ 171389
+dinamic 10 10 3 3 8 coloane C++ 108827
+dinamic 10 10 3 3 8 bloc C++ 110291
+dinamic 10 10 3 3 8 secvential C++ 9721
+dinamic 10 10 3 3 8 linie C++ 165629
+dinamic 10 10 3 3 8 coloane C++ 161570
+dinamic 10 10 3 3 8 bloc C++ 142716
+dinamic 10 10 3 3 8 secvential C++ 8636
+dinamic 10 10 3 3 8 linie C++ 157788
+dinamic 10 10 3 3 8 coloane C++ 104412
+dinamic 10 10 3 3 8 bloc C++ 106768
+dinamic 10 10 3 3 8 secvential C++ 9483
+dinamic 10 10 3 3 8 linie C++ 177828
+dinamic 10 10 3 3 8 coloane C++ 106713
+dinamic 10 10 3 3 8 bloc C++ 113039
+dinamic 10 10 3 3 8 secvential C++ 10320
+dinamic 10 10 3 3 8 linie C++ 165411
+dinamic 10 10 3 3 8 coloane C++ 99775
+dinamic 10 10 3 3 8 bloc C++ 97927
+dinamic 10 10 3 3 8 secvential C++ 9431
+dinamic 10 10 3 3 8 linie C++ 160812
+dinamic 10 10 3 3 8 coloane C++ 105162
+dinamic 10 10 3 3 8 bloc C++ 101628
+dinamic 10 10 3 3 8 secvential C++ 9601
+dinamic 10 10 3 3 8 linie C++ 441856
+dinamic 10 10 3 3 8 coloane C++ 104721
+dinamic 10 10 3 3 8 bloc C++ 100010
+dinamic 10 10 3 3 16 secvential C++ 10349
+dinamic 10 10 3 3 16 linie C++ 372680
+dinamic 10 10 3 3 16 coloane C++ 241923
+dinamic 10 10 3 3 16 bloc C++ 233850
+dinamic 10 10 3 3 16 secvential C++ 9761
+dinamic 10 10 3 3 16 linie C++ 347887
+dinamic 10 10 3 3 16 coloane C++ 223516
+dinamic 10 10 3 3 16 bloc C++ 240460
+dinamic 10 10 3 3 16 secvential C++ 8943
+dinamic 10 10 3 3 16 linie C++ 304953
+dinamic 10 10 3 3 16 coloane C++ 236701
+dinamic 10 10 3 3 16 bloc C++ 245991
+dinamic 10 10 3 3 16 secvential C++ 9301
+dinamic 10 10 3 3 16 linie C++ 334705
+dinamic 10 10 3 3 16 coloane C++ 247421
+dinamic 10 10 3 3 16 bloc C++ 262576
+dinamic 10 10 3 3 16 secvential C++ 9447
+dinamic 10 10 3 3 16 linie C++ 292920
+dinamic 10 10 3 3 16 coloane C++ 237536
+dinamic 10 10 3 3 16 bloc C++ 256616
+dinamic 10 10 3 3 16 secvential C++ 8995
+dinamic 10 10 3 3 16 linie C++ 309326
+dinamic 10 10 3 3 16 coloane C++ 251374
+dinamic 10 10 3 3 16 bloc C++ 248057
+dinamic 10 10 3 3 16 secvential C++ 9248
+dinamic 10 10 3 3 16 linie C++ 311163
+dinamic 10 10 3 3 16 coloane C++ 256993
+dinamic 10 10 3 3 16 bloc C++ 245047
+dinamic 10 10 3 3 16 secvential C++ 9048
+dinamic 10 10 3 3 16 linie C++ 312229
+dinamic 10 10 3 3 16 coloane C++ 229695
+dinamic 10 10 3 3 16 bloc C++ 223747
+dinamic 10 10 3 3 16 secvential C++ 9321
+dinamic 10 10 3 3 16 linie C++ 320360
+dinamic 10 10 3 3 16 coloane C++ 231767
+dinamic 10 10 3 3 16 bloc C++ 234668
+dinamic 10 10 3 3 16 secvential C++ 9251
+dinamic 10 10 3 3 16 linie C++ 318248
+dinamic 10 10 3 3 16 coloane C++ 236490
+dinamic 10 10 3 3 16 bloc C++ 250256
+dinamic 10 10000 5 5 1 secvential C++ 1.56833e+06
+dinamic 10 10000 5 5 1 linie C++ 1.35728e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.21282e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.20299e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.25625e+06
+dinamic 10 10000 5 5 1 linie C++ 1.34388e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.20204e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.16455e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.26824e+06
+dinamic 10 10000 5 5 1 linie C++ 1.32797e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.20584e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.21163e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.24599e+06
+dinamic 10 10000 5 5 1 linie C++ 1.31646e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.18262e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.25618e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.22574e+06
+dinamic 10 10000 5 5 1 linie C++ 1.32385e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.1718e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.17392e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.20706e+06
+dinamic 10 10000 5 5 1 linie C++ 1.34022e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.17116e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.1426e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.20167e+06
+dinamic 10 10000 5 5 1 linie C++ 1.3227e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.16165e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.13239e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.21298e+06
+dinamic 10 10000 5 5 1 linie C++ 1.32702e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.22369e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.25653e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.2264e+06
+dinamic 10 10000 5 5 1 linie C++ 1.34692e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.16428e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.182e+06
+dinamic 10 10000 5 5 1 secvential C++ 1.21685e+06
+dinamic 10 10000 5 5 1 linie C++ 1.27193e+06
+dinamic 10 10000 5 5 1 coloane C++ 1.14934e+06
+dinamic 10 10000 5 5 1 bloc C++ 1.20471e+06
+dinamic 10 10000 5 5 2 secvential C++ 1.27056e+06
+dinamic 10 10000 5 5 2 linie C++ 783314
+dinamic 10 10000 5 5 2 coloane C++ 604482
+dinamic 10 10000 5 5 2 bloc C++ 336961
+dinamic 10 10000 5 5 2 secvential C++ 1.25036e+06
+dinamic 10 10000 5 5 2 linie C++ 831671
+dinamic 10 10000 5 5 2 coloane C++ 641725
+dinamic 10 10000 5 5 2 bloc C++ 402397
+dinamic 10 10000 5 5 2 secvential C++ 1.26454e+06
+dinamic 10 10000 5 5 2 linie C++ 784948
+dinamic 10 10000 5 5 2 coloane C++ 636444
+dinamic 10 10000 5 5 2 bloc C++ 422995
+dinamic 10 10000 5 5 2 secvential C++ 1.28724e+06
+dinamic 10 10000 5 5 2 linie C++ 767615
+dinamic 10 10000 5 5 2 coloane C++ 649549
+dinamic 10 10000 5 5 2 bloc C++ 317624
+dinamic 10 10000 5 5 2 secvential C++ 1.25901e+06
+dinamic 10 10000 5 5 2 linie C++ 749744
+dinamic 10 10000 5 5 2 coloane C++ 622569
+dinamic 10 10000 5 5 2 bloc C++ 304221
+dinamic 10 10000 5 5 2 secvential C++ 1.2504e+06
+dinamic 10 10000 5 5 2 linie C++ 762924
+dinamic 10 10000 5 5 2 coloane C++ 676026
+dinamic 10 10000 5 5 2 bloc C++ 400580
+dinamic 10 10000 5 5 2 secvential C++ 1.2044e+06
+dinamic 10 10000 5 5 2 linie C++ 718992
+dinamic 10 10000 5 5 2 coloane C++ 640728
+dinamic 10 10000 5 5 2 bloc C++ 306939
+dinamic 10 10000 5 5 2 secvential C++ 1.20796e+06
+dinamic 10 10000 5 5 2 linie C++ 699701
+dinamic 10 10000 5 5 2 coloane C++ 591411
+dinamic 10 10000 5 5 2 bloc C++ 403908
+dinamic 10 10000 5 5 2 secvential C++ 1.18555e+06
+dinamic 10 10000 5 5 2 linie C++ 760524
+dinamic 10 10000 5 5 2 coloane C++ 590255
+dinamic 10 10000 5 5 2 bloc C++ 313274
+dinamic 10 10000 5 5 2 secvential C++ 1.24776e+06
+dinamic 10 10000 5 5 2 linie C++ 704505
+dinamic 10 10000 5 5 2 coloane C++ 607510
+dinamic 10 10000 5 5 2 bloc C++ 396231
+dinamic 10 10000 5 5 4 secvential C++ 1.2227e+06
+dinamic 10 10000 5 5 4 linie C++ 516844
+dinamic 10 10000 5 5 4 coloane C++ 364297
+dinamic 10 10000 5 5 4 bloc C++ 107569
+dinamic 10 10000 5 5 4 secvential C++ 1.27477e+06
+dinamic 10 10000 5 5 4 linie C++ 465949
+dinamic 10 10000 5 5 4 coloane C++ 335692
+dinamic 10 10000 5 5 4 bloc C++ 154463
+dinamic 10 10000 5 5 4 secvential C++ 1.29802e+06
+dinamic 10 10000 5 5 4 linie C++ 535542
+dinamic 10 10000 5 5 4 coloane C++ 322835
+dinamic 10 10000 5 5 4 bloc C++ 114858
+dinamic 10 10000 5 5 4 secvential C++ 1.28175e+06
+dinamic 10 10000 5 5 4 linie C++ 447497
+dinamic 10 10000 5 5 4 coloane C++ 353142
+dinamic 10 10000 5 5 4 bloc C++ 105448
+dinamic 10 10000 5 5 4 secvential C++ 1.27522e+06
+dinamic 10 10000 5 5 4 linie C++ 544728
+dinamic 10 10000 5 5 4 coloane C++ 332607
+dinamic 10 10000 5 5 4 bloc C++ 107481
+dinamic 10 10000 5 5 4 secvential C++ 1.27299e+06
+dinamic 10 10000 5 5 4 linie C++ 429584
+dinamic 10 10000 5 5 4 coloane C++ 325667
+dinamic 10 10000 5 5 4 bloc C++ 106719
+dinamic 10 10000 5 5 4 secvential C++ 1.28229e+06
+dinamic 10 10000 5 5 4 linie C++ 450793
+dinamic 10 10000 5 5 4 coloane C++ 326762
+dinamic 10 10000 5 5 4 bloc C++ 107405
+dinamic 10 10000 5 5 4 secvential C++ 1.26142e+06
+dinamic 10 10000 5 5 4 linie C++ 458199
+dinamic 10 10000 5 5 4 coloane C++ 359506
+dinamic 10 10000 5 5 4 bloc C++ 131702
+dinamic 10 10000 5 5 4 secvential C++ 1.52414e+06
+dinamic 10 10000 5 5 4 linie C++ 463673
+dinamic 10 10000 5 5 4 coloane C++ 351059
+dinamic 10 10000 5 5 4 bloc C++ 117101
+dinamic 10 10000 5 5 4 secvential C++ 1.27032e+06
+dinamic 10 10000 5 5 4 linie C++ 454656
+dinamic 10 10000 5 5 4 coloane C++ 355358
+dinamic 10 10000 5 5 4 bloc C++ 107386
+dinamic 10 10000 5 5 8 secvential C++ 1.26287e+06
+dinamic 10 10000 5 5 8 linie C++ 474260
+dinamic 10 10000 5 5 8 coloane C++ 353331
+dinamic 10 10000 5 5 8 bloc C++ 131242
+dinamic 10 10000 5 5 8 secvential C++ 1.26795e+06
+dinamic 10 10000 5 5 8 linie C++ 467760
+dinamic 10 10000 5 5 8 coloane C++ 353541
+dinamic 10 10000 5 5 8 bloc C++ 136833
+dinamic 10 10000 5 5 8 secvential C++ 1.2508e+06
+dinamic 10 10000 5 5 8 linie C++ 467647
+dinamic 10 10000 5 5 8 coloane C++ 355572
+dinamic 10 10000 5 5 8 bloc C++ 130987
+dinamic 10 10000 5 5 8 secvential C++ 1.26296e+06
+dinamic 10 10000 5 5 8 linie C++ 436232
+dinamic 10 10000 5 5 8 coloane C++ 362584
+dinamic 10 10000 5 5 8 bloc C++ 119601
+dinamic 10 10000 5 5 8 secvential C++ 1.25781e+06
+dinamic 10 10000 5 5 8 linie C++ 464141
+dinamic 10 10000 5 5 8 coloane C++ 335613
+dinamic 10 10000 5 5 8 bloc C++ 120708
+dinamic 10 10000 5 5 8 secvential C++ 1.28257e+06
+dinamic 10 10000 5 5 8 linie C++ 429966
+dinamic 10 10000 5 5 8 coloane C++ 330737
+dinamic 10 10000 5 5 8 bloc C++ 131435
+dinamic 10 10000 5 5 8 secvential C++ 1.24572e+06
+dinamic 10 10000 5 5 8 linie C++ 453923
+dinamic 10 10000 5 5 8 coloane C++ 337515
+dinamic 10 10000 5 5 8 bloc C++ 121734
+dinamic 10 10000 5 5 8 secvential C++ 1.25031e+06
+dinamic 10 10000 5 5 8 linie C++ 440348
+dinamic 10 10000 5 5 8 coloane C++ 330451
+dinamic 10 10000 5 5 8 bloc C++ 120800
+dinamic 10 10000 5 5 8 secvential C++ 1.25041e+06
+dinamic 10 10000 5 5 8 linie C++ 449060
+dinamic 10 10000 5 5 8 coloane C++ 364740
+dinamic 10 10000 5 5 8 bloc C++ 117983
+dinamic 10 10000 5 5 8 secvential C++ 1.29821e+06
+dinamic 10 10000 5 5 8 linie C++ 593268
+dinamic 10 10000 5 5 8 coloane C++ 356338
+dinamic 10 10000 5 5 8 bloc C++ 127405
+dinamic 10 10000 5 5 16 secvential C++ 1.24809e+06
+dinamic 10 10000 5 5 16 linie C++ 427968
+dinamic 10 10000 5 5 16 coloane C++ 330505
+dinamic 10 10000 5 5 16 bloc C++ 239385
+dinamic 10 10000 5 5 16 secvential C++ 1.274e+06
+dinamic 10 10000 5 5 16 linie C++ 413859
+dinamic 10 10000 5 5 16 coloane C++ 380003
+dinamic 10 10000 5 5 16 bloc C++ 248508
+dinamic 10 10000 5 5 16 secvential C++ 1.29767e+06
+dinamic 10 10000 5 5 16 linie C++ 457786
+dinamic 10 10000 5 5 16 coloane C++ 327717
+dinamic 10 10000 5 5 16 bloc C++ 246046
+dinamic 10 10000 5 5 16 secvential C++ 1.32701e+06
+dinamic 10 10000 5 5 16 linie C++ 424317
+dinamic 10 10000 5 5 16 coloane C++ 351256
+dinamic 10 10000 5 5 16 bloc C++ 246247
+dinamic 10 10000 5 5 16 secvential C++ 1.27557e+06
+dinamic 10 10000 5 5 16 linie C++ 472016
+dinamic 10 10000 5 5 16 coloane C++ 344939
+dinamic 10 10000 5 5 16 bloc C++ 249084
+dinamic 10 10000 5 5 16 secvential C++ 1.27405e+06
+dinamic 10 10000 5 5 16 linie C++ 434733
+dinamic 10 10000 5 5 16 coloane C++ 355516
+dinamic 10 10000 5 5 16 bloc C++ 242900
+dinamic 10 10000 5 5 16 secvential C++ 1.26464e+06
+dinamic 10 10000 5 5 16 linie C++ 412185
+dinamic 10 10000 5 5 16 coloane C++ 341050
+dinamic 10 10000 5 5 16 bloc C++ 252179
+dinamic 10 10000 5 5 16 secvential C++ 1.29366e+06
+dinamic 10 10000 5 5 16 linie C++ 376473
+dinamic 10 10000 5 5 16 coloane C++ 342735
+dinamic 10 10000 5 5 16 bloc C++ 262358
+dinamic 10 10000 5 5 16 secvential C++ 1.27245e+06
+dinamic 10 10000 5 5 16 linie C++ 389501
+dinamic 10 10000 5 5 16 coloane C++ 358576
+dinamic 10 10000 5 5 16 bloc C++ 253426
+dinamic 10 10000 5 5 16 secvential C++ 1.29712e+06
+dinamic 10 10000 5 5 16 linie C++ 398218
+dinamic 10 10000 5 5 16 coloane C++ 355593
+dinamic 10 10000 5 5 16 bloc C++ 241100
+dinamic 1000 1000 5 5 1 secvential C++ 1.31029e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.30541e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.38e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.1207e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.28669e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.30743e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.42422e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.2361e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.28086e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.28147e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.66624e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.50136e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.2607e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.28986e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.70682e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.11676e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.25924e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.30743e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.3872e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.24567e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.26048e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.33191e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.71751e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.47396e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.28574e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.3152e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.69811e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.47918e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.27929e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.29646e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.71192e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.16917e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.30712e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.31081e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.57039e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.13045e+07
+dinamic 1000 1000 5 5 1 secvential C++ 1.28414e+07
+dinamic 1000 1000 5 5 1 linie C++ 1.30185e+07
+dinamic 1000 1000 5 5 1 coloane C++ 1.38136e+07
+dinamic 1000 1000 5 5 1 bloc C++ 1.11128e+07
+dinamic 1000 1000 5 5 2 secvential C++ 1.25508e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.77364e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.13325e+06
+dinamic 1000 1000 5 5 2 bloc C++ 3.00736e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.28307e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.74742e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.09872e+06
+dinamic 1000 1000 5 5 2 bloc C++ 2.97759e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.42627e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.90486e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.23199e+06
+dinamic 1000 1000 5 5 2 bloc C++ 2.89161e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.26346e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.79442e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.16065e+06
+dinamic 1000 1000 5 5 2 bloc C++ 3.05372e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.2617e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.72594e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.11576e+06
+dinamic 1000 1000 5 5 2 bloc C++ 3.02671e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.30389e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.67137e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.10392e+06
+dinamic 1000 1000 5 5 2 bloc C++ 3.03735e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.25584e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.75987e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.21381e+06
+dinamic 1000 1000 5 5 2 bloc C++ 2.94165e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.26087e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.66066e+06
+dinamic 1000 1000 5 5 2 coloane C++ 6.96225e+06
+dinamic 1000 1000 5 5 2 bloc C++ 2.99541e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.25709e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.63821e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.03967e+06
+dinamic 1000 1000 5 5 2 bloc C++ 3.0842e+06
+dinamic 1000 1000 5 5 2 secvential C++ 1.26985e+07
+dinamic 1000 1000 5 5 2 linie C++ 6.71314e+06
+dinamic 1000 1000 5 5 2 coloane C++ 7.0622e+06
+dinamic 1000 1000 5 5 2 bloc C++ 3.02413e+06
+dinamic 1000 1000 5 5 4 secvential C++ 1.25838e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.53882e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.80988e+06
+dinamic 1000 1000 5 5 4 bloc C++ 921922
+dinamic 1000 1000 5 5 4 secvential C++ 1.25859e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.68126e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.95345e+06
+dinamic 1000 1000 5 5 4 bloc C++ 949241
+dinamic 1000 1000 5 5 4 secvential C++ 1.26349e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.65593e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.78559e+06
+dinamic 1000 1000 5 5 4 bloc C++ 913036
+dinamic 1000 1000 5 5 4 secvential C++ 1.29348e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.64727e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.89624e+06
+dinamic 1000 1000 5 5 4 bloc C++ 886681
+dinamic 1000 1000 5 5 4 secvential C++ 1.25904e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.52878e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.7961e+06
+dinamic 1000 1000 5 5 4 bloc C++ 1.00499e+06
+dinamic 1000 1000 5 5 4 secvential C++ 1.28164e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.59408e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.91629e+06
+dinamic 1000 1000 5 5 4 bloc C++ 926754
+dinamic 1000 1000 5 5 4 secvential C++ 1.26179e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.69389e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.88727e+06
+dinamic 1000 1000 5 5 4 bloc C++ 881933
+dinamic 1000 1000 5 5 4 secvential C++ 1.26929e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.67209e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.90138e+06
+dinamic 1000 1000 5 5 4 bloc C++ 916186
+dinamic 1000 1000 5 5 4 secvential C++ 1.27144e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.59881e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.966e+06
+dinamic 1000 1000 5 5 4 bloc C++ 987568
+dinamic 1000 1000 5 5 4 secvential C++ 1.2746e+07
+dinamic 1000 1000 5 5 4 linie C++ 3.81384e+06
+dinamic 1000 1000 5 5 4 coloane C++ 3.82637e+06
+dinamic 1000 1000 5 5 4 bloc C++ 971572
+dinamic 1000 1000 5 5 8 secvential C++ 1.28671e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.46832e+06
+dinamic 1000 1000 5 5 8 coloane C++ 3.96303e+06
+dinamic 1000 1000 5 5 8 bloc C++ 496264
+dinamic 1000 1000 5 5 8 secvential C++ 1.30997e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.3187e+06
+dinamic 1000 1000 5 5 8 coloane C++ 4.07039e+06
+dinamic 1000 1000 5 5 8 bloc C++ 549984
+dinamic 1000 1000 5 5 8 secvential C++ 1.26464e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.46584e+06
+dinamic 1000 1000 5 5 8 coloane C++ 4.0023e+06
+dinamic 1000 1000 5 5 8 bloc C++ 448353
+dinamic 1000 1000 5 5 8 secvential C++ 1.31176e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.39261e+06
+dinamic 1000 1000 5 5 8 coloane C++ 3.97695e+06
+dinamic 1000 1000 5 5 8 bloc C++ 529792
+dinamic 1000 1000 5 5 8 secvential C++ 1.38306e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.33078e+06
+dinamic 1000 1000 5 5 8 coloane C++ 3.96051e+06
+dinamic 1000 1000 5 5 8 bloc C++ 508372
+dinamic 1000 1000 5 5 8 secvential C++ 1.25977e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.40076e+06
+dinamic 1000 1000 5 5 8 coloane C++ 4.04229e+06
+dinamic 1000 1000 5 5 8 bloc C++ 488973
+dinamic 1000 1000 5 5 8 secvential C++ 1.43164e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.38245e+06
+dinamic 1000 1000 5 5 8 coloane C++ 4.25595e+06
+dinamic 1000 1000 5 5 8 bloc C++ 469432
+dinamic 1000 1000 5 5 8 secvential C++ 1.2592e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.42569e+06
+dinamic 1000 1000 5 5 8 coloane C++ 4.09006e+06
+dinamic 1000 1000 5 5 8 bloc C++ 504720
+dinamic 1000 1000 5 5 8 secvential C++ 1.26842e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.48194e+06
+dinamic 1000 1000 5 5 8 coloane C++ 3.95876e+06
+dinamic 1000 1000 5 5 8 bloc C++ 505076
+dinamic 1000 1000 5 5 8 secvential C++ 1.263e+07
+dinamic 1000 1000 5 5 8 linie C++ 3.44668e+06
+dinamic 1000 1000 5 5 8 coloane C++ 4.05964e+06
+dinamic 1000 1000 5 5 8 bloc C++ 458412
+dinamic 1000 1000 5 5 16 secvential C++ 1.28336e+07
+dinamic 1000 1000 5 5 16 linie C++ 3.39964e+06
+dinamic 1000 1000 5 5 16 coloane C++ 4.14852e+06
+dinamic 1000 1000 5 5 16 bloc C++ 354953
+dinamic 1000 1000 5 5 16 secvential C++ 1.28065e+07
+dinamic 1000 1000 5 5 16 linie C++ 3.39216e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.05458e+06
+dinamic 1000 1000 5 5 16 bloc C++ 347713
+dinamic 1000 1000 5 5 16 secvential C++ 1.28465e+07
+dinamic 1000 1000 5 5 16 linie C++ 2.78798e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.18072e+06
+dinamic 1000 1000 5 5 16 bloc C++ 362215
+dinamic 1000 1000 5 5 16 secvential C++ 1.25756e+07
+dinamic 1000 1000 5 5 16 linie C++ 2.68129e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.18109e+06
+dinamic 1000 1000 5 5 16 bloc C++ 381117
+dinamic 1000 1000 5 5 16 secvential C++ 1.25825e+07
+dinamic 1000 1000 5 5 16 linie C++ 3.43358e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.10856e+06
+dinamic 1000 1000 5 5 16 bloc C++ 356788
+dinamic 1000 1000 5 5 16 secvential C++ 1.27521e+07
+dinamic 1000 1000 5 5 16 linie C++ 2.70369e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.1374e+06
+dinamic 1000 1000 5 5 16 bloc C++ 352403
+dinamic 1000 1000 5 5 16 secvential C++ 1.26664e+07
+dinamic 1000 1000 5 5 16 linie C++ 3.11815e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.15785e+06
+dinamic 1000 1000 5 5 16 bloc C++ 318745
+dinamic 1000 1000 5 5 16 secvential C++ 1.25747e+07
+dinamic 1000 1000 5 5 16 linie C++ 2.71334e+06
+dinamic 1000 1000 5 5 16 coloane C++ 4.03625e+06
+dinamic 1000 1000 5 5 16 bloc C++ 362936
+dinamic 1000 1000 5 5 16 secvential C++ 1.27422e+07
+dinamic 1000 1000 5 5 16 linie C++ 2.71044e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.11137e+06
+dinamic 1000 1000 5 5 16 bloc C++ 356410
+dinamic 1000 1000 5 5 16 secvential C++ 1.26687e+07
+dinamic 1000 1000 5 5 16 linie C++ 3.39413e+06
+dinamic 1000 1000 5 5 16 coloane C++ 3.13397e+06
+dinamic 1000 1000 5 5 16 bloc C++ 339637
+dinamic 10000 10 5 5 1 secvential C++ 1.05503e+07
+dinamic 10000 10 5 5 1 linie C++ 1.06083e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.69611e+06
+dinamic 10000 10 5 5 1 bloc C++ 1.78549e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.03071e+07
+dinamic 10000 10 5 5 1 linie C++ 1.04218e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.89104e+06
+dinamic 10000 10 5 5 1 bloc C++ 2.0397e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.07002e+07
+dinamic 10000 10 5 5 1 linie C++ 1.08427e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.80786e+06
+dinamic 10000 10 5 5 1 bloc C++ 2.15689e+06
+dinamic 10000 10 5 5 1 secvential C++ 9.77379e+06
+dinamic 10000 10 5 5 1 linie C++ 9.97105e+06
+dinamic 10000 10 5 5 1 coloane C++ 2.58036e+06
+dinamic 10000 10 5 5 1 bloc C++ 1.80041e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.009e+07
+dinamic 10000 10 5 5 1 linie C++ 9.90796e+06
+dinamic 10000 10 5 5 1 coloane C++ 2.59069e+06
+dinamic 10000 10 5 5 1 bloc C++ 1.81108e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.03456e+07
+dinamic 10000 10 5 5 1 linie C++ 1.04206e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.58897e+06
+dinamic 10000 10 5 5 1 bloc C++ 1.69778e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.04168e+07
+dinamic 10000 10 5 5 1 linie C++ 1.03193e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.60277e+06
+dinamic 10000 10 5 5 1 bloc C++ 1.78589e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.014e+07
+dinamic 10000 10 5 5 1 linie C++ 1.03728e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.50783e+06
+dinamic 10000 10 5 5 1 bloc C++ 1.74272e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.00259e+07
+dinamic 10000 10 5 5 1 linie C++ 1.01521e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.67417e+06
+dinamic 10000 10 5 5 1 bloc C++ 1.93479e+06
+dinamic 10000 10 5 5 1 secvential C++ 1.00235e+07
+dinamic 10000 10 5 5 1 linie C++ 1.03835e+07
+dinamic 10000 10 5 5 1 coloane C++ 2.80101e+06
+dinamic 10000 10 5 5 1 bloc C++ 2.26469e+06
+dinamic 10000 10 5 5 2 secvential C++ 9.82135e+06
+dinamic 10000 10 5 5 2 linie C++ 5.93895e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.84373e+06
+dinamic 10000 10 5 5 2 bloc C++ 705580
+dinamic 10000 10 5 5 2 secvential C++ 1.0351e+07
+dinamic 10000 10 5 5 2 linie C++ 5.9601e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.62002e+06
+dinamic 10000 10 5 5 2 bloc C++ 662201
+dinamic 10000 10 5 5 2 secvential C++ 1.022e+07
+dinamic 10000 10 5 5 2 linie C++ 5.99072e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.76178e+06
+dinamic 10000 10 5 5 2 bloc C++ 638550
+dinamic 10000 10 5 5 2 secvential C++ 1.01912e+07
+dinamic 10000 10 5 5 2 linie C++ 5.79437e+06
+dinamic 10000 10 5 5 2 coloane C++ 2.41522e+06
+dinamic 10000 10 5 5 2 bloc C++ 964365
+dinamic 10000 10 5 5 2 secvential C++ 1.06514e+07
+dinamic 10000 10 5 5 2 linie C++ 5.95926e+06
+dinamic 10000 10 5 5 2 coloane C++ 2.24712e+06
+dinamic 10000 10 5 5 2 bloc C++ 873799
+dinamic 10000 10 5 5 2 secvential C++ 1.00123e+07
+dinamic 10000 10 5 5 2 linie C++ 5.82369e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.72466e+06
+dinamic 10000 10 5 5 2 bloc C++ 688457
+dinamic 10000 10 5 5 2 secvential C++ 1.05014e+07
+dinamic 10000 10 5 5 2 linie C++ 5.78565e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.73469e+06
+dinamic 10000 10 5 5 2 bloc C++ 680976
+dinamic 10000 10 5 5 2 secvential C++ 1.03411e+07
+dinamic 10000 10 5 5 2 linie C++ 5.87612e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.74701e+06
+dinamic 10000 10 5 5 2 bloc C++ 608331
+dinamic 10000 10 5 5 2 secvential C++ 1.01023e+07
+dinamic 10000 10 5 5 2 linie C++ 6.16074e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.7026e+06
+dinamic 10000 10 5 5 2 bloc C++ 711843
+dinamic 10000 10 5 5 2 secvential C++ 1.05047e+07
+dinamic 10000 10 5 5 2 linie C++ 5.74168e+06
+dinamic 10000 10 5 5 2 coloane C++ 1.81055e+06
+dinamic 10000 10 5 5 2 bloc C++ 727884
+dinamic 10000 10 5 5 4 secvential C++ 1.02223e+07
+dinamic 10000 10 5 5 4 linie C++ 3.29526e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.38179e+06
+dinamic 10000 10 5 5 4 bloc C++ 280824
+dinamic 10000 10 5 5 4 secvential C++ 1.04071e+07
+dinamic 10000 10 5 5 4 linie C++ 3.78336e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.52694e+06
+dinamic 10000 10 5 5 4 bloc C++ 255546
+dinamic 10000 10 5 5 4 secvential C++ 1.03512e+07
+dinamic 10000 10 5 5 4 linie C++ 3.30652e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.49218e+06
+dinamic 10000 10 5 5 4 bloc C++ 362158
+dinamic 10000 10 5 5 4 secvential C++ 1.03759e+07
+dinamic 10000 10 5 5 4 linie C++ 3.60019e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.64632e+06
+dinamic 10000 10 5 5 4 bloc C++ 356653
+dinamic 10000 10 5 5 4 secvential C++ 1.0251e+07
+dinamic 10000 10 5 5 4 linie C++ 3.53539e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.47655e+06
+dinamic 10000 10 5 5 4 bloc C++ 250893
+dinamic 10000 10 5 5 4 secvential C++ 1.03134e+07
+dinamic 10000 10 5 5 4 linie C++ 3.71358e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.51724e+06
+dinamic 10000 10 5 5 4 bloc C++ 368448
+dinamic 10000 10 5 5 4 secvential C++ 1.03922e+07
+dinamic 10000 10 5 5 4 linie C++ 3.3794e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.4882e+06
+dinamic 10000 10 5 5 4 bloc C++ 256770
+dinamic 10000 10 5 5 4 secvential C++ 1.03081e+07
+dinamic 10000 10 5 5 4 linie C++ 4.69847e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.74838e+06
+dinamic 10000 10 5 5 4 bloc C++ 317694
+dinamic 10000 10 5 5 4 secvential C++ 1.11792e+07
+dinamic 10000 10 5 5 4 linie C++ 3.41573e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.57673e+06
+dinamic 10000 10 5 5 4 bloc C++ 250633
+dinamic 10000 10 5 5 4 secvential C++ 1.0234e+07
+dinamic 10000 10 5 5 4 linie C++ 3.58838e+06
+dinamic 10000 10 5 5 4 coloane C++ 1.49467e+06
+dinamic 10000 10 5 5 4 bloc C++ 318956
+dinamic 10000 10 5 5 8 secvential C++ 9.98699e+06
+dinamic 10000 10 5 5 8 linie C++ 2.63335e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.24574e+06
+dinamic 10000 10 5 5 8 bloc C++ 192299
+dinamic 10000 10 5 5 8 secvential C++ 9.9196e+06
+dinamic 10000 10 5 5 8 linie C++ 2.60186e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.39818e+06
+dinamic 10000 10 5 5 8 bloc C++ 201745
+dinamic 10000 10 5 5 8 secvential C++ 1.00877e+07
+dinamic 10000 10 5 5 8 linie C++ 2.73531e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.30205e+06
+dinamic 10000 10 5 5 8 bloc C++ 192437
+dinamic 10000 10 5 5 8 secvential C++ 1.01484e+07
+dinamic 10000 10 5 5 8 linie C++ 2.66053e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.43606e+06
+dinamic 10000 10 5 5 8 bloc C++ 194298
+dinamic 10000 10 5 5 8 secvential C++ 1.0075e+07
+dinamic 10000 10 5 5 8 linie C++ 2.66597e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.33308e+06
+dinamic 10000 10 5 5 8 bloc C++ 199157
+dinamic 10000 10 5 5 8 secvential C++ 9.90652e+06
+dinamic 10000 10 5 5 8 linie C++ 2.63354e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.36642e+06
+dinamic 10000 10 5 5 8 bloc C++ 199329
+dinamic 10000 10 5 5 8 secvential C++ 9.99779e+06
+dinamic 10000 10 5 5 8 linie C++ 2.68178e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.26198e+06
+dinamic 10000 10 5 5 8 bloc C++ 207910
+dinamic 10000 10 5 5 8 secvential C++ 1.01895e+07
+dinamic 10000 10 5 5 8 linie C++ 2.82985e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.58254e+06
+dinamic 10000 10 5 5 8 bloc C++ 204322
+dinamic 10000 10 5 5 8 secvential C++ 1.05661e+07
+dinamic 10000 10 5 5 8 linie C++ 2.63688e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.51158e+06
+dinamic 10000 10 5 5 8 bloc C++ 200497
+dinamic 10000 10 5 5 8 secvential C++ 9.97988e+06
+dinamic 10000 10 5 5 8 linie C++ 2.72797e+06
+dinamic 10000 10 5 5 8 coloane C++ 1.37658e+06
+dinamic 10000 10 5 5 8 bloc C++ 210352
+dinamic 10000 10 5 5 16 secvential C++ 1.02e+07
+dinamic 10000 10 5 5 16 linie C++ 2.72334e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.16437e+06
+dinamic 10000 10 5 5 16 bloc C++ 323278
+dinamic 10000 10 5 5 16 secvential C++ 1.10751e+07
+dinamic 10000 10 5 5 16 linie C++ 2.6876e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.10195e+06
+dinamic 10000 10 5 5 16 bloc C++ 286713
+dinamic 10000 10 5 5 16 secvential C++ 1.00854e+07
+dinamic 10000 10 5 5 16 linie C++ 2.84603e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.00909e+06
+dinamic 10000 10 5 5 16 bloc C++ 278072
+dinamic 10000 10 5 5 16 secvential C++ 1.04816e+07
+dinamic 10000 10 5 5 16 linie C++ 2.82097e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.03589e+06
+dinamic 10000 10 5 5 16 bloc C++ 287669
+dinamic 10000 10 5 5 16 secvential C++ 1.0005e+07
+dinamic 10000 10 5 5 16 linie C++ 2.84785e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.04966e+06
+dinamic 10000 10 5 5 16 bloc C++ 315633
+dinamic 10000 10 5 5 16 secvential C++ 1.05369e+07
+dinamic 10000 10 5 5 16 linie C++ 2.90996e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.16534e+06
+dinamic 10000 10 5 5 16 bloc C++ 273442
+dinamic 10000 10 5 5 16 secvential C++ 1.03717e+07
+dinamic 10000 10 5 5 16 linie C++ 2.50723e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.10791e+06
+dinamic 10000 10 5 5 16 bloc C++ 285558
+dinamic 10000 10 5 5 16 secvential C++ 1.01464e+07
+dinamic 10000 10 5 5 16 linie C++ 2.71812e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.17954e+06
+dinamic 10000 10 5 5 16 bloc C++ 267729
+dinamic 10000 10 5 5 16 secvential C++ 1.05432e+07
+dinamic 10000 10 5 5 16 linie C++ 2.58641e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.1517e+06
+dinamic 10000 10 5 5 16 bloc C++ 282323
+dinamic 10000 10 5 5 16 secvential C++ 1.01708e+07
+dinamic 10000 10 5 5 16 linie C++ 2.7722e+06
+dinamic 10000 10 5 5 16 coloane C++ 1.13934e+06
+dinamic 10000 10 5 5 16 bloc C++ 286031
+dinamic 10000 10000 5 5 1 secvential C++ 1.19871e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.19991e+09
+dinamic 10000 10000 5 5 1 coloane C++ 2.0217e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.05696e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.16027e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.15646e+09
+dinamic 10000 10000 5 5 1 coloane C++ 1.9654e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.07966e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.17323e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.21037e+09
+dinamic 10000 10000 5 5 1 coloane C++ 2.06289e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.11333e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.15367e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.15897e+09
+dinamic 10000 10000 5 5 1 coloane C++ 1.98741e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.05418e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.15925e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.17353e+09
+dinamic 10000 10000 5 5 1 coloane C++ 1.90593e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.099e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.17944e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.22415e+09
+dinamic 10000 10000 5 5 1 coloane C++ 2.00898e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.13592e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.21487e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.15433e+09
+dinamic 10000 10000 5 5 1 coloane C++ 2.09345e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.11751e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.20333e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.15363e+09
+dinamic 10000 10000 5 5 1 coloane C++ 1.99477e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.08338e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.16325e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.20319e+09
+dinamic 10000 10000 5 5 1 coloane C++ 1.87616e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.058e+09
+dinamic 10000 10000 5 5 1 secvential C++ 1.15599e+09
+dinamic 10000 10000 5 5 1 linie C++ 1.13609e+09
+dinamic 10000 10000 5 5 1 coloane C++ 1.89759e+09
+dinamic 10000 10000 5 5 1 bloc C++ 1.06151e+09
+dinamic 10000 10000 5 5 2 secvential C++ 1.13369e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.78905e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.23143e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.73985e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.14837e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.83053e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.24321e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.6682e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.14041e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.79694e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.28956e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.68569e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.13801e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.76074e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.2536e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.68592e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.13376e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.78896e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.22414e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.70564e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.13367e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.77831e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.19236e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.66393e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.14242e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.77681e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.25244e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.66142e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.13452e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.88482e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.19606e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.67334e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.13966e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.73414e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.25119e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.66371e+08
+dinamic 10000 10000 5 5 2 secvential C++ 1.13376e+09
+dinamic 10000 10000 5 5 2 linie C++ 5.77446e+08
+dinamic 10000 10000 5 5 2 coloane C++ 1.27015e+09
+dinamic 10000 10000 5 5 2 bloc C++ 2.84433e+08
+dinamic 10000 10000 5 5 4 secvential C++ 1.17086e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.18771e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.16546e+09
+dinamic 10000 10000 5 5 4 bloc C++ 7.04338e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.24209e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.04412e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.25858e+09
+dinamic 10000 10000 5 5 4 bloc C++ 7.38575e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.17856e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.10968e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.24224e+09
+dinamic 10000 10000 5 5 4 bloc C++ 7.27053e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.14446e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.06741e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.15163e+09
+dinamic 10000 10000 5 5 4 bloc C++ 7.05912e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.20008e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.23173e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.17568e+09
+dinamic 10000 10000 5 5 4 bloc C++ 7.16881e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.13526e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.05224e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.12314e+09
+dinamic 10000 10000 5 5 4 bloc C++ 7.13351e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.1834e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.24618e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.21273e+09
+dinamic 10000 10000 5 5 4 bloc C++ 7.40999e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.16611e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.12022e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.25632e+09
+dinamic 10000 10000 5 5 4 bloc C++ 6.99265e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.20144e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.19171e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.17801e+09
+dinamic 10000 10000 5 5 4 bloc C++ 6.94841e+07
+dinamic 10000 10000 5 5 4 secvential C++ 1.14472e+09
+dinamic 10000 10000 5 5 4 linie C++ 3.01185e+08
+dinamic 10000 10000 5 5 4 coloane C++ 1.1046e+09
+dinamic 10000 10000 5 5 4 bloc C++ 6.97857e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.17676e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.60023e+08
+dinamic 10000 10000 5 5 8 coloane C++ 1.03338e+09
+dinamic 10000 10000 5 5 8 bloc C++ 3.52138e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.13446e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.43419e+08
+dinamic 10000 10000 5 5 8 coloane C++ 9.84846e+08
+dinamic 10000 10000 5 5 8 bloc C++ 3.43045e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.13692e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.55176e+08
+dinamic 10000 10000 5 5 8 coloane C++ 1.00421e+09
+dinamic 10000 10000 5 5 8 bloc C++ 3.40615e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.13502e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.54403e+08
+dinamic 10000 10000 5 5 8 coloane C++ 9.90252e+08
+dinamic 10000 10000 5 5 8 bloc C++ 3.54156e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.1366e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.57154e+08
+dinamic 10000 10000 5 5 8 coloane C++ 1.00838e+09
+dinamic 10000 10000 5 5 8 bloc C++ 3.39746e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.13907e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.51396e+08
+dinamic 10000 10000 5 5 8 coloane C++ 1.00934e+09
+dinamic 10000 10000 5 5 8 bloc C++ 3.42946e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.13595e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.60536e+08
+dinamic 10000 10000 5 5 8 coloane C++ 9.78826e+08
+dinamic 10000 10000 5 5 8 bloc C++ 3.42221e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.13507e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.47801e+08
+dinamic 10000 10000 5 5 8 coloane C++ 9.84592e+08
+dinamic 10000 10000 5 5 8 bloc C++ 3.40983e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.13736e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.57864e+08
+dinamic 10000 10000 5 5 8 coloane C++ 9.82039e+08
+dinamic 10000 10000 5 5 8 bloc C++ 3.43909e+07
+dinamic 10000 10000 5 5 8 secvential C++ 1.1382e+09
+dinamic 10000 10000 5 5 8 linie C++ 2.69014e+08
+dinamic 10000 10000 5 5 8 coloane C++ 9.79299e+08
+dinamic 10000 10000 5 5 8 bloc C++ 3.53827e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.15038e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.19157e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.19737e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.64988e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.13776e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.19454e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.19411e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.75073e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.14578e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.17853e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.23452e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.47141e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.13822e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.17932e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.17853e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.57078e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.1946e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.20148e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.22793e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.66099e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.18581e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.20672e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.27627e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.58987e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.18232e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.20405e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.30716e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.46806e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.21263e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.28856e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.17739e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.54893e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.25019e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.20552e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.20835e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.43697e+07
+dinamic 10000 10000 5 5 16 secvential C++ 1.17502e+09
+dinamic 10000 10000 5 5 16 linie C++ 2.20562e+08
+dinamic 10000 10000 5 5 16 coloane C++ 1.20135e+09
+dinamic 10000 10000 5 5 16 bloc C++ 1.50503e+07

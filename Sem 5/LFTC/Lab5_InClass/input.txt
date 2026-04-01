@@ -1,0 +1,6 @@
+a b c d e f @
+A B C
+A -> b d e f B
+B -> a C
+C -> @
+C -> c C

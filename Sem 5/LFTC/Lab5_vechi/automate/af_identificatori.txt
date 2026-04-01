@@ -1,0 +1,8 @@
+stari: q0 q1
+alfabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_
+tranz:
+q0~abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_~q1
+q1~abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_~q1
+sfarsit
+q0: q0
+F: q1

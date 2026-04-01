@@ -1,0 +1,243 @@
+%{
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#define fip_NMAX 160
+#define fip_MMAX 160
+#define NMAX 60
+#define MMAX 60
+int line_number = 1;
+FILE *fip_fd, *tsi_fd, *tsc_fd, *input_fd;
+char tsi[NMAX][MMAX];
+char tsc[NMAX][MMAX];
+char fip[fip_NMAX][fip_MMAX];
+char buffer[NMAX];
+int tsi_l = 0, tsc_l = 0, fip_l = 0;
+char atoms[NMAX][MMAX] = {
+    "ID",
+    "CONST",
+    "cin",
+    "cout",
+    "while",
+    "for",
+    "cout",
+    "struct",
+    "if",
+    "float",
+    "int",
+    "str",
+    "+",
+    "/",
+    "!=",
+    ">=",
+    "<",
+    ">",
+    "-",
+    "*",
+    "&&",
+    "||",
+    "%",
+    "//",
+    "**",
+    "<<",
+    ">>",
+    "=",
+    "==",
+    "<=",
+    "{",
+    "}",
+    ";",
+    ",",
+    "(",
+    ")",
+    "'"
+};
+int get_code(char* atom);
+int get_code_tsc(char* atom);
+int get_code_tsi(char* atom);
+void add_tsi(char *atom);
+void add_tsc(char *atom);
+void add_fip();
+%}
+keywords "if"|"while"|"struct"|"str"|"for"|"int"|"float"|"cin"|"cout"
+identificators [A-Za-z_]+
+constants 0[0-7]+|[0-9]+|0x[0-9ABCDEF]+|0b[0-1]+|[0-9]+\.[0-9]*|[0-9]*\.[0-9]+|'[^']*'
+separators [\;\{\}\,\(\)]
+operators >>|<<|\*\*|\/\/|&&|\|\||!=|==|<=|>=|\+|\-|\%|=|<|>|\*|\/
+%%
+[ \t] // Ignore
+[\r\n]   {
+    line_number++; 
+}
+{keywords}|{separators}|{operators} { 
+    printf("%s\n", yytext);
+    memset(buffer, 0, sizeof(buffer));
+    sprintf(buffer, "Code: %d~ TSC: -1~ TSI: -1", get_code(yytext)); 
+    add_fip();
+}
+{identificators} { 
+    printf("identificator %s \n", yytext);
+    memset(buffer, 0, sizeof(buffer));
+    sprintf(buffer, "Code: 0~ TSC: -1~ TSI: %s", yytext); 
+    add_fip();
+    add_tsi(yytext);
+} 
+{constants} { 
+    printf("constanta %s \n", yytext);
+    memset(buffer, 0, sizeof(buffer));
+    sprintf(buffer, "Code: 1~ TSC: %s~ TSI: -1", yytext); 
+    add_fip();
+    add_tsc(yytext); 
+}
+. { printf("Eroare pe linia %d", line_number); }
+%%
+int yywrap() {
+    return 1;
+}
+int get_code(char* atom) {
+    for (int i = 2; i < NMAX; i++) {
+        if (strcmp(atom, atoms[i]) == 0) {
+            return i;       
+        }
+    }
+    return -1;
+}
+
+int get_code_tsc(char* atom) {
+    for (int i = 0; i < tsc_l; i++) {
+        if (strcmp(atom, tsc[i]) == 0) {
+            return i + 1;
+        }
+    }
+    return 0;
+}
+int get_code_tsi(char* atom) {
+    for (int i = 0; i < tsi_l; i++) {
+        if (strcmp(atom, tsi[i]) == 0) {
+            return i + 1;
+        }
+    }
+    return 0;
+}
+
+void add_tsi(char *atom) {
+    int index = 0;
+    if (tsi_l == 0) {
+        strncpy(tsi[tsi_l], atom, MMAX - 1);
+        tsi[tsi_l][MMAX - 1] = '\0';
+    }
+    else if (strcmp(atom, tsi[tsi_l - 1]) > 0) {
+        strncpy(tsi[tsi_l], atom, MMAX - 1);
+        tsi[tsi_l][MMAX - 1] = '\0';
+    }
+    else if (strcmp(atom, tsi[0]) < 0) {
+        for (int i = tsi_l; i >= 1; i--) {
+            strncpy(tsi[i], tsi[i - 1], MMAX - 1);
+        }
+        strncpy(tsi[0], atom, MMAX - 1);
+        tsi[0][MMAX - 1] = '\0';
+    }
+    else {
+        for (int i = 1; i < tsi_l; i++) {
+            if (strcmp(atom, tsi[i]) < 0) {
+                index = i;
+                break;
+            }
+        }
+        for (int i = tsi_l; i >= index; i--) {
+            strncpy(tsi[i], tsi[i - 1], MMAX - 1);
+        }
+        strncpy(tsi[index], atom, MMAX - 1);
+        tsi[index][MMAX - 1] = '\0';
+    }
+    tsi_l++;
+}
+void add_tsc(char *atom) {
+    int index = 0;
+    if (tsc_l == 0) {
+        strncpy(tsc[tsc_l], atom, MMAX - 1);
+        tsc[tsc_l][MMAX - 1] = '\0';
+    }
+    else if (strcmp(atom, tsc[tsc_l - 1]) > 0) {
+        strncpy(tsc[tsc_l], atom, MMAX - 1);
+        tsc[tsc_l][MMAX - 1] = '\0';
+    }
+    else if (strcmp(atom, tsc[0]) < 0) {
+        for (int i = tsc_l; i >= 1; i--) {
+            strncpy(tsc[i], tsc[i - 1], MMAX - 1);
+        }
+        strncpy(tsc[0], atom, MMAX - 1);
+        tsc[0][MMAX - 1] = '\0';
+    }
+    else {
+        for (int i = 1; i < tsc_l; i++) {
+            if (strcmp(atom, tsc[i]) < 0) {
+                index = i;
+                break;
+            }
+        }
+        for (int i = tsc_l; i >= index; i--) {
+            strncpy(tsc[i], tsc[i - 1], MMAX - 1);
+        }
+        strncpy(tsc[index], atom, MMAX - 1);
+        tsc[index][MMAX - 1] = '\0';
+    }
+    tsc_l++;
+}
+
+void add_fip() {
+    strncpy(fip[fip_l], buffer, fip_NMAX - 1);
+    fip[fip_l++][fip_MMAX - 1] = '\0';
+}
+
+int main(int argc, char **argv) {
+    if (argc == 2) {
+        input_fd = fopen(argv[1], "r");
+        yyin = input_fd;
+    }
+    else {
+        yyin = stdin;
+    }
+    fip_fd = fopen("./fip.txt", "w");
+    tsi_fd = fopen("./tsi.txt", "w");
+    tsc_fd = fopen("./tsc.txt", "w");
+    yylex();
+    int cod_numeric = -1;
+    for (int i = 0; i < fip_l; i++) {
+        char TSI[50], TSC[50];
+        sscanf(fip[i], "Code: %d~ TSC: %[^~]~ TSI: %[^~]", &cod_numeric, TSC, TSI);
+        printf("cod_numeric: %d --- TSC: %s --- TSI: %s\n", cod_numeric, TSC, TSI);
+        if (cod_numeric == 1) {
+            int index_ts = get_code_tsc(TSC);
+            memset(fip[i][0], 0, sizeof(fip[i][0]));
+            sprintf(fip[i], "Code: 1; TSC: %d; TSI: -1;", index_ts);
+        }
+        else if (cod_numeric == 0) {
+            int index_ts = get_code_tsi(TSI);
+            memset(fip[i][0], 0, sizeof(fip[i][0]));
+            sprintf(fip[i], "Code: 0; TSC: -1; TSI: %d;", index_ts);
+        }
+    }
+    for (int i = 0; i < tsc_l; i++) {
+        fwrite(tsc[i], sizeof(char), sizeof(tsc[i]), tsc_fd);
+        fwrite("\n", 1, 1, tsc_fd);
+    }
+
+    for (int i = 0; i < tsi_l; i++) {
+        fwrite(tsi[i], sizeof(char), sizeof(tsi[i]), tsi_fd);
+        fwrite("\n", 1, 1, tsi_fd);
+    }
+
+    for (int i = 0; i < fip_l; i++) {
+        fwrite(fip[i], sizeof(char), strlen(fip[i]), fip_fd);
+        fwrite("\n", 1, 1, fip_fd);
+    }
+
+    if (argc == 2) {
+        fclose(input_fd);
+    }
+    fclose(fip_fd); 
+    fclose(tsi_fd);
+    fclose(tsc_fd);
+    return 0;
+}

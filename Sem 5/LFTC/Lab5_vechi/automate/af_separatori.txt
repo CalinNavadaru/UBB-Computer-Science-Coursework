@@ -1,0 +1,7 @@
+stari: q0 q1
+alfabet: {};,'()
+tranz:
+q0~{};,'()~q1
+sfarsit
+q0: q0
+F: q1

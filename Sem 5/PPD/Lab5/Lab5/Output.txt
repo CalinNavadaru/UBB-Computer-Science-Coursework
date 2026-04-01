@@ -1,0 +1,246 @@
+Secvential 15654895
+P: 2 C: 4 3454355 true
+Secvential 15369233
+P: 2 C: 4 3324092 true
+Secvential 16177660
+P: 2 C: 4 3182523 true
+Secvential 16611419
+P: 2 C: 4 3164394 true
+Secvential 16854308
+P: 2 C: 4 3172036 true
+Secvential 18180744
+P: 2 C: 4 3284004 true
+Secvential 16296877
+P: 2 C: 4 3187080 true
+Secvential 16978872
+P: 2 C: 4 3235996 true
+Secvential 16493221
+P: 2 C: 4 3104689 true
+Secvential 16406384
+P: 2 C: 4 3067474 true
+Secvential 16445050
+P: 2 C: 4 3377628 true
+Secvential 16842539
+P: 2 C: 4 3203720 true
+Secvential 16902550
+P: 2 C: 4 3312470 true
+Secvential 16021659
+P: 2 C: 4 3316864 true
+Secvential 16196636
+P: 2 C: 4 3148687 true
+Secvential 16100562
+P: 2 C: 4 3162468 true
+Secvential 16592845
+P: 2 C: 4 3327950 true
+Secvential 17684613
+P: 2 C: 4 3153075 true
+Secvential 16295918
+P: 2 C: 4 3314010 true
+Secvential 15264197
+P: 2 C: 4 3221281 true
+Secvential 16676436
+P: 4 C: 2 3141027 true
+Secvential 16772995
+P: 4 C: 2 3125263 true
+Secvential 15869672
+P: 4 C: 2 3290116 true
+Secvential 15214816
+P: 4 C: 2 3209766 true
+Secvential 21626956
+P: 4 C: 2 3679207 true
+Secvential 16107020
+P: 4 C: 2 3221532 true
+Secvential 15543501
+P: 4 C: 2 3342172 true
+Secvential 17638508
+P: 4 C: 2 2946851 true
+Secvential 15813900
+P: 4 C: 2 3363488 true
+Secvential 16501988
+P: 4 C: 2 3104119 true
+Secvential 16798073
+P: 4 C: 2 3502196 true
+Secvential 16882899
+P: 4 C: 2 3128937 true
+Secvential 17212139
+P: 4 C: 2 3493719 true
+Secvential 16064630
+P: 4 C: 2 3484123 true
+Secvential 15674304
+P: 4 C: 2 3238885 true
+Secvential 15144915
+P: 4 C: 2 3568122 true
+Secvential 17298641
+P: 4 C: 2 3060100 true
+Secvential 17252312
+P: 4 C: 2 3385054 true
+Secvential 17329410
+P: 4 C: 2 3231641 true
+Secvential 15807922
+P: 4 C: 2 3131771 true
+Secvential 16073519
+P: 2 C: 6 3423108 true
+Secvential 16877576
+P: 2 C: 6 3294459 true
+Secvential 18809212
+P: 2 C: 6 3376365 true
+Secvential 18082562
+P: 2 C: 6 3278701 true
+Secvential 17107540
+P: 2 C: 6 3288919 true
+Secvential 16863987
+P: 2 C: 6 3636622 true
+Secvential 16310800
+P: 2 C: 6 3484765 true
+Secvential 14984385
+P: 2 C: 6 3193936 true
+Secvential 16539544
+P: 2 C: 6 3386377 true
+Secvential 16077991
+P: 2 C: 6 3343113 true
+Secvential 16354060
+P: 2 C: 6 3163781 true
+Secvential 15235639
+P: 2 C: 6 3058556 true
+Secvential 16531871
+P: 2 C: 6 3167613 true
+Secvential 15903465
+P: 2 C: 6 3221923 true
+Secvential 17193603
+P: 2 C: 6 3740932 true
+Secvential 15738809
+P: 2 C: 6 3666601 true
+Secvential 15231403
+P: 2 C: 6 3328967 true
+Secvential 16072363
+P: 2 C: 6 3295933 true
+Secvential 15447845
+P: 2 C: 6 3309142 true
+Secvential 16451402
+P: 2 C: 6 3279338 true
+Secvential 17359934
+P: 4 C: 4 3195304 true
+Secvential 16298487
+P: 4 C: 4 3182322 true
+Secvential 15335067
+P: 4 C: 4 3343815 true
+Secvential 18272950
+P: 4 C: 4 3233016 true
+Secvential 15806423
+P: 4 C: 4 3310030 true
+Secvential 15103025
+P: 4 C: 4 3613514 true
+Secvential 15145790
+P: 4 C: 4 3269693 true
+Secvential 16700210
+P: 4 C: 4 3188967 true
+Secvential 15540213
+P: 4 C: 4 3199306 true
+Secvential 15617682
+P: 4 C: 4 3376736 true
+Secvential 15320432
+P: 4 C: 4 3487394 true
+Secvential 15169549
+P: 4 C: 4 3517644 true
+Secvential 16229109
+P: 4 C: 4 3400299 true
+Secvential 16581195
+P: 4 C: 4 3269313 true
+Secvential 15979282
+P: 4 C: 4 3415952 true
+Secvential 15705543
+P: 4 C: 4 3420565 true
+Secvential 15094000
+P: 4 C: 4 3352736 true
+Secvential 16376256
+P: 4 C: 4 3121512 true
+Secvential 16420820
+P: 4 C: 4 3130474 true
+Secvential 16633969
+P: 4 C: 4 4133258 true
+Secvential 15141083
+P: 2 C: 14 3436892 true
+Secvential 18775698
+P: 2 C: 14 3277762 true
+Secvential 15322693
+P: 2 C: 14 3496103 true
+Secvential 15894775
+P: 2 C: 14 3297893 true
+Secvential 15553680
+P: 2 C: 14 3363038 true
+Secvential 16640062
+P: 2 C: 14 3316428 true
+Secvential 15610500
+P: 2 C: 14 3339769 true
+Secvential 15636238
+P: 2 C: 14 3319124 true
+Secvential 15320188
+P: 2 C: 14 3564672 true
+Secvential 16896420
+P: 2 C: 14 3375421 true
+Secvential 15131857
+P: 2 C: 14 3418176 true
+Secvential 15411073
+P: 2 C: 14 3353916 true
+Secvential 16666191
+P: 2 C: 14 3335065 true
+Secvential 15969679
+P: 2 C: 14 3332364 true
+Secvential 15572826
+P: 2 C: 14 3341777 true
+Secvential 16255778
+P: 2 C: 14 3238514 true
+Secvential 15643063
+P: 2 C: 14 3396121 true
+Secvential 15638940
+P: 2 C: 14 3429466 true
+Secvential 15365398
+P: 2 C: 14 3306169 true
+Secvential 15727041
+P: 2 C: 14 3623295 true
+Secvential 15537250
+P: 4 C: 12 3328311 true
+Secvential 16104950
+P: 4 C: 12 4013210 true
+Secvential 16321281
+P: 4 C: 12 4112953 true
+Secvential 15603485
+P: 4 C: 12 3493183 true
+Secvential 15719027
+P: 4 C: 12 3352331 true
+Secvential 16510472
+P: 4 C: 12 3296745 true
+Secvential 15316968
+P: 4 C: 12 3698317 true
+Secvential 16057803
+P: 4 C: 12 3830414 true
+Secvential 15563524
+P: 4 C: 12 3366252 true
+Secvential 15859779
+P: 4 C: 12 3402073 true
+Secvential 15826349
+P: 4 C: 12 3606591 true
+Secvential 15270545
+P: 4 C: 12 3774579 true
+Secvential 16642671
+P: 4 C: 12 3629594 true
+Secvential 18426029
+P: 4 C: 12 3286553 true
+Secvential 15278091
+P: 4 C: 12 3962979 true
+Secvential 15471623
+P: 4 C: 12 3323171 true
+Secvential 16161424
+P: 4 C: 12 3636914 true
+Secvential 15426808
+P: 4 C: 12 3369567 true
+Secvential 15183322
+P: 4 C: 12 3388466 true
+Secvential 15690262
+P: 4 C: 12 3435261 true
+Secvential 16717261
+P: 4 C: 2 3712480 true
+Secvential 21523691
+P: 4 C: 4 4018739 true
+Secvential 15636944
+P: 4 C: 12 3344680 true

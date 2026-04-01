@@ -1,0 +1,11 @@
+stari: q0 q1 q2
+alfabet: ab
+tranz:
+q0;a;q1
+q1;a;q1
+q0;b;q2
+q2;b;q2
+q1;b;q2
+sfarsit
+q0: q0
+F: q0 q1 q2

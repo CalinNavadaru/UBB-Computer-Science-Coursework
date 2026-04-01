@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.30)
+project(lab5_InClass)
+set(CMAKE_CXX_STANDARD 20)
+add_executable(lab5_InClass main.cpp)
+find_package(OpenMP REQUIRED)
+if(OpenMP_CXX_FOUND)
+    target_link_libraries(lab5_InClass PUBLIC OpenMP::OpenMP_CXX)
+endif()

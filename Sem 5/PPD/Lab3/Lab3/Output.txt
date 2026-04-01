@@ -1,0 +1,4 @@
+1000 1000 Java Secvential 14748304
+1000 1000 Java cu 8 2642327
+1000 1000 Secvential a facut 5.62288e+07
+1000 1000 C++ dinamic cu 8 thread-uri a facut 1.42133e+07

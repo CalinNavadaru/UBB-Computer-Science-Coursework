@@ -1,0 +1,17 @@
+stari: q0 q1 q2 q3 q4 q5 q6 q7
+alfabet: 0123456789bxABCDEF
+tranz:
+q0~0~q1
+q0~123456789~q6
+q6~0123456789~q6
+q1~b~q2
+q1~01234567~q7
+q7~01234567~q7
+q1~x~q4
+q2~01~q3
+q3~01~q3
+q4~0123456789ABCDEF~q5
+q5~0123456789ABCDEF~q5
+sfarsit
+q0: q0
+F: q1 q3 q5 q6 q7

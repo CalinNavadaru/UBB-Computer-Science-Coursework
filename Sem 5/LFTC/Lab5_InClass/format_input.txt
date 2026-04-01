@@ -1,0 +1,20 @@
+A - Neterminale
+a - terminale
+
+Format regula:
+a A a -> b B b
+* In stanga trebuie sa fie neaparat un Neterminal, terminalele pot fi omise
+* In dreapta poate sa fie terminal/neterminal/@(echivalent epsilon)
+* Acestea trebuie separate cu spatiu
+
+
+Format fisier:
+
+terminale: a b c d e f ....
+neterminale: A B C D E F ....
+reguli:
+r1
+r2
+r3
+r4
+.....

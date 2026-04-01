@@ -1,0 +1,22 @@
+<program> ::= "int" "main" "(" ")"{" <struct_def> <list_instr> "}"
+<list_instr> ::= <instr> | <instr> <list_instr>
+<instr> ::= <atr>";" | <decl>";" | <cond> | <rep> | <io>
+<io> ::= "cin" <citire> | "cout" <scriere>
+<citire> ::= ">>" ID ";" | ">>" ID <citire>
+<scriere> ::= "<<" ID ";" | "<<" ID <scriere> | "<<" CONST ";" | "<<" CONST <scriere> | "<<" <expr> ";" | "<<" <expr> <scriere>
+<decl> ::= <tip> ID | <tip> <atr> | <decl>"," ID | <decl>"," <atr>
+<atr> ::= ID "=" CONST | ID "=" ID | ID "=" <atr> | ID "=" <expr>
+<expr> ::= ID | CONST | ID <op> ID | ID <op> CONST | ID <op> <expr>
+<op> ::= <math_op> | <logic_op> | <comp_op>
+<math_op> ::= "+" | "-" | "*" | "/" | "**" | "%" | "//"
+<logic_op> ::= "&&" | "||"
+<comp_op> ::= "<" | "<=" | ">" | ">=" | "==" | "!="
+<repr> ::= <while> | <for>
+<while> ::= "while" <expr> "do" "{" <list_instr> "}"
+<for> ::= "for" "(" <atr> ";" <expr> ";" <expr> ")" "{" <list_instr> "}"
+<cond> ::= "if" "(" <expr> ")" "{" <list_instr> "}"
+<tip> ::= "int" | "float" | "str" | "struct" VARNAME
+<struct_def> ::= "struct" VARNAME "{" <decl>";" "}"";"
+
+CONST ::= [1-9][0-9]* | "0x"[0-9ABCDEF]+ | "0"[0-7]* | "0b"[0-1]+ | [0-9]+\.[0-9]* | [0-9]*\.[0-9]+ | "'"[^']*"'"
+ID ::= [a-zA-Z_]+

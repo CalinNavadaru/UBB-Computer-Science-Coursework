@@ -1,0 +1,71 @@
+%{
+#include <stdio.h>
+#include <stdlib.h>
+#include "parser.tab.h"
+#include <string.h>
+int line_number = 1;
+%}
+%option noyywrap
+keywords "if"|"while"|"struct"|"str"|"for"|"int"|"float"|"cin"|"cout"
+identificators [A-Za-z_]+
+constants 0[0-7]+|[0-9]+|0x[0-9ABCDEF]+|0b[0-1]+
+float_constants [0-9]+\.[0-9]*|[0-9]*\.[0-9]+
+strings '[^']*'
+%%
+[\r\n]   {
+    line_number++; 
+}
+[ \t] // Ignore
+"cin" { return CIN; }
+"if" { return IF; }
+"while" { return WHILE; }
+"struct" { return STRUCT; }
+"str" { return STR; }
+"for" { return FOR; }
+"int" { return INT; }
+"float" { return FLOAT; }
+"cout" { return COUT; }
+">>" { return RSHIFT; }
+"<<" { return LSHIFT; }
+"\*\*" { return POWER; }
+"\/\/" { return INTEGER_DIV; }
+"&&" { return AND; }
+"\|\|" { return OR; }
+"!=" { return NOT_EQUAL; }
+"==" { return EQUAL; }
+"<=" { return LESS_EQUAL; }
+">=" { return GREATER_EQUAL; }
+"\+" { return PLUS; }
+"\-" { return MINUS; }
+"\%" { return MODULO; }
+"=" { return ASSIGN; }
+"<" { return LESS; }
+">" { return GREATER; }
+"\*" { return MULTIPLY; }
+"\/" { return DIV; }
+"" 
+{identificators} { 
+    yylval.id = strdup(yytext);
+    return IDENTIFICATOR;
+} 
+{constants} { 
+    yylval.num = atoi(yytext);
+    return NUMBER ;
+}
+{float_constants} {
+    char *end = NULL;
+    float value = strtof(yytext, &end);
+    if (end == yytext + strlen(yytext)) {
+        fprintf(stderr, "Eroare la conversie float %s\n", yytext);
+        return -1;
+    }
+    yylval.num = value;
+    return NUMBER; 
+}
+{strings} {
+    yylval.str = strdup(yytext);
+    return STRING;
+}
+
+. { return yytext[0]; }
+%%

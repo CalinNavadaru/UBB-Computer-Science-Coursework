@@ -1,0 +1,7 @@
+<fisier> ::= <AF>
+<AF> ::= "stari: " <stari> NEWLINE "alfabet: " <alfabet> NEWLINE "tranz: " <tranz> NEWLINE "q0: " ID NEWLINE
+"F: " <F>
+<stari> ::= ID <stari> | ID
+<alfabet> ::= CONST <alfabet> | CONST
+<F> ::= ID <F> | ID
+<tranz> ::= ID;<alphabet>;ID NEWLINE <tranz> | ID;<alphabet>;ID NEWLINE sfarsit

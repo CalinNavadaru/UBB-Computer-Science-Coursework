@@ -1,0 +1,480 @@
+10 10 Java Secvential 15102
+10 10 Java cu 2 1238710
+10 10 Java Secvential 15181
+10 10 Java cu 2 1282041
+10 10 Java Secvential 15938
+10 10 Java cu 2 1343524
+10 10 Java Secvential 15724
+10 10 Java cu 2 1369977
+10 10 Java Secvential 16383
+10 10 Java cu 2 1428901
+10 10 Java Secvential 15814
+10 10 Java cu 2 1278615
+10 10 Java Secvential 15972
+10 10 Java cu 2 1350385
+10 10 Java Secvential 23519
+10 10 Java cu 2 1447164
+10 10 Java Secvential 15949
+10 10 Java cu 2 1519579
+10 10 Java Secvential 15878
+10 10 Java cu 2 1503971
+10 10 Java Secvential 21124
+10 10 Java cu 4 1378765
+10 10 Java Secvential 15529
+10 10 Java cu 4 1335045
+10 10 Java Secvential 18866
+10 10 Java cu 4 1360145
+10 10 Java Secvential 15132
+10 10 Java cu 4 1304278
+10 10 Java Secvential 15937
+10 10 Java cu 4 1309487
+10 10 Java Secvential 15652
+10 10 Java cu 4 1258961
+10 10 Java Secvential 16189
+10 10 Java cu 4 1356706
+10 10 Java Secvential 15199
+10 10 Java cu 4 1540828
+10 10 Java Secvential 16054
+10 10 Java cu 4 1406881
+10 10 Java Secvential 15554
+10 10 Java cu 4 1434270
+10 10 Java Secvential 15886
+10 10 Java cu 8 1389954
+10 10 Java Secvential 15206
+10 10 Java cu 8 1377600
+10 10 Java Secvential 15616
+10 10 Java cu 8 1601764
+10 10 Java Secvential 15149
+10 10 Java cu 8 1307970
+10 10 Java Secvential 15614
+10 10 Java cu 8 1450976
+10 10 Java Secvential 15801
+10 10 Java cu 8 1721267
+10 10 Java Secvential 15887
+10 10 Java cu 8 1632956
+10 10 Java Secvential 15579
+10 10 Java cu 8 1516400
+10 10 Java Secvential 16630
+10 10 Java cu 8 1323339
+10 10 Java Secvential 15774
+10 10 Java cu 8 1260191
+10 10 Java Secvential 15020
+10 10 Java cu 16 2072050
+10 10 Java Secvential 19350
+10 10 Java cu 16 1726997
+10 10 Java Secvential 15145
+10 10 Java cu 16 1721984
+10 10 Java Secvential 21496
+10 10 Java cu 16 1858715
+10 10 Java Secvential 15556
+10 10 Java cu 16 1755671
+10 10 Java Secvential 15504
+10 10 Java cu 16 1644363
+10 10 Java Secvential 15097
+10 10 Java cu 16 1737675
+10 10 Java Secvential 17962
+10 10 Java cu 16 2182628
+10 10 Java Secvential 16079
+10 10 Java cu 16 1701025
+10 10 Java Secvential 15572
+10 10 Java cu 16 2163192
+1000 1000 Java Secvential 15118868
+1000 1000 Java cu 2 3781356
+1000 1000 Java Secvential 14938747
+1000 1000 Java cu 2 3881802
+1000 1000 Java Secvential 14818529
+1000 1000 Java cu 2 3912168
+1000 1000 Java Secvential 16100934
+1000 1000 Java cu 2 4161854
+1000 1000 Java Secvential 16298718
+1000 1000 Java cu 2 3911008
+1000 1000 Java Secvential 12235202
+1000 1000 Java cu 2 3467298
+1000 1000 Java Secvential 14904187
+1000 1000 Java cu 2 3443195
+1000 1000 Java Secvential 26348865
+1000 1000 Java cu 2 3381924
+1000 1000 Java Secvential 15232094
+1000 1000 Java cu 2 3519426
+1000 1000 Java Secvential 14662889
+1000 1000 Java cu 2 4000549
+1000 1000 Java Secvential 14655163
+1000 1000 Java cu 4 2810438
+1000 1000 Java Secvential 14930253
+1000 1000 Java cu 4 2602094
+1000 1000 Java Secvential 15506949
+1000 1000 Java cu 4 2533337
+1000 1000 Java Secvential 12114530
+1000 1000 Java cu 4 2842315
+1000 1000 Java Secvential 14822269
+1000 1000 Java cu 4 2564084
+1000 1000 Java Secvential 14855156
+1000 1000 Java cu 4 2497770
+1000 1000 Java Secvential 21600914
+1000 1000 Java cu 4 2878979
+1000 1000 Java Secvential 15063214
+1000 1000 Java cu 4 7955140
+1000 1000 Java Secvential 11785335
+1000 1000 Java cu 4 2598244
+1000 1000 Java Secvential 11950081
+1000 1000 Java cu 4 2767527
+1000 1000 Java Secvential 11924780
+1000 1000 Java cu 8 2571342
+1000 1000 Java Secvential 14925853
+1000 1000 Java cu 8 3724126
+1000 1000 Java Secvential 15936858
+1000 1000 Java cu 8 2743822
+1000 1000 Java Secvential 15483596
+1000 1000 Java cu 8 2744932
+1000 1000 Java Secvential 11786826
+1000 1000 Java cu 8 3649455
+1000 1000 Java Secvential 16216638
+1000 1000 Java cu 8 2535600
+1000 1000 Java Secvential 14851591
+1000 1000 Java cu 8 2586363
+1000 1000 Java Secvential 15509922
+1000 1000 Java cu 8 2757647
+1000 1000 Java Secvential 15464743
+1000 1000 Java cu 8 2657769
+1000 1000 Java Secvential 12155245
+1000 1000 Java cu 8 2610741
+1000 1000 Java Secvential 14876096
+1000 1000 Java cu 16 2779430
+1000 1000 Java Secvential 14827735
+1000 1000 Java cu 16 3017446
+1000 1000 Java Secvential 16009081
+1000 1000 Java cu 16 2827155
+1000 1000 Java Secvential 13163220
+1000 1000 Java cu 16 2790154
+1000 1000 Java Secvential 20441897
+1000 1000 Java cu 16 11456602
+1000 1000 Java Secvential 17463057
+1000 1000 Java cu 16 3151811
+1000 1000 Java Secvential 13731988
+1000 1000 Java cu 16 2848373
+1000 1000 Java Secvential 15162116
+1000 1000 Java cu 16 3235382
+1000 1000 Java Secvential 16738332
+1000 1000 Java cu 16 3068168
+1000 1000 Java Secvential 15634089
+1000 1000 Java cu 16 2938315
+10000 10000 Java Secvential 407839705
+10000 10000 Java cu 2 210151552
+10000 10000 Java Secvential 420255212
+10000 10000 Java cu 2 211108007
+10000 10000 Java Secvential 427206939
+10000 10000 Java cu 2 209209818
+10000 10000 Java Secvential 424574603
+10000 10000 Java cu 2 290825556
+10000 10000 Java Secvential 452487719
+10000 10000 Java cu 2 248600337
+10000 10000 Java Secvential 401979233
+10000 10000 Java cu 2 215345029
+10000 10000 Java Secvential 456863322
+10000 10000 Java cu 2 208647227
+10000 10000 Java Secvential 409578491
+10000 10000 Java cu 2 192866001
+10000 10000 Java Secvential 385300238
+10000 10000 Java cu 2 190929013
+10000 10000 Java Secvential 385245529
+10000 10000 Java cu 2 192230207
+10000 10000 Java Secvential 383629137
+10000 10000 Java cu 4 102060595
+10000 10000 Java Secvential 385484184
+10000 10000 Java cu 4 101897593
+10000 10000 Java Secvential 380756214
+10000 10000 Java cu 4 103009949
+10000 10000 Java Secvential 386008085
+10000 10000 Java cu 4 101691801
+10000 10000 Java Secvential 388514306
+10000 10000 Java cu 4 103861983
+10000 10000 Java Secvential 383585989
+10000 10000 Java cu 4 138146432
+10000 10000 Java Secvential 394525861
+10000 10000 Java cu 4 109053346
+10000 10000 Java Secvential 389648675
+10000 10000 Java cu 4 102041728
+10000 10000 Java Secvential 383737526
+10000 10000 Java cu 4 101270613
+10000 10000 Java Secvential 390014758
+10000 10000 Java cu 4 102541918
+10000 10000 Java Secvential 386462304
+10000 10000 Java cu 8 97816049
+10000 10000 Java Secvential 386166229
+10000 10000 Java cu 8 140151343
+10000 10000 Java Secvential 390722001
+10000 10000 Java cu 8 93281773
+10000 10000 Java Secvential 385749832
+10000 10000 Java cu 8 91950733
+10000 10000 Java Secvential 381637488
+10000 10000 Java cu 8 92925771
+10000 10000 Java Secvential 381712826
+10000 10000 Java cu 8 92816987
+10000 10000 Java Secvential 385941550
+10000 10000 Java cu 8 138503128
+10000 10000 Java Secvential 388316417
+10000 10000 Java cu 8 93231484
+10000 10000 Java Secvential 383775362
+10000 10000 Java cu 8 92931414
+10000 10000 Java Secvential 389361881
+10000 10000 Java cu 8 91326727
+10000 10000 Java Secvential 382060135
+10000 10000 Java cu 16 78146204
+10000 10000 Java Secvential 384551483
+10000 10000 Java cu 16 125011691
+10000 10000 Java Secvential 390607000
+10000 10000 Java cu 16 82324906
+10000 10000 Java Secvential 385048741
+10000 10000 Java cu 16 80992180
+10000 10000 Java Secvential 382623035
+10000 10000 Java cu 16 79860304
+10000 10000 Java Secvential 386379085
+10000 10000 Java cu 16 128288170
+10000 10000 Java Secvential 384208824
+10000 10000 Java cu 16 73401876
+10000 10000 Java Secvential 381925673
+10000 10000 Java cu 16 138701237
+10000 10000 Java Secvential 387096107
+10000 10000 Java cu 16 73961052
+10000 10000 Java Secvential 385237579
+10000 10000 Java cu 16 81833153
+10 10 Secvential a facut 67415
+10 10 C++ dinamic cu 2 thread-uri a facut 377439
+10 10 Secvential a facut 66243
+10 10 C++ dinamic cu 2 thread-uri a facut 331937
+10 10 Secvential a facut 67532
+10 10 C++ dinamic cu 2 thread-uri a facut 329605
+10 10 Secvential a facut 66135
+10 10 C++ dinamic cu 2 thread-uri a facut 290895
+10 10 Secvential a facut 70850
+10 10 C++ dinamic cu 2 thread-uri a facut 399297
+10 10 Secvential a facut 66829
+10 10 C++ dinamic cu 2 thread-uri a facut 331064
+10 10 Secvential a facut 66208
+10 10 C++ dinamic cu 2 thread-uri a facut 434871
+10 10 Secvential a facut 65248
+10 10 C++ dinamic cu 2 thread-uri a facut 349853
+10 10 Secvential a facut 71993
+10 10 C++ dinamic cu 2 thread-uri a facut 417649
+10 10 Secvential a facut 67739
+10 10 C++ dinamic cu 2 thread-uri a facut 335806
+10 10 Secvential a facut 62131
+10 10 C++ dinamic cu 4 thread-uri a facut 380173
+10 10 Secvential a facut 68003
+10 10 C++ dinamic cu 4 thread-uri a facut 447672
+10 10 Secvential a facut 67199
+10 10 C++ dinamic cu 4 thread-uri a facut 418300
+10 10 Secvential a facut 68833
+10 10 C++ dinamic cu 4 thread-uri a facut 398624
+10 10 Secvential a facut 68492
+10 10 C++ dinamic cu 4 thread-uri a facut 526300
+10 10 Secvential a facut 69958
+10 10 C++ dinamic cu 4 thread-uri a facut 523816
+10 10 Secvential a facut 66699
+10 10 C++ dinamic cu 4 thread-uri a facut 514308
+10 10 Secvential a facut 66581
+10 10 C++ dinamic cu 4 thread-uri a facut 381515
+10 10 Secvential a facut 65915
+10 10 C++ dinamic cu 4 thread-uri a facut 374174
+10 10 Secvential a facut 68372
+10 10 C++ dinamic cu 4 thread-uri a facut 385712
+10 10 Secvential a facut 179071
+10 10 C++ dinamic cu 8 thread-uri a facut 469955
+10 10 Secvential a facut 65166
+10 10 C++ dinamic cu 8 thread-uri a facut 595506
+10 10 Secvential a facut 68030
+10 10 C++ dinamic cu 8 thread-uri a facut 480860
+10 10 Secvential a facut 67203
+10 10 C++ dinamic cu 8 thread-uri a facut 758832
+10 10 Secvential a facut 68256
+10 10 C++ dinamic cu 8 thread-uri a facut 473457
+10 10 Secvential a facut 75332
+10 10 C++ dinamic cu 8 thread-uri a facut 486195
+10 10 Secvential a facut 68440
+10 10 C++ dinamic cu 8 thread-uri a facut 492234
+10 10 Secvential a facut 66594
+10 10 C++ dinamic cu 8 thread-uri a facut 522242
+10 10 Secvential a facut 66983
+10 10 C++ dinamic cu 8 thread-uri a facut 499455
+10 10 Secvential a facut 69016
+10 10 C++ dinamic cu 8 thread-uri a facut 491530
+10 10 Secvential a facut 72989
+10 10 C++ dinamic cu 16 thread-uri a facut 678843
+10 10 Secvential a facut 68961
+10 10 C++ dinamic cu 16 thread-uri a facut 640602
+10 10 Secvential a facut 67541
+10 10 C++ dinamic cu 16 thread-uri a facut 669964
+10 10 Secvential a facut 67322
+10 10 C++ dinamic cu 16 thread-uri a facut 665595
+10 10 Secvential a facut 65507
+10 10 C++ dinamic cu 16 thread-uri a facut 723655
+10 10 Secvential a facut 71347
+10 10 C++ dinamic cu 16 thread-uri a facut 671359
+10 10 Secvential a facut 68816
+10 10 C++ dinamic cu 16 thread-uri a facut 850385
+10 10 Secvential a facut 68848
+10 10 C++ dinamic cu 16 thread-uri a facut 628603
+10 10 Secvential a facut 67249
+10 10 C++ dinamic cu 16 thread-uri a facut 634708
+10 10 Secvential a facut 72085
+10 10 C++ dinamic cu 16 thread-uri a facut 692145
+1000 1000 Secvential a facut 4.04491e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.57417e+06
+1000 1000 Secvential a facut 3.84984e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.59822e+06
+1000 1000 Secvential a facut 3.81306e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.56556e+06
+1000 1000 Secvential a facut 3.85246e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.63827e+06
+1000 1000 Secvential a facut 4.16204e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.53514e+06
+1000 1000 Secvential a facut 3.83301e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.59828e+06
+1000 1000 Secvential a facut 3.94456e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.6666e+06
+1000 1000 Secvential a facut 3.83236e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.61365e+06
+1000 1000 Secvential a facut 3.78243e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.58414e+06
+1000 1000 Secvential a facut 3.95461e+06
+1000 1000 C++ dinamic cu 2 thread-uri a facut 3.59307e+06
+1000 1000 Secvential a facut 3.80248e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.74789e+06
+1000 1000 Secvential a facut 3.95684e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.82237e+06
+1000 1000 Secvential a facut 3.79383e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.77426e+06
+1000 1000 Secvential a facut 3.96722e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.787e+06
+1000 1000 Secvential a facut 3.80778e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 3.07881e+06
+1000 1000 Secvential a facut 3.81491e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.76189e+06
+1000 1000 Secvential a facut 3.95077e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.7325e+06
+1000 1000 Secvential a facut 3.81167e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.83361e+06
+1000 1000 Secvential a facut 3.80768e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.99167e+06
+1000 1000 Secvential a facut 3.95566e+06
+1000 1000 C++ dinamic cu 4 thread-uri a facut 2.80665e+06
+1000 1000 Secvential a facut 3.78433e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 2.88581e+06
+1000 1000 Secvential a facut 3.93596e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 2.99652e+06
+1000 1000 Secvential a facut 3.78704e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 3.24018e+06
+1000 1000 Secvential a facut 3.94535e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 2.95668e+06
+1000 1000 Secvential a facut 3.82767e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 3.01997e+06
+1000 1000 Secvential a facut 3.83781e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 3.06142e+06
+1000 1000 Secvential a facut 3.95893e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 3.07199e+06
+1000 1000 Secvential a facut 3.96153e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 3.12401e+06
+1000 1000 Secvential a facut 3.85104e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 2.87997e+06
+1000 1000 Secvential a facut 3.94476e+06
+1000 1000 C++ dinamic cu 8 thread-uri a facut 2.91609e+06
+1000 1000 Secvential a facut 3.96527e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.2381e+06
+1000 1000 Secvential a facut 3.84889e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.48603e+06
+1000 1000 Secvential a facut 3.83664e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.47596e+06
+1000 1000 Secvential a facut 3.9562e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.34029e+06
+1000 1000 Secvential a facut 3.93377e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.24371e+06
+1000 1000 Secvential a facut 3.79491e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.29149e+06
+1000 1000 Secvential a facut 3.77882e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.21811e+06
+1000 1000 Secvential a facut 3.9661e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.59999e+06
+1000 1000 Secvential a facut 3.82838e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.21924e+06
+1000 1000 Secvential a facut 3.94145e+06
+1000 1000 C++ dinamic cu 16 thread-uri a facut 3.21573e+06
+10000 10000 Secvential a facut 1.46977e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.05837e+07
+10000 10000 Secvential a facut 1.45848e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.08857e+07
+10000 10000 Secvential a facut 1.45137e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.0835e+07
+10000 10000 Secvential a facut 1.45002e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.08715e+07
+10000 10000 Secvential a facut 1.4535e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.13911e+07
+10000 10000 Secvential a facut 1.45777e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.23588e+07
+10000 10000 Secvential a facut 1.45999e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.12226e+07
+10000 10000 Secvential a facut 1.45208e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.1413e+07
+10000 10000 Secvential a facut 1.45249e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.11152e+07
+10000 10000 Secvential a facut 1.45171e+08
+10000 10000 C++ dinamic cu 2 thread-uri a facut 8.85996e+07
+10000 10000 Secvential a facut 1.45642e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.32794e+07
+10000 10000 Secvential a facut 1.50066e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.3151e+07
+10000 10000 Secvential a facut 1.45323e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.30769e+07
+10000 10000 Secvential a facut 1.45548e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.30375e+07
+10000 10000 Secvential a facut 1.4554e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.29832e+07
+10000 10000 Secvential a facut 1.4521e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.30149e+07
+10000 10000 Secvential a facut 1.45646e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.31601e+07
+10000 10000 Secvential a facut 1.50674e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.30116e+07
+10000 10000 Secvential a facut 1.45267e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 5.36922e+07
+10000 10000 Secvential a facut 1.45317e+08
+10000 10000 C++ dinamic cu 4 thread-uri a facut 4.33515e+07
+10000 10000 Secvential a facut 1.45278e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.16051e+07
+10000 10000 Secvential a facut 1.45382e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.01425e+07
+10000 10000 Secvential a facut 1.45845e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.18277e+07
+10000 10000 Secvential a facut 1.45641e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.30029e+07
+10000 10000 Secvential a facut 1.45584e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.30928e+07
+10000 10000 Secvential a facut 1.45293e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.31512e+07
+10000 10000 Secvential a facut 1.45223e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.35595e+07
+10000 10000 Secvential a facut 1.45514e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.28109e+07
+10000 10000 Secvential a facut 1.5396e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.30715e+07
+10000 10000 Secvential a facut 1.45425e+08
+10000 10000 C++ dinamic cu 8 thread-uri a facut 4.36552e+07
+10000 10000 Secvential a facut 1.45306e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.31309e+07
+10000 10000 Secvential a facut 1.45334e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.32763e+07
+10000 10000 Secvential a facut 1.45397e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.46296e+07
+10000 10000 Secvential a facut 1.45224e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.37955e+07
+10000 10000 Secvential a facut 1.45293e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.34454e+07
+10000 10000 Secvential a facut 1.45191e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.40877e+07
+10000 10000 Secvential a facut 1.45297e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.40969e+07
+10000 10000 Secvential a facut 1.45332e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.64788e+07
+10000 10000 Secvential a facut 1.45151e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.37345e+07
+10000 10000 Secvential a facut 1.45314e+08
+10000 10000 C++ dinamic cu 16 thread-uri a facut 3.32813e+07

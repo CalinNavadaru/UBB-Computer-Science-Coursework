@@ -1,0 +1,152 @@
+2.
+
+# 1 MLP
+{
+    int r;
+    cin >> r;
+    cout << 2 * 3.14 * r << ' ' << 3.14 * r * r;
+}
+
+# 2 MLP
+{
+    int a, b;
+    cin >> a >> b;
+    int r = a % b;
+    while (b) {
+        a = b;
+        b = r;
+    }
+    cout << a;
+}
+
+# 3 MLP
+{
+    int n, a, s = 0, i;
+    cin >> n;
+    for (i = 0; i < n; i = i + 1) {
+        cin >> a;
+        s = s + a;
+    }
+    cout << s;
+}
+
+#1 C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int r;
+    cin >> r;
+    cout << 2 * 3.14 * r << ' ' << r * r * 3.14;
+    return 0; 
+}
+
+#2 C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int a, b, r;
+    cin >> a >> b;
+    r = a % b;
+    while (b) {
+        a = b;
+        b = r;
+    }
+    cout << a;
+    return 0;
+}
+
+#3 C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int n, a, s = 0;
+    cin >> n;
+    for (int i = 0; i < n; i++) {
+        cin >> a;
+        s += a;
+    }
+    cout << a;
+    return 0;
+}
+
+3.
+
+C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << 3
+    return 0
+}
+
+MLP
+{
+    cout << 3
+}
+
+#### Lipsa ; in ambele limbaje
+
+C++
+#include <iostream>
+
+using namespace std;
+
+int main() 
+    cout << 3;
+    return 0;
+
+MLP
+    cout << 3
+
+#### Lipsa {} in ambele limbaje
+
+
+C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    for (int i = 3; i < 5; i++) {
+        cout << 45;
+    }
+    return 0;
+}
+
+MLP
+{
+    for (int i = 3; i < 5; i i = i + 1) {
+        cout << 45;
+    }
+}
+
+nu se pot declara valori in for in MLP
+
+C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    for (int i = 3; i < 5; i++) {
+        cout << 45;
+    }
+    return 0;
+}
+
+MLP
+{
+    for (int i = 3; i < 5; i++) {
+        cout << 45;
+    }
+}
+
+nu se poate incrementa o valoare folosind ++;

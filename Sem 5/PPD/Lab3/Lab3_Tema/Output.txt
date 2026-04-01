@@ -1,0 +1,644 @@
+Varianta 1 cu 16 16 16782
+Varianta 1 MPI cu 16 16 1 procese a luat 28585
+Varianta 1 cu 16 16 16230
+Varianta 1 MPI cu 16 16 1 procese a luat 25341
+Varianta 1 cu 16 16 16051
+Varianta 1 MPI cu 16 16 1 procese a luat 24860
+Varianta 1 cu 16 16 15814
+Varianta 1 MPI cu 16 16 1 procese a luat 25231
+Varianta 1 cu 16 16 19785
+Varianta 1 MPI cu 16 16 1 procese a luat 28533
+Varianta 1 cu 16 16 16413
+Varianta 1 MPI cu 16 16 1 procese a luat 26613
+Varianta 1 cu 16 16 19950
+Varianta 1 MPI cu 16 16 1 procese a luat 43754
+Varianta 1 cu 16 16 15612
+Varianta 1 MPI cu 16 16 1 procese a luat 24938
+Varianta 1 cu 16 16 16881
+Varianta 1 MPI cu 16 16 1 procese a luat 30439
+Varianta 1 cu 16 16 14867
+Varianta 1 MPI cu 16 16 1 procese a luat 27228
+Varianta 1 cu 16 16 17188
+Varianta 1 MPI cu 16 16 3 procese a luat 83737
+Varianta 1 cu 16 16 13607
+Varianta 1 MPI cu 16 16 3 procese a luat 61944
+Varianta 1 cu 16 16 12140
+Varianta 1 MPI cu 16 16 3 procese a luat 57769
+Varianta 1 cu 16 16 13752
+Varianta 1 MPI cu 16 16 3 procese a luat 63179
+Varianta 1 cu 16 16 17870
+Varianta 1 MPI cu 16 16 3 procese a luat 65467
+Varianta 1 cu 16 16 12116
+Varianta 1 MPI cu 16 16 3 procese a luat 58098
+Varianta 1 cu 16 16 12255
+Varianta 1 MPI cu 16 16 3 procese a luat 58395
+Varianta 1 cu 16 16 19542
+Varianta 1 MPI cu 16 16 3 procese a luat 63560
+Varianta 1 cu 16 16 18146
+Varianta 1 MPI cu 16 16 3 procese a luat 71493
+Varianta 1 cu 16 16 19488
+Varianta 1 MPI cu 16 16 3 procese a luat 88339
+Varianta 1 cu 16 16 17986
+Varianta 1 MPI cu 16 16 7 procese a luat 141406
+Varianta 1 cu 16 16 21107
+Varianta 1 MPI cu 16 16 7 procese a luat 106466
+Varianta 1 cu 16 16 21096
+Varianta 1 MPI cu 16 16 7 procese a luat 123034
+Varianta 1 cu 16 16 18070
+Varianta 1 MPI cu 16 16 7 procese a luat 118685
+Varianta 1 cu 16 16 12809
+Varianta 1 MPI cu 16 16 7 procese a luat 94679
+Varianta 1 cu 16 16 15605
+Varianta 1 MPI cu 16 16 7 procese a luat 102653
+Varianta 1 cu 16 16 16912
+Varianta 1 MPI cu 16 16 7 procese a luat 94478
+Varianta 1 cu 16 16 11992
+Varianta 1 MPI cu 16 16 7 procese a luat 89070
+Varianta 1 cu 16 16 12611
+Varianta 1 MPI cu 16 16 7 procese a luat 90122
+Varianta 1 cu 16 16 20792
+Varianta 1 MPI cu 16 16 7 procese a luat 96354
+Varianta 1 cu 16 16 19214
+Varianta 1 MPI cu 16 16 15 procese a luat 370182
+Varianta 1 cu 16 16 23235
+Varianta 1 MPI cu 16 16 15 procese a luat 319934
+Varianta 1 cu 16 16 30117
+Varianta 1 MPI cu 16 16 15 procese a luat 317245
+Varianta 1 cu 16 16 14177
+Varianta 1 MPI cu 16 16 15 procese a luat 235934
+Varianta 1 cu 16 16 17053
+Varianta 1 MPI cu 16 16 15 procese a luat 309477
+Varianta 1 cu 16 16 15903
+Varianta 1 MPI cu 16 16 15 procese a luat 258365
+Varianta 1 cu 16 16 16465
+Varianta 1 MPI cu 16 16 15 procese a luat 364321
+Varianta 1 cu 16 16 17077
+Varianta 1 MPI cu 16 16 15 procese a luat 285497
+Varianta 1 cu 16 16 16775
+Varianta 1 MPI cu 16 16 15 procese a luat 255846
+Varianta 1 cu 16 16 24994
+Varianta 1 MPI cu 16 16 15 procese a luat 1.31038e+06
+Varianta 1 cu 18 18 15516
+Varianta 1 MPI cu 18 18 1 procese a luat 27398
+Varianta 1 cu 18 18 16416
+Varianta 1 MPI cu 18 18 1 procese a luat 24425
+Varianta 1 cu 18 18 16467
+Varianta 1 MPI cu 18 18 1 procese a luat 23283
+Varianta 1 cu 18 18 15672
+Varianta 1 MPI cu 18 18 1 procese a luat 22846
+Varianta 1 cu 18 18 15687
+Varianta 1 MPI cu 18 18 1 procese a luat 22977
+Varianta 1 cu 18 18 15492
+Varianta 1 MPI cu 18 18 1 procese a luat 24505
+Varianta 1 cu 18 18 16568
+Varianta 1 MPI cu 18 18 1 procese a luat 30701
+Varianta 1 cu 18 18 12134
+Varianta 1 MPI cu 18 18 1 procese a luat 27419
+Varianta 1 cu 18 18 16161
+Varianta 1 MPI cu 18 18 1 procese a luat 23209
+Varianta 1 cu 18 18 15028
+Varianta 1 MPI cu 18 18 1 procese a luat 29675
+Varianta 1 cu 18 18 15591
+Varianta 1 MPI cu 18 18 3 procese a luat 58704
+Varianta 1 cu 18 18 12137
+Varianta 1 MPI cu 18 18 3 procese a luat 56299
+Varianta 1 cu 18 18 16166
+Varianta 1 MPI cu 18 18 3 procese a luat 68886
+Varianta 1 cu 18 18 12274
+Varianta 1 MPI cu 18 18 3 procese a luat 73628
+Varianta 1 cu 18 18 12631
+Varianta 1 MPI cu 18 18 3 procese a luat 63520
+Varianta 1 cu 18 18 15688
+Varianta 1 MPI cu 18 18 3 procese a luat 66701
+Varianta 1 cu 18 18 11999
+Varianta 1 MPI cu 18 18 3 procese a luat 62129
+Varianta 1 cu 18 18 28394
+Varianta 1 MPI cu 18 18 3 procese a luat 93518
+Varianta 1 cu 18 18 17493
+Varianta 1 MPI cu 18 18 3 procese a luat 55330
+Varianta 1 cu 18 18 13851
+Varianta 1 MPI cu 18 18 3 procese a luat 66279
+Varianta 1 cu 18 18 22677
+Varianta 1 MPI cu 18 18 7 procese a luat 98740
+Varianta 1 cu 18 18 18230
+Varianta 1 MPI cu 18 18 7 procese a luat 102647
+Varianta 1 cu 18 18 17393
+Varianta 1 MPI cu 18 18 7 procese a luat 108727
+Varianta 1 cu 18 18 22078
+Varianta 1 MPI cu 18 18 7 procese a luat 107306
+Varianta 1 cu 18 18 12695
+Varianta 1 MPI cu 18 18 7 procese a luat 110429
+Varianta 1 cu 18 18 22398
+Varianta 1 MPI cu 18 18 7 procese a luat 99857
+Varianta 1 cu 18 18 17895
+Varianta 1 MPI cu 18 18 7 procese a luat 97050
+Varianta 1 cu 18 18 19649
+Varianta 1 MPI cu 18 18 7 procese a luat 105178
+Varianta 1 cu 18 18 17252
+Varianta 1 MPI cu 18 18 7 procese a luat 97017
+Varianta 1 cu 18 18 22907
+Varianta 1 MPI cu 18 18 7 procese a luat 91378
+Varianta 1 cu 18 18 21461
+Varianta 1 MPI cu 18 18 15 procese a luat 275883
+Varianta 1 cu 18 18 14557
+Varianta 1 MPI cu 18 18 15 procese a luat 236448
+Varianta 1 cu 18 18 15777
+Varianta 1 MPI cu 18 18 15 procese a luat 348148
+Varianta 1 cu 18 18 24387
+Varianta 1 MPI cu 18 18 15 procese a luat 242098
+Varianta 1 cu 18 18 23890
+Varianta 1 MPI cu 18 18 15 procese a luat 521482
+Varianta 1 cu 18 18 15313
+Varianta 1 MPI cu 18 18 15 procese a luat 297861
+Varianta 1 cu 18 18 16833
+Varianta 1 MPI cu 18 18 15 procese a luat 394014
+Varianta 1 cu 18 18 20175
+Varianta 1 MPI cu 18 18 15 procese a luat 291946
+Varianta 1 cu 18 18 15550
+Varianta 1 MPI cu 18 18 15 procese a luat 323362
+Varianta 1 cu 18 18 15866
+Varianta 1 MPI cu 18 18 15 procese a luat 249870
+Varianta 1 cu 1000 1000 94817
+Varianta 1 MPI cu 1000 1000 1 procese a luat 134485
+Varianta 1 cu 1000 1000 95998
+Varianta 1 MPI cu 1000 1000 1 procese a luat 142896
+Varianta 1 cu 1000 1000 102654
+Varianta 1 MPI cu 1000 1000 1 procese a luat 142105
+Varianta 1 cu 1000 1000 103505
+Varianta 1 MPI cu 1000 1000 1 procese a luat 129803
+Varianta 1 cu 1000 1000 90610
+Varianta 1 MPI cu 1000 1000 1 procese a luat 142599
+Varianta 1 cu 1000 1000 103248
+Varianta 1 MPI cu 1000 1000 1 procese a luat 142173
+Varianta 1 cu 1000 1000 92486
+Varianta 1 MPI cu 1000 1000 1 procese a luat 133317
+Varianta 1 cu 1000 1000 95687
+Varianta 1 MPI cu 1000 1000 1 procese a luat 130659
+Varianta 1 cu 1000 1000 93832
+Varianta 1 MPI cu 1000 1000 1 procese a luat 132069
+Varianta 1 cu 1000 1000 108073
+Varianta 1 MPI cu 1000 1000 1 procese a luat 139815
+Varianta 1 cu 1000 1000 194074
+Varianta 1 MPI cu 1000 1000 3 procese a luat 251670
+Varianta 1 cu 1000 1000 95935
+Varianta 1 MPI cu 1000 1000 3 procese a luat 167656
+Varianta 1 cu 1000 1000 101683
+Varianta 1 MPI cu 1000 1000 3 procese a luat 159702
+Varianta 1 cu 1000 1000 105826
+Varianta 1 MPI cu 1000 1000 3 procese a luat 219054
+Varianta 1 cu 1000 1000 106583
+Varianta 1 MPI cu 1000 1000 3 procese a luat 161805
+Varianta 1 cu 1000 1000 100440
+Varianta 1 MPI cu 1000 1000 3 procese a luat 158517
+Varianta 1 cu 1000 1000 101813
+Varianta 1 MPI cu 1000 1000 3 procese a luat 154794
+Varianta 1 cu 1000 1000 194357
+Varianta 1 MPI cu 1000 1000 3 procese a luat 273475
+Varianta 1 cu 1000 1000 191873
+Varianta 1 MPI cu 1000 1000 3 procese a luat 254570
+Varianta 1 cu 1000 1000 102030
+Varianta 1 MPI cu 1000 1000 3 procese a luat 190521
+Varianta 1 cu 1000 1000 97412
+Varianta 1 MPI cu 1000 1000 7 procese a luat 227311
+Varianta 1 cu 1000 1000 195785
+Varianta 1 MPI cu 1000 1000 7 procese a luat 353638
+Varianta 1 cu 1000 1000 200935
+Varianta 1 MPI cu 1000 1000 7 procese a luat 356763
+Varianta 1 cu 1000 1000 106933
+Varianta 1 MPI cu 1000 1000 7 procese a luat 255394
+Varianta 1 cu 1000 1000 192920
+Varianta 1 MPI cu 1000 1000 7 procese a luat 303261
+Varianta 1 cu 1000 1000 190556
+Varianta 1 MPI cu 1000 1000 7 procese a luat 315969
+Varianta 1 cu 1000 1000 100798
+Varianta 1 MPI cu 1000 1000 7 procese a luat 228917
+Varianta 1 cu 1000 1000 195176
+Varianta 1 MPI cu 1000 1000 7 procese a luat 243335
+Varianta 1 cu 1000 1000 196050
+Varianta 1 MPI cu 1000 1000 7 procese a luat 255014
+Varianta 1 cu 1000 1000 191451
+Varianta 1 MPI cu 1000 1000 7 procese a luat 332101
+Varianta 1 cu 1000 1000 177284
+Varianta 1 MPI cu 1000 1000 15 procese a luat 527101
+Varianta 1 cu 1000 1000 184807
+Varianta 1 MPI cu 1000 1000 15 procese a luat 825276
+Varianta 1 cu 1000 1000 164934
+Varianta 1 MPI cu 1000 1000 15 procese a luat 1.07707e+06
+Varianta 1 cu 1000 1000 190802
+Varianta 1 MPI cu 1000 1000 15 procese a luat 861543
+Varianta 1 cu 1000 1000 174573
+Varianta 1 MPI cu 1000 1000 15 procese a luat 719407
+Varianta 1 cu 1000 1000 168076
+Varianta 1 MPI cu 1000 1000 15 procese a luat 521794
+Varianta 1 cu 1000 1000 169482
+Varianta 1 MPI cu 1000 1000 15 procese a luat 477492
+Varianta 1 cu 1000 1000 182703
+Varianta 1 MPI cu 1000 1000 15 procese a luat 851783
+Varianta 1 cu 1000 1000 210409
+Varianta 1 MPI cu 1000 1000 15 procese a luat 459822
+Varianta 1 cu 1000 1000 172303
+Varianta 1 MPI cu 1000 1000 15 procese a luat 1.03991e+06
+Varianta 1 cu 100 100000 6.98862e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 1.07961e+07
+Varianta 1 cu 100 100000 7.31847e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 1.03708e+07
+Varianta 1 cu 100 100000 7.01034e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 9.88538e+06
+Varianta 1 cu 100 100000 7.17569e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 1.00914e+07
+Varianta 1 cu 100 100000 7.03908e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 9.76507e+06
+Varianta 1 cu 100 100000 7.42173e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 1.05786e+07
+Varianta 1 cu 100 100000 7.45848e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 1.06667e+07
+Varianta 1 cu 100 100000 7.6728e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 1.0582e+07
+Varianta 1 cu 100 100000 7.38719e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 1.04676e+07
+Varianta 1 cu 100 100000 7.18341e+06
+Varianta 1 MPI cu 100 100000 1 procese a luat 9.84422e+06
+Varianta 1 cu 100 100000 8.69509e+06
+Varianta 1 MPI cu 100 100000 3 procese a luat 9.53357e+06
+Varianta 1 cu 100 100000 7.41367e+06
+Varianta 1 MPI cu 100 100000 3 procese a luat 8.23564e+06
+Varianta 1 cu 100 100000 7.57345e+06
+Varianta 1 MPI cu 100 100000 3 procese a luat 8.18565e+06
+Varianta 1 cu 100 100000 1.37114e+07
+Varianta 1 MPI cu 100 100000 3 procese a luat 1.65144e+07
+Varianta 1 cu 100 100000 7.58628e+06
+Varianta 1 MPI cu 100 100000 3 procese a luat 8.25045e+06
+Varianta 1 cu 100 100000 1.37407e+07
+Varianta 1 MPI cu 100 100000 3 procese a luat 1.56169e+07
+Varianta 1 cu 100 100000 1.36605e+07
+Varianta 1 MPI cu 100 100000 3 procese a luat 1.5707e+07
+Varianta 1 cu 100 100000 7.43783e+06
+Varianta 1 MPI cu 100 100000 3 procese a luat 8.54269e+06
+Varianta 1 cu 100 100000 7.33261e+06
+Varianta 1 MPI cu 100 100000 3 procese a luat 8.2169e+06
+Varianta 1 cu 100 100000 7.34623e+06
+Varianta 1 MPI cu 100 100000 3 procese a luat 8.19358e+06
+Varianta 1 cu 100 100000 1.32537e+07
+Varianta 1 MPI cu 100 100000 7 procese a luat 1.5203e+07
+Varianta 1 cu 100 100000 7.50621e+06
+Varianta 1 MPI cu 100 100000 7 procese a luat 7.83793e+06
+Varianta 1 cu 100 100000 1.32321e+07
+Varianta 1 MPI cu 100 100000 7 procese a luat 1.51522e+07
+Varianta 1 cu 100 100000 1.31969e+07
+Varianta 1 MPI cu 100 100000 7 procese a luat 1.52139e+07
+Varianta 1 cu 100 100000 7.50739e+06
+Varianta 1 MPI cu 100 100000 7 procese a luat 7.71226e+06
+Varianta 1 cu 100 100000 1.31298e+07
+Varianta 1 MPI cu 100 100000 7 procese a luat 1.52122e+07
+Varianta 1 cu 100 100000 1.31452e+07
+Varianta 1 MPI cu 100 100000 7 procese a luat 1.61279e+07
+Varianta 1 cu 100 100000 1.31986e+07
+Varianta 1 MPI cu 100 100000 7 procese a luat 1.52933e+07
+Varianta 1 cu 100 100000 7.39993e+06
+Varianta 1 MPI cu 100 100000 7 procese a luat 7.73828e+06
+Varianta 1 cu 100 100000 7.53342e+06
+Varianta 1 MPI cu 100 100000 7 procese a luat 7.71383e+06
+Varianta 1 cu 100 100000 1.32799e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 1.57705e+07
+Varianta 1 cu 100 100000 1.27041e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 1.58731e+07
+Varianta 1 cu 100 100000 1.41887e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 1.63161e+07
+Varianta 1 cu 100 100000 1.26884e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 1.55459e+07
+Varianta 1 cu 100 100000 3.24149e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 5.28108e+07
+Varianta 1 cu 100 100000 1.35556e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 1.78751e+07
+Varianta 1 cu 100 100000 3.22136e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 2.06646e+07
+Varianta 1 cu 100 100000 1.32189e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 1.77063e+07
+Varianta 1 cu 100 100000 2.24855e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 2.90394e+07
+Varianta 1 cu 100 100000 1.31967e+07
+Varianta 1 MPI cu 100 100000 15 procese a luat 1.62275e+07
+Varianta 2 cu 16 16 18038
+Varianta 2 MPI cu 16 16 1 procese a luat 24282
+Varianta 2 cu 16 16 15692
+Varianta 2 MPI cu 16 16 1 procese a luat 28079
+Varianta 2 cu 16 16 14845
+Varianta 2 MPI cu 16 16 1 procese a luat 28034
+Varianta 2 cu 16 16 13893
+Varianta 2 MPI cu 16 16 1 procese a luat 31102
+Varianta 2 cu 16 16 16813
+Varianta 2 MPI cu 16 16 1 procese a luat 30588
+Varianta 2 cu 16 16 15631
+Varianta 2 MPI cu 16 16 1 procese a luat 29287
+Varianta 2 cu 16 16 16672
+Varianta 2 MPI cu 16 16 1 procese a luat 34020
+Varianta 2 cu 16 16 16904
+Varianta 2 MPI cu 16 16 1 procese a luat 48083
+Varianta 2 cu 16 16 16382
+Varianta 2 MPI cu 16 16 1 procese a luat 23244
+Varianta 2 cu 16 16 16981
+Varianta 2 MPI cu 16 16 1 procese a luat 26570
+Varianta 2 cu 16 16 18746
+Varianta 2 MPI cu 16 16 3 procese a luat 46947
+Varianta 2 cu 16 16 14822
+Varianta 2 MPI cu 16 16 3 procese a luat 66176
+Varianta 2 cu 16 16 16503
+Varianta 2 MPI cu 16 16 3 procese a luat 53220
+Varianta 2 cu 16 16 12643
+Varianta 2 MPI cu 16 16 3 procese a luat 44951
+Varianta 2 cu 16 16 16360
+Varianta 2 MPI cu 16 16 3 procese a luat 46877
+Varianta 2 cu 16 16 17013
+Varianta 2 MPI cu 16 16 3 procese a luat 51958
+Varianta 2 cu 16 16 21412
+Varianta 2 MPI cu 16 16 3 procese a luat 66844
+Varianta 2 cu 16 16 13124
+Varianta 2 MPI cu 16 16 3 procese a luat 44039
+Varianta 2 cu 16 16 18157
+Varianta 2 MPI cu 16 16 3 procese a luat 48676
+Varianta 2 cu 16 16 16724
+Varianta 2 MPI cu 16 16 3 procese a luat 38621
+Varianta 2 cu 16 16 17928
+Varianta 2 MPI cu 16 16 7 procese a luat 146831
+Varianta 2 cu 16 16 14367
+Varianta 2 MPI cu 16 16 7 procese a luat 123500
+Varianta 2 cu 16 16 17425
+Varianta 2 MPI cu 16 16 7 procese a luat 100540
+Varianta 2 cu 16 16 19182
+Varianta 2 MPI cu 16 16 7 procese a luat 97934
+Varianta 2 cu 16 16 26551
+Varianta 2 MPI cu 16 16 7 procese a luat 138822
+Varianta 2 cu 16 16 23024
+Varianta 2 MPI cu 16 16 7 procese a luat 154795
+Varianta 2 cu 16 16 16922
+Varianta 2 MPI cu 16 16 7 procese a luat 110370
+Varianta 2 cu 16 16 16408
+Varianta 2 MPI cu 16 16 7 procese a luat 123158
+Varianta 2 cu 16 16 22019
+Varianta 2 MPI cu 16 16 7 procese a luat 114890
+Varianta 2 cu 16 16 14253
+Varianta 2 MPI cu 16 16 7 procese a luat 100554
+Varianta 2 cu 16 16 23725
+Varianta 2 MPI cu 16 16 15 procese a luat 402266
+Varianta 2 cu 16 16 16302
+Varianta 2 MPI cu 16 16 15 procese a luat 664413
+Varianta 2 cu 16 16 15603
+Varianta 2 MPI cu 16 16 15 procese a luat 963987
+Varianta 2 cu 16 16 20408
+Varianta 2 MPI cu 16 16 15 procese a luat 407078
+Varianta 2 cu 16 16 22914
+Varianta 2 MPI cu 16 16 15 procese a luat 390249
+Varianta 2 cu 16 16 15762
+Varianta 2 MPI cu 16 16 15 procese a luat 866531
+Varianta 2 cu 16 16 16744
+Varianta 2 MPI cu 16 16 15 procese a luat 983260
+Varianta 2 cu 16 16 22592
+Varianta 2 MPI cu 16 16 15 procese a luat 393969
+Varianta 2 cu 16 16 15765
+Varianta 2 MPI cu 16 16 15 procese a luat 847023
+Varianta 2 cu 16 16 153200
+Varianta 2 MPI cu 16 16 15 procese a luat 1.1039e+06
+Varianta 2 cu 18 18 16166
+Varianta 2 MPI cu 18 18 1 procese a luat 25830
+Varianta 2 cu 18 18 20422
+Varianta 2 MPI cu 18 18 1 procese a luat 36589
+Varianta 2 cu 18 18 15645
+Varianta 2 MPI cu 18 18 1 procese a luat 32162
+Varianta 2 cu 18 18 16954
+Varianta 2 MPI cu 18 18 1 procese a luat 31032
+Varianta 2 cu 18 18 16421
+Varianta 2 MPI cu 18 18 1 procese a luat 44938
+Varianta 2 cu 18 18 17955
+Varianta 2 MPI cu 18 18 1 procese a luat 47465
+Varianta 2 cu 18 18 15355
+Varianta 2 MPI cu 18 18 1 procese a luat 29585
+Varianta 2 cu 18 18 16741
+Varianta 2 MPI cu 18 18 1 procese a luat 25417
+Varianta 2 cu 18 18 16812
+Varianta 2 MPI cu 18 18 1 procese a luat 27877
+Varianta 2 cu 18 18 16147
+Varianta 2 MPI cu 18 18 1 procese a luat 25460
+Varianta 2 cu 18 18 16029
+Varianta 2 MPI cu 18 18 3 procese a luat 49000
+Varianta 2 cu 18 18 15676
+Varianta 2 MPI cu 18 18 3 procese a luat 43788
+Varianta 2 cu 18 18 12740
+Varianta 2 MPI cu 18 18 3 procese a luat 43729
+Varianta 2 cu 18 18 16642
+Varianta 2 MPI cu 18 18 3 procese a luat 52423
+Varianta 2 cu 18 18 13216
+Varianta 2 MPI cu 18 18 3 procese a luat 47699
+Varianta 2 cu 18 18 17629
+Varianta 2 MPI cu 18 18 3 procese a luat 58831
+Varianta 2 cu 18 18 13289
+Varianta 2 MPI cu 18 18 3 procese a luat 98642
+Varianta 2 cu 18 18 19976
+Varianta 2 MPI cu 18 18 3 procese a luat 46413
+Varianta 2 cu 18 18 14635
+Varianta 2 MPI cu 18 18 3 procese a luat 50822
+Varianta 2 cu 18 18 13916
+Varianta 2 MPI cu 18 18 3 procese a luat 90834
+Varianta 2 cu 18 18 16854
+Varianta 2 MPI cu 18 18 7 procese a luat 118001
+Varianta 2 cu 18 18 18201
+Varianta 2 MPI cu 18 18 7 procese a luat 104794
+Varianta 2 cu 18 18 22378
+Varianta 2 MPI cu 18 18 7 procese a luat 130330
+Varianta 2 cu 18 18 22137
+Varianta 2 MPI cu 18 18 7 procese a luat 113378
+Varianta 2 cu 18 18 16470
+Varianta 2 MPI cu 18 18 7 procese a luat 132125
+Varianta 2 cu 18 18 18331
+Varianta 2 MPI cu 18 18 7 procese a luat 120417
+Varianta 2 cu 18 18 16764
+Varianta 2 MPI cu 18 18 7 procese a luat 150253
+Varianta 2 cu 18 18 13123
+Varianta 2 MPI cu 18 18 7 procese a luat 99148
+Varianta 2 cu 18 18 24179
+Varianta 2 MPI cu 18 18 7 procese a luat 123530
+Varianta 2 cu 18 18 16620
+Varianta 2 MPI cu 18 18 7 procese a luat 144529
+Varianta 2 cu 18 18 16430
+Varianta 2 MPI cu 18 18 15 procese a luat 457848
+Varianta 2 cu 18 18 15768
+Varianta 2 MPI cu 18 18 15 procese a luat 564052
+Varianta 2 cu 18 18 14649
+Varianta 2 MPI cu 18 18 15 procese a luat 1.17552e+06
+Varianta 2 cu 18 18 17557
+Varianta 2 MPI cu 18 18 15 procese a luat 295167
+Varianta 2 cu 18 18 16642
+Varianta 2 MPI cu 18 18 15 procese a luat 1.04622e+06
+Varianta 2 cu 18 18 15889
+Varianta 2 MPI cu 18 18 15 procese a luat 556492
+Varianta 2 cu 18 18 14670
+Varianta 2 MPI cu 18 18 15 procese a luat 1.15537e+06
+Varianta 2 cu 18 18 17107
+Varianta 2 MPI cu 18 18 15 procese a luat 1.14815e+06
+Varianta 2 cu 18 18 23450
+Varianta 2 MPI cu 18 18 15 procese a luat 404660
+Varianta 2 cu 18 18 23097
+Varianta 2 MPI cu 18 18 15 procese a luat 505228
+Varianta 2 cu 1000 1000 101323
+Varianta 2 MPI cu 1000 1000 1 procese a luat 113210
+Varianta 2 cu 1000 1000 100765
+Varianta 2 MPI cu 1000 1000 1 procese a luat 128643
+Varianta 2 cu 1000 1000 97899
+Varianta 2 MPI cu 1000 1000 1 procese a luat 114266
+Varianta 2 cu 1000 1000 99893
+Varianta 2 MPI cu 1000 1000 1 procese a luat 110270
+Varianta 2 cu 1000 1000 97652
+Varianta 2 MPI cu 1000 1000 1 procese a luat 109859
+Varianta 2 cu 1000 1000 105797
+Varianta 2 MPI cu 1000 1000 1 procese a luat 107535
+Varianta 2 cu 1000 1000 98682
+Varianta 2 MPI cu 1000 1000 1 procese a luat 112972
+Varianta 2 cu 1000 1000 99048
+Varianta 2 MPI cu 1000 1000 1 procese a luat 121789
+Varianta 2 cu 1000 1000 101056
+Varianta 2 MPI cu 1000 1000 1 procese a luat 112809
+Varianta 2 cu 1000 1000 116978
+Varianta 2 MPI cu 1000 1000 1 procese a luat 165387
+Varianta 2 cu 1000 1000 97738
+Varianta 2 MPI cu 1000 1000 3 procese a luat 131792
+Varianta 2 cu 1000 1000 104974
+Varianta 2 MPI cu 1000 1000 3 procese a luat 132114
+Varianta 2 cu 1000 1000 98346
+Varianta 2 MPI cu 1000 1000 3 procese a luat 129989
+Varianta 2 cu 1000 1000 105595
+Varianta 2 MPI cu 1000 1000 3 procese a luat 129741
+Varianta 2 cu 1000 1000 101489
+Varianta 2 MPI cu 1000 1000 3 procese a luat 121048
+Varianta 2 cu 1000 1000 102547
+Varianta 2 MPI cu 1000 1000 3 procese a luat 124802
+Varianta 2 cu 1000 1000 100989
+Varianta 2 MPI cu 1000 1000 3 procese a luat 130860
+Varianta 2 cu 1000 1000 97948
+Varianta 2 MPI cu 1000 1000 3 procese a luat 131954
+Varianta 2 cu 1000 1000 100416
+Varianta 2 MPI cu 1000 1000 3 procese a luat 126489
+Varianta 2 cu 1000 1000 192091
+Varianta 2 MPI cu 1000 1000 3 procese a luat 209931
+Varianta 2 cu 1000 1000 105490
+Varianta 2 MPI cu 1000 1000 7 procese a luat 245230
+Varianta 2 cu 1000 1000 110778
+Varianta 2 MPI cu 1000 1000 7 procese a luat 203019
+Varianta 2 cu 1000 1000 121079
+Varianta 2 MPI cu 1000 1000 7 procese a luat 214250
+Varianta 2 cu 1000 1000 200437
+Varianta 2 MPI cu 1000 1000 7 procese a luat 266709
+Varianta 2 cu 1000 1000 149674
+Varianta 2 MPI cu 1000 1000 7 procese a luat 258489
+Varianta 2 cu 1000 1000 182917
+Varianta 2 MPI cu 1000 1000 7 procese a luat 269889
+Varianta 2 cu 1000 1000 106094
+Varianta 2 MPI cu 1000 1000 7 procese a luat 200126
+Varianta 2 cu 1000 1000 118663
+Varianta 2 MPI cu 1000 1000 7 procese a luat 203422
+Varianta 2 cu 1000 1000 114775
+Varianta 2 MPI cu 1000 1000 7 procese a luat 275404
+Varianta 2 cu 1000 1000 110935
+Varianta 2 MPI cu 1000 1000 7 procese a luat 207774
+Varianta 2 cu 1000 1000 191524
+Varianta 2 MPI cu 1000 1000 15 procese a luat 2.07345e+06
+Varianta 2 cu 1000 1000 171167
+Varianta 2 MPI cu 1000 1000 15 procese a luat 688371
+Varianta 2 cu 1000 1000 175797
+Varianta 2 MPI cu 1000 1000 15 procese a luat 2.02959e+06
+Varianta 2 cu 1000 1000 198155
+Varianta 2 MPI cu 1000 1000 15 procese a luat 2.69928e+06
+Varianta 2 cu 1000 1000 175089
+Varianta 2 MPI cu 1000 1000 15 procese a luat 2.32015e+06
+Varianta 2 cu 1000 1000 163003
+Varianta 2 MPI cu 1000 1000 15 procese a luat 2.04848e+06
+Varianta 2 cu 1000 1000 190208
+Varianta 2 MPI cu 1000 1000 15 procese a luat 2.12012e+06
+Varianta 2 cu 1000 1000 189935
+Varianta 2 MPI cu 1000 1000 15 procese a luat 621926
+Varianta 2 cu 1000 1000 187075
+Varianta 2 MPI cu 1000 1000 15 procese a luat 2.00337e+06
+Varianta 2 cu 1000 1000 167969
+Varianta 2 MPI cu 1000 1000 15 procese a luat 3.45639e+06
+Varianta 2 cu 100 100000 7.96969e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.81724e+06
+Varianta 2 cu 100 100000 7.18744e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.86151e+06
+Varianta 2 cu 100 100000 7.15489e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.89106e+06
+Varianta 2 cu 100 100000 7.1631e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 7.47972e+06
+Varianta 2 cu 100 100000 7.47486e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.30319e+06
+Varianta 2 cu 100 100000 7.38922e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.54925e+06
+Varianta 2 cu 100 100000 7.10933e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.53525e+06
+Varianta 2 cu 100 100000 7.14556e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 7.06259e+06
+Varianta 2 cu 100 100000 7.24352e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.0998e+06
+Varianta 2 cu 100 100000 7.42173e+06
+Varianta 2 MPI cu 100 100000 1 procese a luat 6.49421e+06
+Varianta 2 cu 100 100000 8.36985e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 5.02791e+06
+Varianta 2 cu 100 100000 7.61428e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 5.37381e+06
+Varianta 2 cu 100 100000 7.55157e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 5.12066e+06
+Varianta 2 cu 100 100000 7.57696e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 5.38394e+06
+Varianta 2 cu 100 100000 1.39902e+07
+Varianta 2 MPI cu 100 100000 3 procese a luat 9.29865e+06
+Varianta 2 cu 100 100000 7.45233e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 5.08616e+06
+Varianta 2 cu 100 100000 7.64202e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 4.98956e+06
+Varianta 2 cu 100 100000 1.38985e+07
+Varianta 2 MPI cu 100 100000 3 procese a luat 9.37074e+06
+Varianta 2 cu 100 100000 8.07922e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 5.07441e+06
+Varianta 2 cu 100 100000 7.66502e+06
+Varianta 2 MPI cu 100 100000 3 procese a luat 5.07576e+06
+Varianta 2 cu 100 100000 1.35182e+07
+Varianta 2 MPI cu 100 100000 7 procese a luat 8.77146e+06
+Varianta 2 cu 100 100000 8.66566e+06
+Varianta 2 MPI cu 100 100000 7 procese a luat 4.97513e+06
+Varianta 2 cu 100 100000 8.04687e+06
+Varianta 2 MPI cu 100 100000 7 procese a luat 5.33972e+06
+Varianta 2 cu 100 100000 1.33531e+07
+Varianta 2 MPI cu 100 100000 7 procese a luat 8.76896e+06
+Varianta 2 cu 100 100000 1.32132e+07
+Varianta 2 MPI cu 100 100000 7 procese a luat 8.63575e+06
+Varianta 2 cu 100 100000 1.33072e+07
+Varianta 2 MPI cu 100 100000 7 procese a luat 8.67299e+06
+Varianta 2 cu 100 100000 1.336e+07
+Varianta 2 MPI cu 100 100000 7 procese a luat 8.69488e+06
+Varianta 2 cu 100 100000 1.34027e+07
+Varianta 2 MPI cu 100 100000 7 procese a luat 8.73114e+06
+Varianta 2 cu 100 100000 8.32128e+06
+Varianta 2 MPI cu 100 100000 7 procese a luat 4.94568e+06
+Varianta 2 cu 100 100000 1.32327e+07
+Varianta 2 MPI cu 100 100000 7 procese a luat 8.61325e+06
+Varianta 2 cu 100 100000 1.29491e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 8.74072e+06
+Varianta 2 cu 100 100000 1.28356e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 9.78383e+06
+Varianta 2 cu 100 100000 1.31906e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 8.69913e+06
+Varianta 2 cu 100 100000 2.68123e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 3.00525e+07
+Varianta 2 cu 100 100000 1.32826e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 9.27485e+06
+Varianta 2 cu 100 100000 2.38226e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 2.0172e+07
+Varianta 2 cu 100 100000 2.35027e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 1.86543e+07
+Varianta 2 cu 100 100000 2.25457e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 2.07094e+07
+Varianta 2 cu 100 100000 2.77605e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 2.37514e+07
+Varianta 2 cu 100 100000 2.7569e+07
+Varianta 2 MPI cu 100 100000 15 procese a luat 1.81286e+07
+Varianta 2 cu 16 16 26446
+Varianta 2 MPI cu 16 16 3 procese a luat 43147
+Varianta 2 cu 16 16 17410
+Varianta 2 MPI cu 16 16 3 procese a luat 47012

@@ -1,0 +1,9 @@
+{
+    int a, b;
+    cin >> a >> b;
+    int r = a % b;
+    while (b)
+        a = b;
+        b = r;
+    cout << a;
+}
