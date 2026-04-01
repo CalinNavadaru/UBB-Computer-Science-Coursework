@@ -1,0 +1,10 @@
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\obj\Debug\net481\LaboratorDeadlock4.csproj.AssemblyReference.cache
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\obj\Debug\net481\LaboratorDeadlock4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\obj\Debug\net481\LaboratorDeadlock4.AssemblyInfoInputs.cache
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\obj\Debug\net481\LaboratorDeadlock4.AssemblyInfo.cs
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\obj\Debug\net481\LaboratorDeadlock4.csproj.CoreCompileInputs.cache
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\bin\Debug\net481\LaboratorDeadlock4.exe.config
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\bin\Debug\net481\LaboratorDeadlock4.exe
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\bin\Debug\net481\LaboratorDeadlock4.pdb
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\obj\Debug\net481\LaboratorDeadlock4.exe
+C:\Facultate\Materii\SGBD\Laboratoare\LaboratorDeadlock4\LaboratorDeadlock4\obj\Debug\net481\LaboratorDeadlock4.pdb

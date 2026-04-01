@@ -1,0 +1,5 @@
+BEGIN TRAN
+UPDATE Bonusuri SET procent = 100 
+WAITFOR DELAY '00:00:07'
+UPDATE Deductii SET procent = 100
+COMMIT TRAN

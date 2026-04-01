@@ -1,0 +1,10 @@
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\bin\Debug\Laborator2.exe.config
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\bin\Debug\Laborator2.exe
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\bin\Debug\Laborator2.pdb
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\obj\Debug\Laborator2.csproj.AssemblyReference.cache
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\obj\Debug\Laborator2.Properties.Resources.resources
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\obj\Debug\Laborator2.csproj.GenerateResource.cache
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\obj\Debug\Laborator2.csproj.CoreCompileInputs.cache
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\obj\Debug\Laborator2.exe
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\obj\Debug\Laborator2.pdb
+C:\Facultate\Materii\SGBD\Laboratoare\Laborator2\Laborator2\obj\Debug\Laborator2.Form1.resources

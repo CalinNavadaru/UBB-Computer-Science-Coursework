@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Facultate\\Materii\\SGBD\\Laboratoare\\LaboratorDeadlock4\\LaboratorDeadlock4\\LaboratorDeadlock4.csproj": {}
+  },
+  "projects": {
+    "C:\\Facultate\\Materii\\SGBD\\Laboratoare\\LaboratorDeadlock4\\LaboratorDeadlock4\\LaboratorDeadlock4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Facultate\\Materii\\SGBD\\Laboratoare\\LaboratorDeadlock4\\LaboratorDeadlock4\\LaboratorDeadlock4.csproj",
+        "projectName": "LaboratorDeadlock4",
+        "projectPath": "C:\\Facultate\\Materii\\SGBD\\Laboratoare\\LaboratorDeadlock4\\LaboratorDeadlock4\\LaboratorDeadlock4.csproj",
+        "packagesPath": "C:\\Users\\Calin\\.nuget\\packages\\",
+        "outputPath": "C:\\Facultate\\Materii\\SGBD\\Laboratoare\\LaboratorDeadlock4\\LaboratorDeadlock4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Calin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "runtimeIdentifierGraphPath": "C:\\Users\\Calin\\.dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
