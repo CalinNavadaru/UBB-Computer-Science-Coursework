@@ -1,0 +1,12 @@
+%multime(l: list, g: list, rez: list)
+%(i,i,o)
+%(i,i,i)
+multime([],L2, L2):-!.
+multime(L1, [], L1):-!.
+multime([H|T], L2, [H|T2]):-
+    \+ member(H, L2),
+    multime(T, L2, T2).
+
+multime([H|T], L2, T2):-
+    member(H, L2),
+    multime(T, L2, T2).

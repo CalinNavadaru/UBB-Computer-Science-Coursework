@@ -1,0 +1,80 @@
+CREATE TABLE TABLES
+(
+	TableID INT PRIMARY KEY,
+	TableName VARCHAR(50)
+)
+
+CREATE TABLE TESTS
+(
+	TestID INT PRIMARY KEY,
+	TestName VARCHAR(50)
+)
+
+CREATE TABLE TestTable
+(
+	TestID INT FOREIGN KEY REFERENCES TESTS(TestID),
+	TableID INT FOREIGN KEY REFERENCES TABLES(TableID),
+	NumarRanduri INT,
+	Positie INT
+)
+
+CREATE TABLE VIEWS
+(
+	ViewID INT PRIMARY KEY,
+	ViewName VARCHAR(50)
+)
+
+CREATE TABLE TestViews
+(
+	TestID INT FOREIGN KEY REFERENCES TESTS(TestID),
+	ViewID INT FOREIGN KEY REFERENCES VIEWS(ViewID)
+)
+
+CREATE TABLE TestRuns
+(
+	TestRunID INT IDENTITY PRIMARY KEY,
+	Descriere VARCHAR(50),
+	InceputLa DATE,
+	TerminatLa DATE
+)
+
+CREATE TABLE TestRunViews
+(
+	TestRunID INT FOREIGN KEY REFERENCES TestRuns(TestRunID),
+	ViewID INT FOREIGN KEY REFERENCES VIEWS(ViewID),
+	InceputLa DATE,
+	TerminatLa DATE
+)
+
+
+CREATE TABLE TestRunTables
+(
+	TestRunID INT FOREIGN KEY REFERENCES TestRuns(TestRunID),
+	TableID INT FOREIGN KEY REFERENCES TABLES(TableID),
+	InceputLa DATE,
+	TerminatLa DATE
+)
+
+SELECT * FROM Tables
+SELECT * FROM VIEWS
+SELECT * FROM TESTS
+
+INSERT INTO Tables(Name) 
+VALUES ('Angajati'), ('DeductiiAngajati'), ('Deductii')
+
+INSERT INTO Views(Name)
+VALUES ('View_1'), ('View_2'), ('View_3')
+
+DELETE FROM TestViews
+DELETE FROM TestTables
+SELECT * FROM TestViews
+
+INSERT INTO TESTS(Name)
+VALUES ('DI_1'), ('DI_3'), ('DI_2'), ('View_1'),
+		('View_2'), ('View_3')
+
+INSERT INTO TestViews(TestID, ViewID)
+VALUES (4, 1), (5, 2), (6, 3)
+
+INSERT INTO TestTables(TestID, TableID, NoOfRows, Position)
+VALUES (1, 1, 50, 1), (2, 2, 50, 2), (3, 3, 50, 1)

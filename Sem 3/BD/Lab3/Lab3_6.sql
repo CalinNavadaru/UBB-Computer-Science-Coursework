@@ -1,0 +1,6 @@
+CREATE PROCEDURE redo3
+AS
+BEGIN
+	DROP TABLE Ex2
+	print 'Tabel Ex2 sters'
+END

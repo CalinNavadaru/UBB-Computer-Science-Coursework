@@ -1,0 +1,26 @@
+%perechi(E: element, L1: list, Rez:list)
+%(i,i,o), (o, o, i), (i, o, i)
+
+perechi(E, [], []):-!.
+perechi(E, [H|T], [[E, H] | Rez]):-
+    perechi(E, T, Rez).
+
+ali([], L2, L2):-!.
+ali([H|T], Rez, [H | Rez2]):-
+	H \== [],
+	\+ member(H, Rez),
+        !,
+	ali(T, Rez, Rez2).
+
+
+gen_perechi([], []):-!.
+gen_perechi([H], [[H]]):-!.
+gen_perechi([H1, H2], [[H1, H2]]):-!.
+gen_perechi([H|T], Rez2):-
+    perechi(H, T, R),
+    gen_perechi(T, Rez),
+    ali(R, Rez, Rez2).
+
+
+
+

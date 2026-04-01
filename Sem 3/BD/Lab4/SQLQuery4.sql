@@ -1,0 +1,7 @@
+SELECT * FROM Angajati
+
+EXEC DI1
+EXEC DI2
+EXEC DI3
+
+SELECT a.Aid FROM Angajati a WHERE a.Aid = ABS(CHECKSUM(NEWID()) % (10 - 5 + 1)) + 5

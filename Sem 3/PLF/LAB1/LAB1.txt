@@ -1,0 +1,3 @@
+cmmdc(a, b) - a daca b = 0
+	      b daca a = 0
+	      f(b, a % b) altfel

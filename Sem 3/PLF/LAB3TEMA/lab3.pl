@@ -1,0 +1,49 @@
+%multime(L: list, Rez: list)
+%(i, o) - determinist
+%(i, i) - determinist
+multime([H], [H]):-!.
+multime([H|T], [H|Rez]):-
+    \+ member(H, T),
+    !,
+    multime(T, Rez).
+multime([_|T], Rez):-
+    multime(T, Rez).
+
+%lungime(L: list, E: element)
+%(i, o) - determinist
+%(i,i) - determinist
+lungime([], 0):-!.
+lungime([_|T], Rez):-
+    lungime(T, Rez1),
+    Rez is Rez1 + 1.
+%candidat(N: element, R: element)
+%(i, o) - nedeterminist
+candidat(N, N).
+candidat(N, R):-
+    N > 0,
+    N1 is N - 1,
+    candidat(N1, R).
+%f_aux(L: list, S: element, K: element, Rez: list)
+%(i, i, i, o) - nedeterminist
+f_aux([H|_], H, 1, [H]).
+f_aux([_|T], S, K, Rez):-
+    f_aux(T, S, K, Rez).
+f_aux([H|T], S, K, [H | Rez]):-
+    K > 1,
+    S1 is S - H,
+    S1 > 0,
+    K1 is K - 1,
+    f_aux(T, S1, K1, Rez).
+%f(L: list, S: element, Rez: list)
+%(i,i,o) - nedeterminist
+%(i,i,i) - determinist
+f(L, S, Rez):-
+    multime(L, L1),
+    lungime(L1, E),
+    candidat(E, K),
+    f_aux(L, S, K, Rez).
+%rezolvare(L: list, S: element, R: list)
+%(i,i,o) - nedeterminist
+%(i,i,i) - determinist
+rezolvare(L, S, R):-
+    findall(Rez, f(L, S, Rez), R).
