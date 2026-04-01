@@ -1,0 +1,14 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Medicament {
+
+String denumire
+String producator
+String substantaActiva
+
+Object : Medicament()
+
+}
+
+@enduml
