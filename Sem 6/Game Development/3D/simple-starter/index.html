@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>My Enable3d Project</title>
+  <script src="/lib/enable3d/enable3d.framework.0.22.0-dev.1.min.js"></script>
+</head>
+
+<body>
+  <style>
+    * body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  </style>
+
+  <script>
+    const { Project, Scene3D, PhysicsLoader, THREE } = ENABLE3D
+
+    class MainScene extends Scene3D {
+      constructor() {
+        super('MainScene')
+        this.keys = {
+          ArrowUp: false,
+          ArrowDown: false,
+          ArrowLeft: false,
+          ArrowRight: false,
+          Space: false
+        }
+      }
+
+      init() {
+        this.renderer.setPixelRatio(1)
+        this.renderer.setSize(window.innerWidth, window.innerHeight)
+      }
+
+      preload() {
+        console.log('preload')
+      }
+
+      async create() {
+        const { ground, lights } = await this.warpSpeed()
+        const { hemisphereLight, ambientLight, directionalLight } = lights;
+
+        ambientLight.color.set(0x442200);
+        ambientLight.intensity = 0.3;
+
+        hemisphereLight.color.set(0xffffff);
+        hemisphereLight.groundColor.set(0x444444);
+        hemisphereLight.intensity = 0.6;
+
+        directionalLight.color.setHex(0xFFAA55);
+        directionalLight.intensity = 1.5;
+        directionalLight.position.set(-10, 10, 0);
+        this.renderer.shadowMap.enabled = true;
+        directionalLight.castShadow = true;
+        directionalLight.shadow.mapSize.width = 2048;
+        directionalLight.shadow.mapSize.height = 2048;
+        directionalLight.shadow.camera.left = -15;
+        directionalLight.shadow.camera.right = 15;
+        directionalLight.shadow.camera.top = 15;
+        directionalLight.shadow.camera.bottom = -15;
+        this.camera.position.set(10, 10, 20)
+
+        const loader = new THREE.TextureLoader();
+        loader.load('textures/a.jpg', texture => {
+          texture.wrapS = texture.wrapT = THREE.RepeatWrapping
+          texture.repeat.set(10, 10)
+
+          ground.material.map = texture
+          ground.material.needsUpdate = true
+        }, undefined,
+          err => console.error('Eroare la încărcarea texturii:', err));
+
+        const texLoader = new THREE.TextureLoader()
+        texLoader.load(
+          'textures/WoodFloor064.png',
+          texture => {
+            texture.encoding = THREE.sRGBEncoding;
+
+            texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
+            texture.repeat.set(1, 1);
+
+            texture.anisotropy = this.renderer.capabilities.getMaxAnisotropy();
+            texture.minFilter = THREE.LinearMipMapLinearFilter;
+            texture.magFilter = THREE.LinearFilter;
+
+            const mat = new THREE.MeshStandardMaterial({ map: texture });
+
+            const epsilon = 0.00001;
+            const geom = new THREE.SphereGeometry(
+              1,        // rază
+              64,      // segmente longitudinale
+              64,       // segmente latitudinale
+              0,
+              Math.PI * 2 - epsilon,   // φ
+              0,
+              Math.PI - epsilon        // θ
+            );
+
+            const sphere = new THREE.Mesh(geom, mat);
+            sphere.position.set(0, 3, 0);
+            this.scene.add(sphere);
+            this.physics.add.existing(sphere);
+            this.ball = sphere;
+            this.ball.body.setDamping(0.2, 0.2);
+            this.ball.body.setMass(1);
+          },
+          undefined,
+          err => console.error('Eroare textură:', err)
+        );
+
+        this.physics.debug.enable()
+
+
+        window.addEventListener('keydown', e => {
+          if (e.code in this.keys) this.keys[e.code] = true
+        })
+        window.addEventListener('keyup', e => {
+          if (e.code in this.keys) this.keys[e.code] = false
+        })
+      }
+
+      update() {
+
+        if (this.ball) {
+          this.ball.rotation.x += 0.01;
+          this.ball.rotation.y += 0.02;
+        }
+
+        if (!this.ball) return
+
+        const speed = 10
+        let vx = 0, vz = 0
+        let vy = this.ball.body.velocity.y
+        if (this.keys.ArrowLeft) vx = -speed
+        if (this.keys.ArrowRight) vx = speed
+        if (this.keys.ArrowUp) vz = -speed
+        if (this.keys.ArrowDown) vz = speed
+        if (this.keys.Space) vy = speed
+        this.ball.body.setVelocity(vx, vy, vz);
+
+        if (this.ball) {
+          const offset = new THREE.Vector3(10, 10, 20);
+          const desiredCameraPos = this.ball.position.clone().add(offset);
+          this.camera.position.copy(desiredCameraPos);
+          this.camera.lookAt(this.ball.position);
+        }
+      }
+    }
+
+    PhysicsLoader(
+      '/lib/ammo/kripken',
+      () => new Project({ scenes: [MainScene], antialias: true })
+    )
+
+
+  </script>
+</body>
+
+</html>
