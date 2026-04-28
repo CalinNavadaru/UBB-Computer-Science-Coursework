@@ -1,5 +1,7 @@
 # 🎓 University Projects Repository
 
+🎓 University Coursework – Computer Science (UBB)
+
 ## 📌 Description
 This repository centralizes all projects completed for different university courses throughout my bachelor's studies, taught in Romanian.
 
